@@ -2,3 +2,5 @@ streamlit
 plotly
 matplotlib
 seaborn
+networkx
+pyvis
