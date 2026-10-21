@@ -8,10 +8,13 @@
 import json
 from pathlib import Path
 
+import bisect
+
 import folium
 import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
+from matplotlib.colors import to_hex
 from matplotlib.patches import Rectangle
 import streamlit as st
 import streamlit.components.v1 as components
@@ -45,8 +48,8 @@ RAMPS = {
 
 @st.cache_data
 def load():
-    gj = json.loads((HERE / "states.geojson").read_text())
-    df = pd.read_csv(HERE / "state_stats.csv", dtype={"fips": str})
+    gj = json.loads((HERE / "data" / "states.geojson").read_text())
+    df = pd.read_csv(HERE / "data" / "state_stats.csv", dtype={"fips": str})
     keep = {f["properties"]["fips"] for f in gj["features"]
             if f["properties"]["state"] not in DROP}
     gj["features"] = [f for f in gj["features"] if f["properties"]["fips"] in keep]
@@ -96,39 +99,54 @@ bins[-1] = max(bins[-1], float(values.max()))
 if len(bins) < 2:
     bins = [float(values.min()), float(values.max())]
 
-# tiles=None: no basemap at all. CartoDB's tiles now demand an API key and
-# stamp "API KEY REQUIRED" across the map. A basemap is optional for a
-# choropleth anyway -- the states carry the data, and roads and labels
-# underneath them are competition, not context.
-# scrollWheelZoom=False: inside a page, a Leaflet map swallows the scroll
-# wheel and zooms itself, so the reader cannot scroll past it. The +/- buttons
-# still zoom.
-m = folium.Map(location=[39, -98], zoom_start=4, tiles=None,
+# OpenStreetMap needs no API key. CartoDB's tiles now demand one and stamp
+# "API KEY REQUIRED" across the map.
+# scrollWheelZoom=False: inside a page a Leaflet map swallows the scroll wheel
+# and zooms itself, so the reader cannot scroll past it. The +/- buttons work.
+m = folium.Map(location=[39, -98], zoom_start=4, tiles="OpenStreetMap",
                scrollWheelZoom=False)
-cp = folium.Choropleth(
-    geo_data=geojson, data=stats, columns=["fips", column],
-    key_on="feature.properties.fips", bins=bins,
-    fill_color=ramp, fill_opacity=0.8, line_color="white", line_weight=0.5,
-    legend_name=f"{label} ({unit})",
-)
-cp.add_to(m)
 
-# Drop folium's own color bar. It spaces its tick labels by value, so a skewed
-# measure crowds the first four numbers into an unreadable smear at the left.
-# The legend below the map lists the same classes, one per row.
-for key in list(cp._children):
-    if key.startswith("color_map"):
-        del cp._children[key]
+# One GeoJson layer colored by a style_function, rather than folium.Choropleth.
+# Choropleth builds its own color bar and insists every value falls inside the
+# bins it was handed; doing the coloring here keeps both in our hands, and
+# gives a single named layer that the layer control can switch off.
+n_classes = len(bins) - 1
+class_colors = [to_hex(matplotlib.colormaps[ramp](i / max(n_classes - 1, 1)))
+                for i in range(n_classes)]
+value_of = dict(zip(stats["fips"], stats[column]))
 
-# Hovering is the thing a static map cannot do: it puts the number next to the
-# color, so a reader does not have to eyeball the legend.
-lookup = stats.set_index("fips")
+
+def class_of(value):
+    """Which class a value falls into. bisect, so the edges behave."""
+    return min(max(bisect.bisect_left(bins, value) - 1, 0), n_classes - 1)
+
+
+def style(feature):
+    v = value_of.get(feature["properties"]["fips"])
+    return {"fillColor": "#cccccc" if v is None else class_colors[class_of(v)],
+            "color": "white", "weight": 0.5, "fillOpacity": 0.8}
+
+
+# Put the number onto the feature so the tooltip can show it. Hovering is the
+# thing a printed map cannot do: it puts the value beside the color, instead of
+# asking the reader to measure a shade against a legend.
+for _f in geojson["features"]:
+    _v = value_of.get(_f["properties"]["fips"])
+    _f["properties"]["reading"] = "no data" if _v is None else f"{_v:,.1f}"
+
 folium.GeoJson(
     geojson,
-    style_function=lambda _: {"fillOpacity": 0, "weight": 0},
-    tooltip=folium.GeoJsonTooltip(fields=["state"], aliases=[""]),
-    popup=folium.GeoJsonPopup(fields=["state"], aliases=["State"]),
+    name=label,                      # this is the name the layer control shows
+    style_function=style,
+    highlight_function=lambda _: {"weight": 2, "color": "#333333"},
+    tooltip=folium.GeoJsonTooltip(fields=["state", "reading"],
+                                  aliases=["", f"{label}:"]),
 ).add_to(m)
+
+# With one overlay the control is a single checkbox that turns the data off.
+# Worth doing once in class: the basemap underneath is the reminder that a
+# choropleth is a layer drawn over a place, not the place itself.
+folium.LayerControl(collapsed=False).add_to(m)
 
 components.html(m._repr_html_(), height=520)
 
