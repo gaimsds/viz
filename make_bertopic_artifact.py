@@ -28,7 +28,7 @@ UMAP_KW = dict(n_neighbors=15, n_components=5, min_dist=0.0, metric="cosine",
 HDBSCAN_KW = dict(min_cluster_size=25, metric="euclidean",
                   cluster_selection_method="eom")
 # c-TF-IDF runs on THIS vectorizer. Leaving it at the default means no stop-word
-# removal, and then every topic is labelled "the, to, and" -- which is Task 1 of
+# removal, and then every topic is labeled "the, to, and" -- which is Task 1 of
 # the hands-on, demonstrated by accident.
 # token_pattern keeps letters only, so bare numbers such as "92" cannot become a
 # topic term; the extra stop words are Usenet plumbing that survives sklearn's

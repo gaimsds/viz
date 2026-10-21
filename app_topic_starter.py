@@ -25,7 +25,7 @@ from wordcloud import WordCloud
 st.set_page_config(page_title="Week 7 — Text Explorer", layout="wide")
 
 INK = "#2E6E8E"
-GREY = "#cccccc"
+GRAY = "#cccccc"
 ARTIFACT = Path(__file__).resolve().parent / "week7_bertopic.json"
 
 DEFAULT_CORPUS = """the model trains on data and the data shapes what the model can say
@@ -164,7 +164,7 @@ with tab1:
     with right:
         wc = WordCloud(width=800, height=460, background_color="white",
                        prefer_horizontal=0.9,
-                       color_func=lambda *a, **k: INK   # one colour: see caption
+                       color_func=lambda *a, **k: INK   # one color: see caption
                        ).generate_from_frequencies(top.to_dict())
         fig2, ax = plt.subplots(figsize=(8, 4.6))
         ax.imshow(wc, interpolation="bilinear")
@@ -175,8 +175,8 @@ with tab1:
         st.caption("**Word cloud.** Frequency is on area, which Cleveland and "
                    "McGill ranked near the bottom, and position is whatever the "
                    "packing algorithm chose. A long word also takes more space "
-                   "at equal frequency. Every word is drawn in one colour here, "
-                   "because colour in a word cloud usually encodes nothing.")
+                   "at equal frequency. Every word is drawn in one color here, "
+                   "because color in a word cloud usually encodes nothing.")
 
     st.divider()
     st.subheader("What makes one document different: TF–IDF")
@@ -222,7 +222,7 @@ with tab2:
     c1, c2, c3 = st.columns(3)
     n_neighbors = c1.slider("UMAP n_neighbors", 2, 50,
                             min(15, max(2, len(docs) - 1)),
-                            help="How much of the neighbourhood each point sees. "
+                            help="How much of the neighborhood each point sees. "
                                  "Low values keep local detail; high values keep "
                                  "the global shape.")
     min_dist = c2.slider("UMAP min_dist", 0.0, 0.99, 0.1, 0.01,
@@ -253,7 +253,7 @@ with tab2:
              + (["unassigned"] if n_noise else []))
     fig = px.scatter(df, x="x", y="y", color="cluster", hover_name="document",
                      category_orders={"cluster": order},
-                     color_discrete_map={"unassigned": GREY}, height=520)
+                     color_discrete_map={"unassigned": GRAY}, height=520)
     fig.update_traces(marker=dict(size=10, line=dict(width=0.5, color="white")))
     fig.update_layout(xaxis_title=None, yaxis_title=None,
                       xaxis_showticklabels=False, yaxis_showticklabels=False,
@@ -349,7 +349,7 @@ with tab3:
                "projection of embedding space, so treat near and far as a hint, "
                "not a measurement.")
 
-    st.markdown("#### 3. Every document, coloured by topic")
+    st.markdown("#### 3. Every document, colored by topic")
     ddf = pd.DataFrame(art["docs"])
     labels_by_id = {t["topic"]: f"Topic {t['topic']}: {t['label']}" for t in topics}
     ddf["Topic"] = ddf["topic"].map(labels_by_id).fillna("unassigned (−1)")
@@ -363,14 +363,14 @@ with tab3:
         legend_order.append("unassigned (−1)")
     figd = px.scatter(plot_df, x="x", y="y", color="Topic", hover_name="snippet",
                       category_orders={"Topic": legend_order},
-                      color_discrete_map={"unassigned (−1)": GREY}, height=560,
+                      color_discrete_map={"unassigned (−1)": GRAY}, height=560,
                       opacity=0.75)
     figd.update_traces(marker=dict(size=5))
     figd.update_layout(xaxis_title=None, yaxis_title=None,
                        xaxis_showticklabels=False, yaxis_showticklabels=False,
                        margin=dict(l=0, r=0, t=10, b=0))
     st.plotly_chart(figd, use_container_width=True)
-    st.caption(f"UMAP of {p['embedding']} embeddings, 2 components. The grey "
+    st.caption(f"UMAP of {p['embedding']} embeddings, 2 components. The gray "
                f"points are BERTopic's topic −1: the documents HDBSCAN declined "
                f"to assign. Toggle them off and the picture looks much tidier, "
                f"which is exactly why leaving them in is the honest choice.")
@@ -379,7 +379,7 @@ with tab3:
 # TODO (pick one):
 # 1. Tab 1: add a toggle for the minimum document frequency (min_df) and watch
 #    rare terms leave the word cloud.
-# 2. Tab 2: colour the points by a metadata column from your uploaded CSV
+# 2. Tab 2: color the points by a metadata column from your uploaded CSV
 #    instead of by cluster, and see whether the clusters agree with it.
 # 3. Tab 2: add a second HDBSCAN run at a different min_cluster_size and show
 #    the two side by side, the way the Block 2 demo does.

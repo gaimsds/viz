@@ -31,6 +31,17 @@ MEASURES = {
 }
 
 
+# Every name here works in both folium (which draws the map) and matplotlib
+# (which draws the legend swatches), so the two always agree.
+RAMPS = {
+    "OrRd": "sequential", "YlOrRd": "sequential", "YlGnBu": "sequential",
+    "BuPu": "sequential", "Blues": "sequential", "Greens": "sequential",
+    "Purples": "sequential", "viridis": "sequential",
+    "RdBu": "diverging", "RdYlBu": "diverging", "PuOr": "diverging",
+    "Spectral": "diverging",
+}
+
+
 @st.cache_data
 def load():
     gj = json.loads((HERE / "states.geojson").read_text())
@@ -45,21 +56,32 @@ geojson, stats = load()
 
 c1, c2 = st.columns([2, 1])
 label = c1.selectbox("What to map", list(MEASURES))
-k = c2.slider("Number of colour classes", 3, 8, 5)
+k = c2.slider("Number of color classes", 3, 8, 5)
+ramp = c2.selectbox("Color ramp", list(RAMPS),
+                    format_func=lambda r: f"{r}  ({RAMPS[r]})")
 column, unit = MEASURES[label]
 
 scheme = st.radio(
     "How to cut the classes",
     ["Quantiles — equal number of states per class",
-     "Equal interval — equal-width value ranges"],
+     "Equal interval — equal-width value ranges",
+     "Natural breaks (Jenks) — cut where the data has gaps"],
     horizontal=False)
 
 values = stats[column]
 if scheme.startswith("Quantiles"):
     bins = list(values.quantile([i / k for i in range(k + 1)]))
-else:
+elif scheme.startswith("Equal interval"):
     lo, hi = values.min(), values.max()
     bins = [lo + (hi - lo) * i / k for i in range(k + 1)]
+else:
+    # Jenks looks for the cuts that make each class as internally similar as
+    # possible. Unlike the other two it reads the actual values, so it is the
+    # only one of the three that reacts to the shape of the distribution.
+    import mapclassify
+    bins = [float(values.min())] + [float(b)
+                                    for b in mapclassify.NaturalBreaks(
+                                        values.values, k=k).bins]
 # Round the class edges before handing them over: folium prints them straight
 # into the legend, and six-figure numbers at eight classes overlap into an
 # unreadable smear.
@@ -85,12 +107,12 @@ m = folium.Map(location=[39, -98], zoom_start=4, tiles=None,
 cp = folium.Choropleth(
     geo_data=geojson, data=stats, columns=["fips", column],
     key_on="feature.properties.fips", bins=bins,
-    fill_color="OrRd", fill_opacity=0.8, line_color="white", line_weight=0.5,
+    fill_color=ramp, fill_opacity=0.8, line_color="white", line_weight=0.5,
     legend_name=f"{label} ({unit})",
 )
 cp.add_to(m)
 
-# Drop folium's own colour bar. It spaces its tick labels by value, so a skewed
+# Drop folium's own color bar. It spaces its tick labels by value, so a skewed
 # measure crowds the first four numbers into an unreadable smear at the left.
 # The legend below the map lists the same classes, one per row.
 for key in list(cp._children):
@@ -98,7 +120,7 @@ for key in list(cp._children):
         del cp._children[key]
 
 # Hovering is the thing a static map cannot do: it puts the number next to the
-# colour, so a reader does not have to eyeball the legend.
+# color, so a reader does not have to eyeball the legend.
 lookup = stats.set_index("fips")
 folium.GeoJson(
     geojson,
@@ -118,7 +140,7 @@ def fmt(v):
     return f"{v:.1f}"
 
 
-swatches = [matplotlib.colormaps["OrRd"](i / max(len(bins) - 2, 1))
+swatches = [matplotlib.colormaps[ramp](i / max(len(bins) - 2, 1))
             for i in range(len(bins) - 1)]
 chips = "".join(
     f'<span style="display:inline-flex;align-items:center;margin:0 14px 6px 0">'
@@ -128,10 +150,22 @@ chips = "".join(
     for i, c in enumerate(swatches))
 st.markdown(f"**{label}** ({unit})<br>{chips}", unsafe_allow_html=True)
 
-st.caption(f"**{label}**, {scheme.split(' — ')[0].lower()} with {len(bins) - 1} "
-           f"classes. Alaska, Hawaii and Puerto Rico are not shown. "
-           f"Every one of those three statements is a choice someone made, "
-           f"which is why they belong under the map.")
+# Not .lower(): "Jenks" is a surname (George Jenks), so it keeps its capital.
+_scheme_name = scheme.split(" — ")[0]
+st.caption(f"**{label}**, {_scheme_name} with {len(bins) - 1} "
+           f"classes, {ramp} color ramp. Alaska, Hawaii and Puerto Rico are not "
+           f"shown. Every one of those four statements is a choice someone "
+           f"made, which is why they belong under the map.")
+
+if RAMPS[ramp] == "diverging":
+    st.warning(
+        f"**{ramp} is a diverging ramp.** It runs from one hue through a pale "
+        "middle to a different hue, which tells the reader there is a "
+        "meaningful midpoint — a zero, an average, a target. None of the "
+        "measures here has one, so the pale band is falling at whatever value "
+        "the class breaks happen to put it. Diverging ramps are for things "
+        "like change since last year, or distance from the national rate."
+    )
 
 left, right = st.columns(2)
 with left:
@@ -156,7 +190,7 @@ st.info(
 # ------------------------------------------------------------------
 # TODO (pick one):
 # 1. Add a second map beside the first so two measures can be compared at once
-# 2. Colour by rank instead of value, and say what that hides
+# 2. Color by rank instead of value, and say what that hides
 # 3. Add a search box that zooms to a state
 # 4. Swap the tiles (folium.Map(tiles=...)) and judge whether the basemap helps
 #    or competes with the data

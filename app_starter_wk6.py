@@ -2,7 +2,7 @@
 # Run with:  streamlit run app_starter.py
 #
 # The graph below is a live PyVis/vis.js network, not a picture: drag a node and
-# its neighbours follow, hover for its stats, scroll to zoom.
+# its neighbors follow, hover for its stats, scroll to zoom.
 import networkx as nx
 import streamlit as st
 import streamlit.components.v1 as components
@@ -45,7 +45,7 @@ c3.metric("Communities", len(set(community.values())))
 
 # --- Build the interactive network -------------------------------------------
 # Encode the computed structure the way the Block 1 deck did: the layout takes
-# x and y, so degree goes to size and community goes to colour.
+# x and y, so degree goes to size and community goes to color.
 net = Network(height="600px", width="100%", bgcolor="#ffffff",
               font_color="#222222", cdn_resources="in_line", notebook=False)
 
@@ -73,7 +73,7 @@ if layout == "circular":
 
 components.html(net.generate_html(notebook=False), height=620)
 
-st.caption("Size = degree · colour = detected community · hover a node for its "
+st.caption("Size = degree · color = detected community · hover a node for its "
            "betweenness. Drag a node to see the force layout re-settle.")
 
 # ------------------------------------------------------------------
@@ -81,7 +81,7 @@ st.caption("Size = degree · colour = detected community · hover a node for its
 # 1. Add a selectbox that switches node SIZE between degree, betweenness and
 #    closeness centrality. Scale each one so the range stays readable —
 #    betweenness values are small, so something like v * 2000 + 10.
-# 2. Add a text input that highlights one character (colour it differently and
+# 2. Add a text input that highlights one character (color it differently and
 #    enlarge it) so a reader can find someone by name.
 # 3. Betweenness is recomputed on every interaction and is the slow step here.
 #    Move it into its own @st.cache_data function keyed on the degree threshold.
