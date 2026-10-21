@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 
 import bisect
+import copy
 
 import folium
 import matplotlib
@@ -72,80 +73,108 @@ scheme = st.radio(
      "Natural breaks (Jenks) — cut where the data has gaps"],
     horizontal=False)
 
-values = stats[column]
-if scheme.startswith("Quantiles"):
-    bins = list(values.quantile([i / k for i in range(k + 1)]))
-elif scheme.startswith("Equal interval"):
-    lo, hi = values.min(), values.max()
-    bins = [lo + (hi - lo) * i / k for i in range(k + 1)]
-else:
-    # Jenks looks for the cuts that make each class as internally similar as
-    # possible. Unlike the other two it reads the actual values, so it is the
-    # only one of the three that reacts to the shape of the distribution.
-    import mapclassify
-    bins = [float(values.min())] + [float(b)
-                                    for b in mapclassify.NaturalBreaks(
-                                        values.values, k=k).bins]
-# Round the class edges before handing them over: folium prints them straight
-# into the legend, and six-figure numbers at eight classes overlap into an
-# unreadable smear.
-span = values.max() - values.min()
-step = 10 ** max(0, len(str(int(span))) - 2)          # 2 significant figures
-bins = sorted({round(b / step) * step if step > 1 else round(b, 1) for b in bins})
-# Rounding can move the outer edges INSIDE the data, which makes folium reject
-# the whole thing because some state falls in no bin. Clamp them back out.
-bins[0] = min(bins[0], float(values.min()))
-bins[-1] = max(bins[-1], float(values.max()))
-if len(bins) < 2:
-    bins = [float(values.min()), float(values.max())]
+def class_breaks(col, k, scheme):
+    """The class boundaries for one measure, under the chosen scheme."""
+    v = stats[col]
+    if scheme.startswith("Quantiles"):
+        edges = list(v.quantile([i / k for i in range(k + 1)]))
+    elif scheme.startswith("Equal interval"):
+        lo, hi = v.min(), v.max()
+        edges = [lo + (hi - lo) * i / k for i in range(k + 1)]
+    else:
+        # Jenks looks for the cuts that make each class as internally similar
+        # as possible. Unlike the other two it reads the actual values, so it
+        # is the only one of the three that reacts to the distribution's shape.
+        import mapclassify
+        edges = [float(v.min())] + [float(b) for b in
+                                    mapclassify.NaturalBreaks(v.values, k=k).bins]
 
-# OpenStreetMap needs no API key. CartoDB's tiles now demand one and stamp
-# "API KEY REQUIRED" across the map.
+    # Round the edges so the legend reads cleanly, then clamp the outer two
+    # back out: rounding can move them inside the data, and a state in no
+    # class has no color.
+    span = v.max() - v.min()
+    step = 10 ** max(0, len(str(int(span))) - 2)        # 2 significant figures
+    edges = sorted({round(b / step) * step if step > 1 else round(b, 1)
+                    for b in edges})
+    edges[0] = min(edges[0], float(v.min()))
+    edges[-1] = max(edges[-1], float(v.max()))
+    return edges if len(edges) >= 2 else [float(v.min()), float(v.max())]
+
+
+# --- which measures are currently on the map --------------------------------
+# Streamlit re-runs this file top to bottom on every click, so anything that
+# should survive a click has to live in st.session_state.
+if "layers" not in st.session_state:
+    st.session_state["layers"] = []
+if label not in st.session_state["layers"]:
+    st.session_state["layers"].append(label)
+layers = st.session_state["layers"]
+
+bins = class_breaks(column, k, scheme)
+
+if len(layers) > 1:
+    _b1, _b2 = st.columns([3, 1])
+    _b1.caption(f"{len(layers)} measures on the map: " + ", ".join(layers) +
+                ". Switch between them with the radio buttons on the map.")
+    if _b2.button(f"Keep only this one", use_container_width=True):
+        st.session_state["layers"] = [label]
+        st.rerun()
+
+# The basemap is added with control=False so it stays on permanently and does
+# not appear in the layer list. That leaves the list holding only the measures.
 # scrollWheelZoom=False: inside a page a Leaflet map swallows the scroll wheel
 # and zooms itself, so the reader cannot scroll past it. The +/- buttons work.
-m = folium.Map(location=[39, -98], zoom_start=4, tiles="OpenStreetMap",
+m = folium.Map(location=[39, -98], zoom_start=4, tiles=None,
                scrollWheelZoom=False)
-
-# One GeoJson layer colored by a style_function, rather than folium.Choropleth.
-# Choropleth builds its own color bar and insists every value falls inside the
-# bins it was handed; doing the coloring here keeps both in our hands, and
-# gives a single named layer that the layer control can switch off.
-n_classes = len(bins) - 1
-class_colors = [to_hex(matplotlib.colormaps[ramp](i / max(n_classes - 1, 1)))
-                for i in range(n_classes)]
-value_of = dict(zip(stats["fips"], stats[column]))
+folium.TileLayer("OpenStreetMap", control=False).add_to(m)
 
 
-def class_of(value):
-    """Which class a value falls into. bisect, so the edges behave."""
-    return min(max(bisect.bisect_left(bins, value) - 1, 0), n_classes - 1)
+def add_measure(fmap, measure_label, active):
+    """Add one measure as a BASE layer, so the control shows radio buttons.
+
+    Not overlays. These layers are opaque and cover exactly the same 49
+    polygons, so two of them switched on at once would show only the top one
+    with nothing to say which. Radio buttons match what is actually possible:
+    one at a time.
+    """
+    col, _ = MEASURES[measure_label]
+    edges = class_breaks(col, k, scheme)
+    n = len(edges) - 1
+    colors = [to_hex(matplotlib.colormaps[ramp](i / max(n - 1, 1)))
+              for i in range(n)]
+    value_of = dict(zip(stats["fips"], stats[col]))
+
+    def style(feature):
+        v = value_of.get(feature["properties"]["fips"])
+        if v is None:
+            return {"fillColor": "#cccccc", "color": "white", "weight": 0.5,
+                    "fillOpacity": 0.8}
+        i = min(max(bisect.bisect_left(edges, v) - 1, 0), n - 1)
+        return {"fillColor": colors[i], "color": "white", "weight": 0.5,
+                "fillOpacity": 0.8}
+
+    # A fresh copy per layer: the tooltip reads a property off the feature, and
+    # the layers hold different numbers.
+    data = copy.deepcopy(geojson)
+    for f in data["features"]:
+        v = value_of.get(f["properties"]["fips"])
+        f["properties"]["reading"] = "no data" if v is None else f"{v:,.1f}"
+
+    folium.GeoJson(
+        data,
+        name=measure_label,
+        overlay=False,               # base layer -> radio button
+        show=active,                 # the one currently chosen above
+        style_function=style,
+        highlight_function=lambda _: {"weight": 2, "color": "#333333"},
+        tooltip=folium.GeoJsonTooltip(fields=["state", "reading"],
+                                      aliases=["", f"{measure_label}:"]),
+    ).add_to(fmap)
 
 
-def style(feature):
-    v = value_of.get(feature["properties"]["fips"])
-    return {"fillColor": "#cccccc" if v is None else class_colors[class_of(v)],
-            "color": "white", "weight": 0.5, "fillOpacity": 0.8}
+for _lab in layers:
+    add_measure(m, _lab, active=(_lab == label))
 
-
-# Put the number onto the feature so the tooltip can show it. Hovering is the
-# thing a printed map cannot do: it puts the value beside the color, instead of
-# asking the reader to measure a shade against a legend.
-for _f in geojson["features"]:
-    _v = value_of.get(_f["properties"]["fips"])
-    _f["properties"]["reading"] = "no data" if _v is None else f"{_v:,.1f}"
-
-folium.GeoJson(
-    geojson,
-    name=label,                      # this is the name the layer control shows
-    style_function=style,
-    highlight_function=lambda _: {"weight": 2, "color": "#333333"},
-    tooltip=folium.GeoJsonTooltip(fields=["state", "reading"],
-                                  aliases=["", f"{label}:"]),
-).add_to(m)
-
-# With one overlay the control is a single checkbox that turns the data off.
-# Worth doing once in class: the basemap underneath is the reminder that a
-# choropleth is a layer drawn over a place, not the place itself.
 folium.LayerControl(collapsed=False).add_to(m)
 
 components.html(m._repr_html_(), height=520)
@@ -184,9 +213,15 @@ def draw_legend(bins, ramp, title):
     return fig
 
 
-_legend = draw_legend(bins, ramp, f"{label}  ({unit})")
-st.pyplot(_legend)
-plt.close(_legend)
+# One legend per layer on the map. Leaflet switches base layers in the
+# browser, so this script has no way of knowing which one the reader is
+# looking at -- showing every key is the honest answer, and it also lets you
+# compare the class boundaries between measures without switching.
+for _lab in layers:
+    _col, _unit = MEASURES[_lab]
+    _fig = draw_legend(class_breaks(_col, k, scheme), ramp, f"{_lab}  ({_unit})")
+    st.pyplot(_fig)
+    plt.close(_fig)
 
 # Not .lower(): "Jenks" is a surname (George Jenks), so it keeps its capital.
 _scheme_name = scheme.split(" — ")[0]
