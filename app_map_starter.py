@@ -10,8 +10,9 @@ from pathlib import Path
 
 import folium
 import matplotlib
+import matplotlib.pyplot as plt
 import pandas as pd
-from matplotlib.colors import to_hex
+from matplotlib.patches import Rectangle
 import streamlit as st
 import streamlit.components.v1 as components
 
@@ -140,15 +141,34 @@ def fmt(v):
     return f"{v:.1f}"
 
 
-swatches = [matplotlib.colormaps[ramp](i / max(len(bins) - 2, 1))
-            for i in range(len(bins) - 1)]
-chips = "".join(
-    f'<span style="display:inline-flex;align-items:center;margin:0 14px 6px 0">'
-    f'<span style="width:17px;height:17px;background:{to_hex(c)};'
-    f'border:1px solid #888;margin-right:6px"></span>'
-    f'<span style="font-size:0.85rem">{fmt(bins[i])} – {fmt(bins[i+1])}</span></span>'
-    for i, c in enumerate(swatches))
-st.markdown(f"**{label}** ({unit})<br>{chips}", unsafe_allow_html=True)
+def draw_legend(bins, ramp, title):
+    """The legend, drawn with matplotlib.
+
+    This could be hand-written HTML passed to st.markdown with
+    unsafe_allow_html=True, and plenty of Streamlit examples do exactly that.
+    Drawing it instead keeps the app in one language: it is the same
+    matplotlib used for every other figure in this course, it is readable, and
+    there is no markup to get wrong. Reach for unsafe_allow_html only when
+    there is no other way.
+    """
+    n = len(bins) - 1
+    fig, ax = plt.subplots(figsize=(9, 0.9))
+    fig.patch.set_alpha(0)                      # sit on the app's own background
+    for i in range(n):
+        ax.add_patch(Rectangle(
+            (i, 0), 0.92, 1,
+            facecolor=matplotlib.colormaps[ramp](i / max(n - 1, 1)),
+            edgecolor="#888888", linewidth=0.6))
+        ax.text(i + 0.46, -0.3, f"{fmt(bins[i])} - {fmt(bins[i + 1])}",
+                ha="center", va="top", fontsize=8, color="#888888")
+    ax.set_title(title, fontsize=9, loc="left", color="#888888")
+    ax.set_xlim(-0.08, n); ax.set_ylim(-1.3, 1.2); ax.axis("off")
+    return fig
+
+
+_legend = draw_legend(bins, ramp, f"{label}  ({unit})")
+st.pyplot(_legend)
+plt.close(_legend)
 
 # Not .lower(): "Jenks" is a surname (George Jenks), so it keeps its capital.
 _scheme_name = scheme.split(" — ")[0]
