@@ -1,0 +1,2265 @@
+name,city,state,lat,lon,stalls,kw,opened
+"Abbott, TX",Abbott,TX,31.898651,-97.091114,8,250.0,2021-11-24
+"Aberdeen - Churchville Rd, MD",Aberdeen,MD,39.529653,-76.194605,8,250.0,2021-11-10
+"Aberdeen - N Philadelphia Blvd, MD",Aberdeen,MD,39.513592,-76.160226,8,250.0,
+"Aberdeen, MD",Aberdeen,MD,39.498017,-76.231196,8,150.0,2017-09-01
+"Aberdeen, WA",Aberdeen,WA,46.976679,-123.813485,8,150.0,2016-12-22
+"Abilene, KS",Abilene,KS,38.935417,-97.215371,12,250.0,2022-11-15
+"Abingdon - Woodsdale Rd, MD",Abingdon,MD,39.46561,-76.311042,8,250.0,2021-11-13
+"Abingdon, VA",Abingdon,VA,36.712294,-81.928695,8,250.0,
+"Acworth, GA",Acworth,GA,34.075443,-84.652009,12,150.0,2019-08-19
+"Adairsville - Union Grove Rd, GA",Adairsville,GA,34.440386,-84.91532,12,250.0,2022-08-31
+"Adairsville, GA",Adairsville,GA,34.377883,-84.915729,8,250.0,2021-08-17
+"Addison, TX",Addison,TX,32.950179,-96.81853,16,250.0,2022-11-21
+"Aguadilla, PR",Aguadilla,PR,18.43941429,-67.13209925,2,72.0,2021-03-03
+"Aiea, HI",Aiea,HI,21.385583,-157.941632,6,250.0,2021-12-23
+"Alachua, FL",Alachua,FL,29.796918,-82.500844,12,250.0,2022-06-08
+"Alameda - Marina Village Pkwy, CA",Alameda,CA,37.785415,-122.272415,12,250.0,
+"Alameda, CA",Alameda,CA,37.756265,-122.249306,12,150.0,2018-12-15
+"Alamosa, CO",Alamosa,CO,37.4673976,-105.8683603,8,250.0,
+"Albany, GA",Albany,GA,31.62396,-84.215788,12,250.0,2022-08-12
+"Albany, NY",Albany,NY,42.710356,-73.819109,6,120.0,2014-04-30
+"Albert Lea - Happy Trails Lane, MN",Albert Lea,MN,43.657608,-93.318547,8,150.0,2019-08-15
+"Albert Lea, MN",Albert Lea,MN,43.68606,-93.357721,4,120.0,
+"Albuquerque - Lang Ave NE, NM",Albuquerque,NM,35.171811,-106.586584,8,250.0,
+"Albuquerque - Louisiana Blvd NE, NM",Albuquerque,NM,35.104333,-106.566029,16,250.0,2022-03-23
+"Albuquerque, NM",Albuquerque,NM,35.108962,-106.612794,6,150.0,2015-09-04
+"Alcoa, TN",Alcoa,TN,35.764789,-83.97211,12,250.0,
+"Alexandria, LA",Alexandria,LA,31.312424,-92.446436,8,150.0,2016-06-07
+"Alexandria, MN",Alexandria,MN,45.850405,-95.388969,8,250.0,2020-02-14
+"Algonquin, IL",Algonquin,IL,42.171166,-88.336632,12,250.0,2022-07-22
+"Alhambra, CA",Alhambra,CA,34.087069,-118.151192,12,250.0,
+"Alice, TX",Alice,TX,27.749045,-98.06881,11,250.0,2022-08-11
+"Allen, TX",Allen,TX,33.129609,-96.673894,12,250.0,2022-11-30
+"Allentown - Schantz Rd, PA",Allentown,PA,40.57163,-75.616759,12,250.0,2022-05-12
+"Allentown, PA",Allentown,PA,40.588102,-75.559904,16,250.0,2016-01-21
+"Alpharetta (SC), GA",Roswell,GA,34.067199,-84.318835,2,72.0,
+"Alpharetta, GA",Alpharetta,GA,34.071582,-84.275404,10,72.0,2020-01-08
+"Altamonte Springs, FL",Altamonte Springs,FL,28.664414,-81.380274,8,120.0,2018-05-27
+"Altoona, IA",Altoona,IA,41.663503,-93.465484,6,150.0,2019-02-17
+"Altoona, PA",Altoona,PA,40.499647,-78.391352,8,120.0,2018-12-31
+"Alturas, CA",Alturas,CA,41.495424,-120.55978,8,250.0,2021-05-22
+"Alvarado, TX",Burleson,TX,32.464312,-97.264718,10,150.0,2019-12-15
+"Amarillo - E Interstate 40, TX",Amarillo,TX,35.194253,-101.743828,12,250.0,2022-06-24
+"Amarillo, TX",Amarillo,TX,35.189035,-101.931478,8,150.0,2015-11-05
+"Anaheim - E Katella Ave, CA",Anaheim,CA,33.805168,-117.882173,16,250.0,2019-12-24
+"Anaheim - Santa Ana Canyon Rd, CA",Anaheim,CA,33.866724,-117.747373,20,72.0,2019-05-15
+"Anaheim - W Lincoln Ave, CA",Anaheim,CA,33.8321991,-117.9293952,16,250.0,2022-12-08
+"Anderson, CA",Anderson,CA,40.433579,-122.288611,8,250.0,
+"Angola, IN",Angola,IN,41.699048,-85.000326,6,120.0,2013-12-09
+"Ann Arbor, MI",Ann Arbor,MI,42.240687,-83.766265,8,150.0,2015-08-20
+"Annapolis - Buschs Frontage Rd, MD",Annapolis,MD,39.027063,-76.455758,8,250.0,2023-05-09
+"Annapolis, MD",Annapolis,MD,38.980071,-76.540498,8,150.0,
+"Antioch, CA",Antioch,CA,37.963695,-121.737262,10,150.0,2019-03-20
+"Apopka, FL",Apopka,FL,28.6541,-81.4686,8,250.0,2022-04-25
+"Appleton, WI",Appleton,WI,44.301045,-88.416975,8,250.0,2022-12-20
+"Arcadia, CA",Arcadia,CA,34.1378794,-118.0538207,32,250.0,
+"Arcadia, FL",Arcadia,FL,27.209511,-81.837752,8,250.0,2021-12-18
+"Archdale, NC",Archdale,NC,35.899472,-79.946472,8,250.0,2021-03-31
+"Ardmore, OK",Ardmore,OK,34.179106,-97.165632,8,150.0,2015-03-13
+"Arlington - E Bardin Rd, TX",Arlington,TX,32.67022,-97.114009,8,250.0,2023-05-17
+"Arlington, TX",Arlington,TX,32.754659,-97.082823,10,150.0,2017-04-22
+"Arlington, VA",Arlington,VA,38.887481,-77.092956,18,72.0,2019-04-18
+"Arlington, WA",Arlington,WA,48.21237,-122.183551,16,150.0,2017-06-28
+"Arnold, CA",Arnold,CA,38.239119,-120.364891,8,250.0,
+"Arroyo Grande - W Branch Rd, CA",Arroyo Grande,CA,35.126833,-120.595972,8,250.0,2021-06-23
+"Ashburn, GA",Ashburn,GA,31.712344,-83.638266,16,250.0,2022-11-18
+"Ashburn, VA",Ashburn,VA,39.008466,-77.504972,8,250.0,2020-02-20
+"Asheville - 4 S Tunnel Rd, NC",Asheville,NC,35.581912,-82.523642,8,250.0,2023-02-03
+"Asheville - S Tunnel Rd, NC",Asheville,NC,35.584234,-82.523932,8,250.0,2021-05-12
+"Asheville - Thetford St, NC",Asheville,NC,35.484012,-82.557638,12,250.0,2021-10-19
+"Asheville, NC",Asheville,NC,35.531391,-82.604487,12,250.0,2015-12-16
+"Ashland, NH",Ashland,NH,43.698101,-71.640119,8,250.0,2020-08-21
+"Ashland, OH",Ashland,OH,40.859402,-82.268121,12,250.0,
+"Ashland, OR",Ashland,OR,42.182661,-122.662635,24,250.0,
+"Ashland, VA",Ashland,VA,37.745769,-77.472412,8,250.0,2022-04-22
+"Aspen, CO",Aspen,CO,39.204837,-106.858507,8,72.0,2018-07-03
+"Atascadero - El Camino Real, CA",Atascadero,CA,35.527547,-120.703609,8,250.0,
+"Atascadero, CA",Atascadero,CA,35.48656,-120.66633,8,125.0,2013-07-03
+"Athens, AL",Athens,AL,34.785443,-86.942964,8,150.0,2017-05-31
+"Athens, GA",Athens,GA,33.916675,-83.452965,10,150.0,2018-05-18
+"Atkins, VA",Atkins,VA,36.86455,-81.433527,8,250.0,2022-12-22
+"Atlanta - Krog St NE, GA",Atlanta,GA,33.757056,-84.363381,8,250.0,
+"Atlanta - Lenox Rd, GA",Atlanta,GA,33.846445,-84.360194,16,72.0,2018-08-24
+"Atlanta - Peachtree Rd, GA",Atlanta,GA,33.848756,-84.36434,5,72.0,2018-09-01
+"Atlanta, GA",Atlanta,GA,33.793808,-84.397203,30,250.0,2014-12-18
+"Auburn - S College St, AL",Auburn,AL,32.57645,-85.497641,12,250.0,2022-05-12
+"Auburn Hills, MI",Auburn Hills,MI,42.706969,-83.288941,8,150.0,2018-03-23
+"Auburn, AL",Auburn,AL,32.627837,-85.445105,6,150.0,2014-12-23
+"Auburn, CA",Auburn,CA,38.926253,-121.058008,12,250.0,2022-02-03
+"Auburn, MA",Auburn,MA,42.203764,-71.832954,8,150.0,2014-12-29
+"Auburn, WA",Auburn,WA,47.297976,-122.248274,12,150.0,2019-10-22
+"Augusta - Belair Frontage Rd, GA",Augusta,GA,33.481657,-82.130253,10,150.0,2018-12-15
+"Augusta, GA",Augusta,GA,33.515004,-82.044443,8,150.0,2016-06-12
+"Augusta, ME",Augusta,ME,44.34787,-69.786088,8,150.0,2015-12-04
+"Augusta, NJ",Augusta,NJ,41.11941,-74.71296,8,250.0,2022-08-23
+"Aurora - IL-59, IL",Aurora,IL,41.769119,-88.208105,12,250.0,2020-10-30
+"Austin - 5601 Brodie Ln, TX",Austin,TX,30.226235,-97.821991,8,250.0,2022-05-12
+"Austin - Century Oaks Terrace, TX",Austin,TX,30.4023,-97.7247,16,72.0,2020-11-21
+"Austin - E Ben White Blvd, TX",Austin,TX,30.214939,-97.742076,16,250.0,
+"Austin - E SH-71, TX",Austin,TX,30.203577,-97.642507,8,250.0,
+"Austin - FM 969, TX",Austin,TX,30.254984,-97.605605,12,250.0,2022-01-20
+"Austin - Frontage Rd, TX",Austin,TX,30.16287,-97.792063,12,250.0,2021-12-10
+"Austin - Research Blvd, TX",Austin,TX,30.389333,-97.73975,18,72.0,2019-08-28
+"Austin - S Congress Ave, TX",Austin,TX,30.247661,-97.750105,8,250.0,2021-11-23
+"Austin - S Lamar Blvd, TX",Austin,TX,30.233293,-97.793053,12,250.0,2021-12-30
+"Austin - W Slaughter Ln, TX",Austin,TX,30.201658,-97.875979,8,250.0,
+"Austin, TX",Austin,TX,30.329175,-97.706339,8,150.0,2017-11-30
+"Avenel, NJ",Avenel,NJ,40.576793,-74.287572,12,250.0,2022-08-10
+"Aventura - Biscayne Blvd, FL",Aventura,FL,25.970508,-80.141165,8,250.0,2023-02-09
+"Aventura, FL",Aventura,FL,25.956403,-80.143001,35,72.0,2018-05-17
+"Azusa, CA",Azusa,CA,34.1367,-117.9082,16,250.0,
+"Bad Axe, MI",Bad Axe,MI,43.82471,-83.00583,6,250.0,2022-08-25
+"Baileyville, ME",Baileyville,ME,45.123159,-67.348144,8,150.0,2019-09-12
+"Baker (Expansion), CA",Baker,CA,35.262741,-116.081057,56,250.0,
+"Baker - Mojave Pointe Rd, CA",Baker,CA,35.268981,-116.067041,32,250.0,
+"Baker City, OR",Baker City,OR,44.782849,-117.812422,8,150.0,2015-06-25
+"Baker, CA",Baker,CA,35.262495,-116.08079,40,150.0,2017-11-21
+"Bakersfield - Camino Del Rio Ct, CA",Bakersfield,CA,35.382675,-119.047533,12,250.0,
+"Bakersfield - Copus Rd, CA",Kern County,CA,35.094874,-119.040158,20,250.0,2021-06-30
+"Bakersfield - S Enos Ln, CA",Bakersfield,CA,35.266688,-119.253836,12,250.0,2022-09-16
+"Bakersfield, CA",Bakersfield,CA,35.354643,-119.331607,10,150.0,2016-09-29
+"Baltimore - 4901 Boston St, MD",Baltimore,MD,39.276357,-76.553927,8,250.0,
+"Baltimore - Boston Street, MD",Baltimore,MD,39.274972,-76.563528,12,250.0,2020-10-13
+"Baltimore - McHenry Row, MD",Baltimore,MD,39.268454,-76.59925,8,72.0,2018-10-25
+"Baltimore - South Caton Avenue, MD",Halethorpe,MD,39.268888,-76.668933,5,250.0,2021-02-22
+"Bandon, OR",Bandon,OR,43.121854,-124.398942,8,150.0,2016-11-04
+"Bangor - Broadway, ME",Bangor,ME,44.8248,-68.779208,8,250.0,
+"Barnegat, NJ",Barnegat,NJ,39.759418,-74.253461,8,150.0,2019-05-23
+"Barstow - E Main St, CA",Barstow,CA,34.8881,-116.9955,4,72.0,2022-05-27
+"Barstow - E Virginia Way, CA",Barstow,CA,34.8864348,-117.0198947,10,250.0,2022-11-19
+"Barstow - Tanger Way, CA",Barstow,CA,34.8446,-117.0862,20,250.0,2022-05-27
+"Barstow, CA",Barstow,CA,34.849129,-117.085446,16,150.0,2012-11-19
+"Bartonsville, PA",Bartonsville,PA,41.001772,-75.273151,8,250.0,2021-08-24
+"Basking Ridge, NJ",Basking Ridge,NJ,40.655361,-74.529919,8,150.0,2019-07-13
+"Bastrop, TX",Bastrop,TX,30.10603,-97.305318,12,250.0,2022-09-19
+"Batavia, NY",Batavia,NY,43.017313,-78.201531,12,250.0,2022-11-24
+"Baton Rouge - Airline Hwy, LA",Baton Rouge,LA,30.432893,-91.081966,12,250.0,2023-01-27
+"Baton Rouge - Highland Rd, LA",Baton Rouge,LA,30.348888,-91.028019,8,250.0,2023-03-30
+"Baton Rouge, LA",Baton Rouge,LA,30.423892,-91.154637,6,150.0,2015-01-22
+"Battle Creek, MI",Battle Creek,MI,42.26246,-85.17463,12,250.0,
+"Baxter, MN",Baxter,MN,46.378868,-94.256413,8,150.0,2015-10-21
+"Bay City, MI",Bay City,MI,43.622061,-83.932241,8,150.0,2016-09-27
+"Bay Shore, NY",Bay Shore,NY,40.727358,-73.276843,12,250.0,2022-11-26
+"Bay Terrace, NY",Queens,NY,40.779701,-73.776321,8,250.0,
+"Baytown, TX",Baytown,TX,29.801587,-94.997897,12,250.0,2022-05-29
+"Bealeton, VA",Bealeton,VA,38.619784,-77.799832,8,250.0,2021-11-19
+"Bear, DE",Bear,DE,39.632175,-75.660374,8,250.0,2022-11-23
+"Beatty, NV",Beatty,NV,36.913718,-116.754371,8,150.0,2016-02-09
+"Beaumont - Oak Valley Village Cir, CA",Beaumont,CA,33.946913,-117.00056,24,250.0,2022-12-16
+"Beaumont - Walden Rd, TX",Beaumont,TX,30.039029,-94.160606,12,250.0,2022-09-09
+"Beaumont, CA",Beaumont,CA,33.922543,-116.949167,20,250.0,2020-07-02
+"Beaver - 525 W, UT",Beaver,UT,38.2484296,-112.6531868,24,250.0,2021-04-14
+"Beaver Dam, KY",Beaver Dam,KY,37.377254,-86.82612,8,250.0,2021-10-20
+"Beaver, UT",Beaver,UT,38.249149,-112.652524,8,150.0,
+"Beavercreek, OH",Fairborn,OH,39.776163,-84.074435,12,250.0,2023-01-19
+"Beaverton, OR",Beaverton,OR,45.5010128,-122.8096413,12,250.0,2023-01-31
+"Bee Cave - Bee Cave Pkwy, TX",Bee Cave,TX,30.317337,-97.953102,20,250.0,
+"Bee Cave, TX",Bee Cave,TX,30.303714,-97.941726,8,250.0,2022-04-28
+"Bel Air, MD",Bel Air,MD,39.568667,-76.353746,8,250.0,2022-02-09
+"Bell, CA",Bell,CA,33.977915,-118.188681,8,250.0,2021-05-11
+"Bellefonte, PA",Bellefonte,PA,40.913884,-77.738425,8,120.0,2017-12-15
+"Bellevue - NE 8th St, WA",Bellevue,WA,47.617714,-122.196617,8,250.0,
+"Bellevue, WA",Bellevue,WA,47.610717,-122.202226,8,72.0,2021-03-30
+"Beltsville, MD",Beltsville,MD,39.027391,-76.917328,12,250.0,2022-06-03
+"Bemidji, MN",Bemidji,MN,47.492201,-94.907057,8,250.0,2021-07-31
+"Bend - SW Industrial Way, OR",Bend,OR,44.049486,-121.315537,8,250.0,
+"Bend, OR",Bend,OR,44.03563,-121.308473,8,150.0,2016-06-17
+"Bensalem, PA",Bensalem,PA,40.124944,-74.963908,8,250.0,2020-05-19
+"Benson, NC",Benson,NC,35.374508,-78.541871,8,250.0,2022-05-07
+"Benton Harbor, MI",Benton Harbor,MI,42.082115,-86.423841,12,250.0,2021-07-31
+"Berlin, VT",Berlin,VT,44.212532,-72.576462,8,150.0,2016-10-03
+"Bernalillo, NM",Bernalillo,NM,35.326303,-106.567036,8,250.0,
+"Bethany, MO",Bethany,MO,40.265916,-94.015705,6,150.0,2018-12-07
+"Bethel Park, PA",Bethel Park,PA,40.346018,-80.047168,8,250.0,2022-11-22
+"Bethel, ME",Bethel,ME,44.424871,-70.796608,6,250.0,2020-06-24
+"Bethesda - Elm St, MD",Bethesda,MD,38.981159,-77.097958,12,250.0,2022-12-18
+"Bettendorf, IA",Bettendorf,IA,41.591965,-90.462753,12,250.0,2023-05-26
+"Big Pine Key, FL",Big Pine Key,FL,24.673431,-81.356383,8,250.0,2022-09-02
+"Big Rapids, MI",Big Rapids,MI,43.689792,-85.515625,10,150.0,2018-03-09
+"Big Sky, MT",Gallatin Gateway,MT,45.2606761,-111.3062058,8,150.0,2020-07-02
+"Big Spring, TX",Big Spring,TX,32.258114,-101.453323,16,250.0,2022-12-09
+"Big Sur, CA",Big Sur,CA,36.226876,-121.761506,8,72.0,2019-05-24
+"Big Timber, MT",Big Timber,MT,45.836201,-109.943317,4,150.0,2014-10-22
+"Billings - N Frontage Rd, MT",Billings,MT,45.816835,-108.416578,12,250.0,
+"Billings, MT",Billings,MT,45.733716,-108.604573,4,150.0,2014-07-23
+"Binghamton, NY",Binghamton,NY,42.145553,-75.901755,8,150.0,2015-11-01
+"Birmingham, AL",Birmingham,AL,33.525917,-86.806875,8,150.0,2016-11-16
+"Bishop - Rocking W Dr, CA",Bishop,CA,37.377287,-118.4226,24,250.0,
+"Bishop, CA",Bishop,CA,37.360397,-118.396963,12,250.0,2020-11-18
+"Bismarck, ND",Bismarck,ND,46.832972,-100.807222,8,250.0,2020-06-20
+"Black River Falls, WI",Black River Falls,WI,44.294111,-90.826731,11,250.0,
+"Blacksburg, VA",Blacksburg,VA,37.211116,-80.400493,8,250.0,
+"Blaine, MN",Blaine,MN,45.125839,-93.258032,8,250.0,
+"Blaine, WA",Blaine,WA,48.937851,-122.667679,14,150.0,2019-10-11
+"Blakeslee, PA",Blakeslee,PA,41.092297,-75.591828,12,250.0,2022-11-26
+"Blanding, UT",Blanding,UT,37.625553,-109.473841,4,120.0,2014-01-13
+"Bloomington, IN",Bloomington,IN,39.166222,-86.579116,8,250.0,2020-02-25
+"Bloomington, MN",Bloomington,MN,44.861,-93.3124,16,250.0,2022-09-22
+"Bloomsburg, PA",Bloomsburg,PA,41.016143,-76.492616,8,150.0,2016-10-14
+"Blue Ash (SC), OH",Blue Ash,OH,39.224429,-84.383415,8,150.0,
+"Boardman, OR",Boardman,OR,45.841463,-119.684207,8,250.0,2022-06-10
+"Boca Raton, FL",Boca Raton,FL,26.36496,-80.133209,12,250.0,2022-12-09
+"Boise - N Orchard St, ID",Boise,ID,43.612237,-116.244471,8,250.0,
+"Boise, ID",Boise,ID,43.592292,-116.279467,8,150.0,2015-08-07
+"Bolingbrook, IL",Bolingbrook,IL,41.722189,-88.037278,16,250.0,2017-05-31
+"Bonifay, FL",Bonifay,FL,30.760751,-85.685735,8,250.0,
+"Boone, NC",Boone,NC,36.196087,-81.653014,12,250.0,2022-09-12
+"Boonton, NJ",Boonton,NJ,40.907627,-74.3976,10,150.0,2019-12-14
+"Bossier City, LA",Bossier City,LA,32.558941,-93.708548,12,250.0,
+"Boston - Allstate Road, MA",Boston,MA,42.325662,-71.063013,10,72.0,2017-12-03
+"Boston - Boylston Street, MA",Boston,MA,42.34717,-71.081003,8,72.0,2017-09-11
+"Boston - Richard B. Ross Way, MA",Boston,MA,42.344691,-71.099322,8,72.0,2019-04-27
+"Bothell, WA",Bothell,WA,47.767606,-122.191712,10,72.0,2020-07-08
+"Boulder - 28th St, CO",Boulder,CO,40.031566,-105.257368,8,250.0,
+"Boulder City, NV",Boulder City,NV,36.009547,-114.782334,8,250.0,
+"Boulder, CO",Boulder,CO,40.020306,-105.257028,10,150.0,2018-05-30
+"Bowie, MD",Bowie,MD,38.956171,-76.826008,8,250.0,2022-12-22
+"Bowling Green, KY",Bowling Green,KY,36.955196,-86.438854,8,150.0,2016-06-24
+"Boynton Beach, FL",Boynton Beach,FL,26.533567,-80.089394,16,250.0,2022-08-02
+"Bozeman - Max Ave, MT",Bozeman,MT,45.708506,-111.069261,8,250.0,
+"Bozeman, MT",Bozeman,MT,45.700078,-111.062569,4,150.0,2014-10-23
+"Braintree, MA",Braintree,MA,42.222955,-71.021964,8,72.0,2019-07-25
+"Brandon, FL",Brandon,FL,27.9408309,-82.3236485,8,150.0,2014-09-25
+"Brandywine, MD",Brandywine,MD,38.664311,-76.876223,8,250.0,
+"Brattleboro, VT",Brattleboro,VT,42.838443,-72.565798,16,250.0,2015-01-16
+"Brea - S Madrona Ave, CA",Brea,CA,33.919492,-117.902014,24,250.0,2022-10-10
+"Brea, CA",Brea,CA,33.914491,-117.883662,20,250.0,2021-06-28
+"Breezewood - Lincoln Hwy, PA",Breezewood,PA,39.998748,-78.236263,12,250.0,2022-07-04
+"Breezewood, PA",Breezewood,PA,39.999842,-78.238697,8,150.0,2017-08-25
+"Brenham, TX",Brenham,TX,30.140533,-96.400537,8,250.0,
+"Brentwood - Old Hickory Blvd, TN",Brentwood,TN,36.042377,-86.777844,12,250.0,2020-09-06
+"Brentwood, CA",Brentwood,CA,37.9466789,-121.7409128,16,250.0,2021-03-31
+"Brentwood, MO",Brentwood,MO,38.626722,-90.344139,12,250.0,2021-09-30
+"Brewer, ME",Brewer,ME,44.775909,-68.73432,8,150.0,2016-09-02
+"Brewster, NY",Brewster,NY,41.39169,-73.595175,8,250.0,2022-11-23
+"Brick Township, NJ",Brick Township,NJ,40.056372,-74.15166,8,250.0,
+"Bridgewater, NJ",Bridgewater Township,NJ,40.56757,-74.563865,8,250.0,2022-10-13
+"Brighton, CO",Brighton,CO,39.971722,-104.748972,8,250.0,2020-10-08
+"Brinkley, AR",Brinkley,AR,34.904944,-91.200056,8,250.0,2021-03-18
+"Bristol - Euclid Ave, VA",Bristol,VA,36.60191,-82.191436,8,250.0,
+"Bristol, PA",Bristol,PA,40.118187,-74.844438,8,250.0,2023-03-13
+"Bristol, TN",Bristol,TN,36.591697,-82.261339,8,150.0,2017-06-17
+"Bristol, VA",Bristol,VA,36.628538,-82.148888,8,250.0,2021-06-19
+"Broadview Heights - Great Lakes Service Plaza, OH",Broadview Heights,OH,41.291801,-81.670915,8,250.0,
+"Broadview Heights - Towpath Service Plaza, OH",Broadview Heights,OH,41.292244,-81.676134,8,250.0,
+"Bronx - Bay Plaza, NY",Bronx,NY,40.86368,-73.82916,12,72.0,2019-04-11
+"Brooklyn - Atlantic Ave, NY",Brooklyn,NY,40.683738,-73.974953,12,72.0,2019-06-16
+"Brooklyn - Brooklyn Museum, NY",Brooklyn,NY,40.670085,-73.962826,10,72.0,2018-09-29
+"Brooklyn - N 12th Street, NY",Brooklyn,NY,40.721861,-73.956629,4,72.0,2017-10-09
+"Brooklyn, OH",Brooklyn,OH,41.422533,-81.7584885,8,250.0,2021-12-24
+"Brooksville, FL",Brooksville,FL,28.522692,-82.229948,12,250.0,2022-01-12
+"Brownsville - Ruben M Torres Blvd, TX",Brownsville,TX,25.943731,-97.429042,16,250.0,
+"Brownsville, TX",Brownsville,TX,25.950115,-97.488512,8,250.0,2021-03-03
+"Brunswick, GA",Brunswick,GA,31.245874,-81.501667,24,250.0,2020-08-18
+"Brush, CO",Brush,CO,40.270895,-103.62223,8,150.0,2016-12-31
+"Buckeye, AZ",Buckeye,AZ,33.443011,-112.556876,12,250.0,2014-03-20
+"Buellton, CA",Buellton,CA,34.61456,-120.188387,10,150.0,2013-07-13
+"Buena Park (SC), CA",Buena Park,CA,33.863379,-117.99103,8,120.0,
+"Buena Park - Beach Blvd, CA",Buena Park,CA,33.86044,-117.996347,24,72.0,2020-06-17
+"Buffalo Grove, IL",Buffalo Grove,IL,42.168699,-87.923841,12,250.0,2020-11-07
+"Buffalo, NY",Buffalo,NY,42.968673,-78.696128,8,120.0,2015-06-11
+"Buford, GA",Buford,GA,34.061572,-83.994606,10,150.0,2018-11-06
+"Burbank (SC), CA",Burbank,CA,34.174712,-118.300826,6,120.0,
+"Burbank - E Orange Grove Ave, CA",Burbank,CA,34.1813,-118.3107,28,250.0,
+"Burbank - N San Fernando Blvd, CA",Burbank,CA,34.187565,-118.318197,8,250.0,2022-10-14
+"Burbank - N Victory Blvd, CA",Burbank,CA,34.179384,-118.320974,24,250.0,
+"Burbank - North Third St, CA",Burbank,CA,34.18487,-118.311672,20,150.0,2017-09-14
+"Burley, ID",Heyburn,ID,42.56159,-113.790261,8,250.0,2020-07-08
+"Burlington - 9400 Old Hwy 99 N, WA",Burlington,WA,48.509479,-122.337636,12,250.0,
+"Burlington - Marketplace Dr, WA",Burlington,WA,48.4511937,-122.33983,16,250.0,
+"Burlington, MA",Burlington,MA,42.4836,-71.2164,12,250.0,2022-07-28
+"Burlington, NC",Burlington,NC,36.07079,-79.511211,8,120.0,2013-10-16
+"Burlington, NJ",Burlington,NJ,40.101525,-74.793172,8,120.0,2017-09-10
+"Burlington, WA",Burlington,WA,48.509772,-122.338625,10,150.0,2013-07-13
+"Burney, CA",Burney,CA,40.924144,-121.620569,8,250.0,
+"Burr Ridge, IL",Burr Ridge,IL,41.7523,-87.9137,16,250.0,2022-05-24
+"Butte - Grizzly Trl, MT",Butte,MT,46.005253,-112.61086,8,250.0,
+"Butte, MT",Butte,MT,45.981226,-112.507161,6,150.0,2014-12-04
+"Buttonwillow - Cal Club Rd, CA",Buttonwillow,CA,35.497199,-119.554591,16,250.0,2022-09-12
+"Buttonwillow, CA",Buttonwillow,CA,35.400105,-119.397796,10,150.0,2016-01-29
+"Cabazon - Morongo Trail, CA",Cabazon,CA,33.923726,-116.803246,12,250.0,2022-02-09
+"Cabazon, CA",Cabazon,CA,33.93129,-116.820041,16,150.0,2014-12-17
+"Cadillac, MI",Cadillac,MI,44.282551,-85.403096,8,150.0,2015-12-23
+"Calabasas - Commons Way, CA",Calabasas,CA,34.154607,-118.645367,20,250.0,2022-05-12
+"California, MD",California,MD,38.302946,-76.522367,8,250.0,2021-05-13
+"Cambridge, MA",Cambridge,MA,42.368483,-71.076189,8,72.0,2017-12-29
+"Cambridge, OH",Cambridge,OH,40.003569,-81.574967,8,150.0,2017-07-26
+"Camden, DE",Camden,DE,39.108497,-75.54085,8,250.0,
+"Cameron Park, CA",Cameron Park,CA,38.655825,-120.965651,12,250.0,2023-05-12
+"Canoe Creek, FL",Canoe Creek,FL,28.094603,-81.27413,8,250.0,2022-01-08
+"Cape Girardeau, MO",Cape Girardeau,MO,37.348729,-89.598272,8,250.0,2022-03-17
+"Cape May Court House, NJ",Cape May,NJ,39.088417,-74.8215,12,150.0,2019-07-26
+"Capitola, CA",Capitola,CA,36.978527,-121.965848,16,250.0,
+"Carle Place, NY",Carle Place,NY,40.744718,-73.61626,12,250.0,2021-11-18
+"Carlin, NV",Carlin,NV,40.7203,-116.1065,8,250.0,
+"Carlisle, PA",Carlisle,PA,40.233206,-77.119185,8,150.0,2017-09-30
+"Carlsbad - Paseo Del Norte, CA",Carlsbad,CA,33.124351,-117.31912,16,250.0,2021-08-18
+"Carlsbad - Van Allen Way, CA",Carlsbad,CA,33.13507,-117.288012,8,250.0,2023-05-04
+"Carlsbad, CA",Carlsbad,CA,33.084189,-117.266384,26,72.0,2018-09-28
+"Carlton, MN",Carlton,MN,46.664849,-92.477676,8,250.0,2021-08-23
+"Carmel - N Illinois St, IN",Carmel,IN,39.95444,-86.16269,8,250.0,
+"Carmel, IN",Carmel,IN,39.97193,-86.152619,10,150.0,2018-06-21
+"Carson, CA",Carson,CA,33.8333,-118.2599,20,250.0,
+"Cary - Bass Pro Ln, NC",Cary,NC,35.831585,-78.769044,12,250.0,2022-08-05
+"Cary - Tryon Rd, NC",Cary,NC,35.745074,-78.762269,12,250.0,
+"Cary, NC",Cary,NC,35.843605,-78.886448,12,150.0,2019-11-22
+"Casa Grande, AZ",Casa Grande,AZ,32.87888,-111.6817421,6,150.0,2014-09-30
+"Castaic, CA",Castaic,CA,34.452312,-118.61614,12,250.0,2022-08-13
+"Catoosa, OK",Catoosa,OK,36.167631,-95.766044,8,150.0,2016-07-16
+"Cayce, SC",Cayce,SC,33.928112,-81.078255,12,250.0,2023-02-08
+"Cedar City, UT",Cedar City,UT,37.606299,-113.161244,16,250.0,2020-12-23
+"Cedar Park - E Whitestone Blvd, TX",Cedar Park,TX,30.533253,-97.783577,12,250.0,
+"Cedar Park, TX",Cedar Park,TX,30.525402,-97.819337,12,250.0,2021-12-18
+"Cedar Rapids, IA",Cedar Rapids,IA,41.9564935,-91.6579808,8,250.0,2022-04-28
+"Celebration, FL",Kissimmee,FL,28.331356,-81.532453,8,150.0,2019-05-21
+"Centennial, CO",Englewood,CO,39.567218,-104.877928,12,250.0,2020-06-14
+"Centerville, TX",Centerville,TX,31.259556,-95.985289,12,250.0,2021-07-03
+"Central Valley, NY",Central Valley,NY,41.313222,-74.125034,12,250.0,2023-03-28
+"Centralia, WA",Centralia,WA,46.729732,-122.977454,20,150.0,2013-07-17
+"Cerritos - Los Cerritos Center, CA",Cerritos,CA,33.8643904,-118.0915723,20,72.0,2020-09-04
+"Champaign - W Kirby Ave, IL",Champaign,IL,40.09741668253737,-88.294937287131,12,250.0,
+"Champaign, IL",Champaign,IL,40.146209,-88.259884,8,150.0,2016-03-23
+"Chandler, AZ",Chandler,AZ,33.319309,-111.896576,12,250.0,
+"Channelview, TX",Channelview,TX,29.784665,-95.110612,8,150.0,2016-10-10
+"Chantilly, VA",South Riding,VA,38.9137222,-77.4869722,8,250.0,2020-07-15
+"Chapel Hill, NC",Chapel Hill,NC,35.969846,-79.06356,10,250.0,2022-07-27
+"Charleston, SC",Charleston,SC,32.798239,-80.029175,12,250.0,2023-05-01
+"Charleston, WV",Charleston,WV,38.354712,-81.642845,8,150.0,2017-06-11
+"Charlotte - Metropolitan Ave, NC",Charlotte,NC,35.2123,-80.8351,16,250.0,
+"Charlotte - Northlake Centre Pkwy, NC",North Charlotte,NC,35.34726,-80.85921,12,250.0,2021-06-25
+"Charlotte - Providence Rd, NC",Charlotte,NC,35.062335,-80.770842,12,250.0,2022-09-30
+"Charlotte - Toringdon Way, NC",Charlotte,NC,35.069252,-80.842291,12,150.0,2019-11-09
+"Charlotte, NC",Charlotte,NC,35.341213,-80.766023,8,150.0,2015-02-25
+"Charlottesville - Proffit Rd, VA",Charlottesville,VA,38.132266,-78.434391,8,250.0,2021-05-14
+"Charlottesville, VA",Charlottesville,VA,38.067051,-78.492702,8,150.0,2017-09-08
+"Charlton - Eastbound, MA",Charlton,MA,42.139201,-72.025772,8,250.0,2021-06-15
+"Charlton - Westbound, MA",Charlton,MA,42.156788,-71.962909,8,250.0,2021-06-15
+"Chatsworth - Mason Ave, CA",Chatsworth,CA,34.248337,-118.580016,20,250.0,
+"Chatsworth, CA",Chatsworth,CA,34.23802,-118.589407,8,250.0,
+"Chattanooga - Hamilton Place Blvd, TN",Chattanooga,TN,35.036667,-85.16009,12,250.0,2022-09-02
+"Chattanooga - Manufacturers Rd, TN",Chattanooga,TN,35.063323,-85.314938,12,250.0,2023-05-31
+"Chattanooga, TN",Chattanooga,TN,35.038644,-85.19593,6,150.0,2014-09-04
+"Cheektowaga, NY",Buffalo,NY,42.90741,-78.762239,8,250.0,2020-02-08
+"Chehalis, WA",Chehalis,WA,46.679783,-122.977105,8,250.0,2023-02-01
+"Cherry Hill - Haddonfield Rd, NJ",Cherry Hill,NJ,39.925886,-75.032423,8,250.0,2021-05-21
+"Cherry Hill - Walt Whitman, NJ",Cherry Hill,NJ,39.885339,-75.002825,8,250.0,
+"Chesapeake, VA",Chesapeake,VA,36.657929,-76.224462,8,250.0,2021-11-24
+"Chester Springs, PA",Chester Springs,PA,40.075235,-75.686034,12,250.0,2022-11-12
+"Chester, VA",Chester,VA,37.367323,-77.416947,8,150.0,2017-09-20
+"Chesterton, IN",Chesterton,IN,41.617607,-87.044702,12,250.0,2023-03-15
+"Chestertown, NY",Chestertown,NY,43.665802,-73.784266,6,250.0,2020-03-05
+"Chestnut Hill, MA",Chestnut Hill,MA,42.322031,-71.172395,8,150.0,2020-01-10
+"Chevy Chase, MD",Chevy Chase,MD,38.996112,-77.075633,12,250.0,2022-07-05
+"Cheyenne, WY",Cheyenne,WY,41.161085,-104.804955,4,120.0,2014-01-20
+"Chicago - N Elston Ave, IL",Chicago,IL,41.928,-87.685478,12,250.0,2021-05-31
+"Chicago - North Broadway, IL",Chicago,IL,41.937338,-87.644666,8,72.0,2018-01-31
+"Chicago - North Columbus Drive, IL",Chicago,IL,41.886458,-87.620262,10,72.0,2017-09-11
+"Chicago - North Halsted, IL",Chicago,IL,41.908043,-87.647839,10,72.0,2018-08-02
+"Chicago - OHare, IL",Chicago,IL,41.99870660096533,-87.888457775115,14,150.0,2020-07-02
+"Chicago - S Pulaski Rd, IL",Chicago,IL,41.8133,-87.72189,12,250.0,2022-10-31
+"Chicago - South Canal Street, IL",Chicago,IL,41.869126,-87.639971,14,72.0,2018-02-02
+"Chico, CA",Chico,CA,39.726633,-121.802538,18,150.0,2019-06-19
+"Chicopee, MA",Chicopee,MA,42.174804,-72.578159,12,250.0,2021-10-26
+"Childress, TX",Childress,TX,34.432426,-100.218676,8,150.0,2016-10-19
+"Chillicothe, OH",Chillicothe,OH,39.35835,-82.977277,8,250.0,2020-09-12
+"Chino - Central Ave, CA",Chino,CA,34.032585,-117.690184,12,250.0,
+"Chino Hills, CA",Chino Hills,CA,34.002163,-117.731326,16,250.0,2021-07-21
+"Chino, CA",Chino,CA,34.027566,-117.688205,38,250.0,
+"Chipley, FL",Chipley,FL,30.751833,-85.551682,8,250.0,2023-04-19
+"Chowchilla, CA",Chowchilla,CA,37.126287,-120.247428,12,250.0,2023-04-27
+"Chugiak, AK",Chugiak,AK,61.403462,-149.46797,8,250.0,2022-11-07
+"Chula Vista - Showroom Pl, CA",Chula Vista,CA,32.651478,-116.954543,16,250.0,2023-02-21
+"Chula Vista - Telegraph Canyon Rd, CA",Chula Vista,CA,32.628946,-117.041103,12,250.0,2022-12-04
+"Chula Vista, CA",Chula Vista,CA,32.649168,-116.9676,16,250.0,2020-08-04
+"Cincinnati, OH",Cincinnati,OH,39.162833,-84.426528,10,150.0,2018-12-23
+"Cisco Grove, CA",Cisco Grove,CA,39.308967,-120.545004,20,250.0,
+"Cisco, TX",Cisco,TX,32.374263,-99.007197,8,150.0,2016-08-19
+"City of Industry - Gale Ave, CA",City of Industry,CA,33.994605,-117.899677,20,250.0,2021-07-03
+"City of Newark, DE",Newark,DE,39.684881,-75.733292,8,250.0,
+"Clackamas, OR",Clackamas,OR,45.431963,-122.572314,12,250.0,
+"Clare, MI",Clare,MI,43.820359,-84.76675,8,150.0,2019-05-19
+"Clark, NJ",Clark,NJ,40.627689,-74.301528,12,250.0,
+"Clarksburg, NJ",Millstone,NJ,40.15767,-74.430151,8,250.0,2020-12-15
+"Claymont - Philadelphia Pike, DE",Claymont,DE,39.794717,-75.469534,8,250.0,2020-10-28
+"Claymont, DE",Claymont,DE,39.817478,-75.457282,8,150.0,2018-06-06
+"Claysburg, PA",Claysburg,PA,40.273656,-78.459913,8,250.0,2022-11-04
+"Clayton, NM",Clayton,NM,36.449444,-103.182028,8,250.0,2021-04-02
+"Cle Elum - W Davis St, WA",Cle Elum,WA,47.195259,-120.956232,8,250.0,
+"Cle Elum, WA",Cle Elum,WA,47.189278,-120.902553,12,150.0,2018-12-08
+"Clearwater - Largo, FL",Clearwater,FL,27.915528,-82.728291,8,250.0,
+"Clearwater, FL",Clearwater,FL,28.013295,-82.736244,8,250.0,2020-02-18
+"Clearwater, MN",Clearwater,MN,45.411899,-94.054852,8,150.0,2016-12-22
+"Clemmons, NC",Clemmons,NC,36.030526,-80.381435,12,250.0,2023-01-04
+"Cleveland - Euclid Ave, OH",Cleveland,OH,41.504182,-81.63245,12,250.0,2023-03-20
+"Cleveland - W 150th St, OH",Cleveland,OH,41.43802,-81.800282,12,250.0,
+"Clinton Corners, NY",Clinton Corners,NY,41.825464,-73.770719,8,150.0,2018-01-17
+"Clinton, NJ",Clinton,NJ,40.633853,-74.937703,8,250.0,
+"Clovis, CA",Clovis,CA,36.836939,-119.6982,12,250.0,2021-03-19
+"Clovis, NM",Clovis,NM,34.440923,-103.196871,8,250.0,
+"Clyde, TX",Clyde,TX,32.417468,-99.526532,20,250.0,2022-08-17
+"Coalinga, CA",Coalinga,CA,36.253519,-120.240461,80,250.0,2022-12-15
+"Cockeysville, MD",Cockeysville,MD,39.466015,-76.636285,8,250.0,
+"Cocoa, FL",Cocoa,FL,28.355525,-80.741754,12,250.0,
+"Coeur d'Alene, ID",Coeur d'Alene,ID,47.708479,-116.794283,14,250.0,2015-03-04
+"Colby, KS",Colby,KS,39.361357,-101.054063,10,150.0,2017-10-02
+"Colfax, NC",Colfax,NC,36.095012,-79.994674,8,250.0,2021-04-08
+"College Station - Texas Ave S, TX",College Station,TX,30.612968,-96.31709,8,250.0,2022-12-13
+"Collinsville, IL",Collinsville,IL,38.67344,-90.013486,8,250.0,2021-06-18
+"Colonial Heights, VA",Colonial Heights,VA,37.305593,-77.409675,8,250.0,2022-05-06
+"Colonie, NY",Colonie,NY,42.766414,-73.755044,8,250.0,
+"Colorado Springs - Forest Bluffs, CO",Colorado Springs,CO,38.965808,-104.785785,16,250.0,2023-04-07
+"Colorado Springs, CO",Colorado Springs,CO,38.837573,-104.824907,8,150.0,2015-12-29
+"Columbia - Harbison Blvd, SC",Columbia,SC,34.0729,-81.155649,16,250.0,2022-08-01
+"Columbia - Town Center Place, SC",Columbia,SC,34.126889,-80.8779862,12,250.0,2023-01-19
+"Columbia - W Broadway, MO",Columbia,MO,38.954387,-92.383074,12,250.0,2021-12-23
+"Columbia, MO",Columbia,MO,38.957816,-92.252773,8,150.0,2015-09-11
+"Columbia, NJ",Columbia,NJ,40.933846,-75.100997,8,250.0,2021-11-16
+"Columbia, SC",Columbia,SC,34.106319,-80.950723,8,150.0,2016-11-15
+"Columbus - E Campus View Blvd, OH",Columbus,OH,40.117451,-83.010743,16,250.0,
+"Columbus - Hilliard Rome Rd, OH",Columbus,OH,39.9831,-83.1529,12,250.0,2023-05-12
+"Columbus - W 3rd Ave, OH",Columbus,OH,39.984603,-83.026371,8,250.0,
+"Columbus, GA",Columbus,GA,32.533485,-84.971362,12,250.0,2021-04-20
+"Columbus, OH",Columbus,OH,39.974472,-83.00092,10,72.0,2019-02-15
+"Columbus, TX",Columbus,TX,29.690062,-96.537725,6,120.0,2013-10-07
+"Commerce - Telegraph Rd, CA",Commerce,CA,33.998539,-118.146359,40,250.0,2023-03-23
+"Commerce, CA",Commerce,CA,34.006382,-118.148878,20,250.0,2021-07-13
+"Compton, CA",Compton,CA,33.8789,-118.2193,12,250.0,
+"Concord - Diamond Blvd, CA",Concord,CA,37.969947,-122.058491,16,250.0,2021-01-15
+"Concord, CA",Concord,CA,37.970453,-122.058384,19,150.0,2018-03-02
+"Concord, NH",Concord,NH,43.289094,-71.579011,12,250.0,2022-02-15
+"Concordia, MO",Concordia,MO,38.989771,-93.566975,8,250.0,2021-06-11
+"Coney Island, NY",Brooklyn,NY,40.581652,-73.985056,12,250.0,
+"Conifer, CO",Conifer,CO,39.544083,-105.289972,8,250.0,2020-09-05
+"Conshohocken, PA",Conshohocken,PA,40.094384,-75.308501,12,250.0,2023-05-26
+"Converse, TX",Converse,TX,29.46409,-98.289075,12,250.0,
+"Cookeville, TN",Cookeville,TN,36.155848,-85.515211,8,120.0,2017-10-23
+"Coos Bay, OR",Coos Bay,OR,43.366374,-124.215473,8,250.0,
+"Copiague, NY",Copiague,NY,40.688444,-73.4055,8,250.0,2020-02-27
+"Copper Mountain, CO",Frisco,CO,39.505696,-106.14114,8,250.0,
+"Copperopolis, CA",Copperopolis,CA,37.972864,-120.653276,12,250.0,2021-03-31
+"Coralville, IA",Coralville,IA,41.680372,-91.591467,8,150.0,2016-09-29
+"Cordele, GA",Cordele,GA,31.963626,-83.766165,11,250.0,2021-08-27
+"Cordes Lakes, AZ",Mayer,AZ,34.327131,-112.118432,8,150.0,2014-10-14
+"Corning, CA",Corning,CA,39.926454,-122.198393,6,150.0,2013-10-18
+"Corona, CA",Corona,CA,33.826338,-117.515411,20,72.0,2019-03-30
+"Corpus Christi, TX",Corpus Christi,TX,27.709319,-97.368357,12,250.0,2022-06-30
+"Corsicana, TX",Corsicana,TX,32.068577,-96.448229,10,150.0,2013-11-15
+"Corte Madera, CA",Corte Madera,CA,37.928278,-122.514823,10,72.0,2019-02-12
+"Costa Mesa - Hyland Ave, CA",Costa Mesa,CA,33.692874,-117.92514,8,250.0,2023-04-10
+"Cottondale, AL",Cottondale,AL,33.175259,-87.449694,8,250.0,2022-02-18
+"Cottonwood, CA",Cottonwood,CA,40.389145,-122.288208,12,250.0,2022-05-04
+"Council Bluffs, IA",Council Bluffs,IA,41.220935,-95.835622,8,150.0,2015-03-11
+"Country Club Hills, IL",Country Club Hills,IL,41.584927,-87.721062,8,150.0,2014-11-08
+"Covina, CA",Covina,CA,34.074003,-117.880695,16,250.0,
+"Covington, LA",Covington,LA,30.443505,-90.141137,12,250.0,2022-10-27
+"Craig, CO",Craig,CO,40.513995,-107.538785,8,250.0,2021-02-12
+"Cranberry Township - US 19, PA",Cranberry Twp,PA,40.6821667,-80.1018333,12,250.0,2022-12-16
+"Cranberry Township, PA",Cranberry Township,PA,40.683982,-80.10839,6,150.0,2014-04-04
+"Cranbury, NJ",Cranbury,NJ,40.32244,-74.4869,8,250.0,2015-07-09
+"Cranford, NJ",Cranford,NJ,40.658207,-74.287872,12,250.0,2022-06-22
+"Crawfordville, FL",Crawfordville,FL,30.106972,-84.379597,8,250.0,2023-03-23
+"Crescent City, CA",Crescent City,CA,41.752393,-124.1944,6,150.0,2016-09-08
+"Crestview, FL",Crestview,FL,30.733386,-86.566733,8,250.0,2021-02-17
+"Creswell, OR",Creswell,OR,43.916972,-123.013799,8,250.0,2023-01-24
+"Crossville - Genesis Rd, TN",Crossville,TN,35.979515,-85.015308,16,250.0,2023-02-04
+"Crossville, TN",Crossville,TN,35.985369,-85.010956,8,250.0,2021-10-16
+"Crystal River, FL",Crystal River,FL,28.899556,-82.586778,8,250.0,2021-05-06
+"Culver City - 11924 Washington Blvd, CA",Los Angeles,CA,33.997487,-118.421155,8,250.0,2022-02-17
+"Culver City - Raintree Plaza, CA",Culver City,CA,34.001681,-118.393103,12,250.0,
+"Culver City - Washington Blvd, CA",Culver City,CA,34.027046,-118.388416,8,250.0,2021-09-23
+"Culver City, CA",Culver City,CA,33.986779,-118.390213,16,150.0,2014-12-18
+"Cumberland, MD",Cumberland,MD,39.649685,-78.770171,4,250.0,2023-05-25
+"Cupertino - Stevens Creek Blvd, CA",Cupertino,CA,37.324722,-122.03684,28,250.0,2020-11-17
+"Cupertino, CA",Cupertino,CA,37.324372,-122.009179,10,150.0,2018-03-29
+"Custer, SD",Custer,SD,43.767498,-103.594306,8,150.0,2018-05-11
+"Cutler Bay, FL",Cutler Bay,FL,25.598305,-80.37199,8,250.0,2021-10-30
+"Cypress, CA",Cypress,CA,33.804336,-118.044231,16,250.0,2023-04-06
+"D'Iberville, MS",D'Iberville,MS,30.459066,-88.893288,12,250.0,2021-04-06
+"Daleville, VA",Daleville,VA,37.410024,-79.914045,8,250.0,
+"Dallas - Mountain Creek Pkwy, TX",Dallas,TX,32.672295,-96.968805,8,250.0,
+"Dallas - N Westmoreland Rd, TX",Dallas,TX,32.770979,-96.873497,8,250.0,
+"Dallas - Park Ln, TX",Dallas,TX,32.867639,-96.767245,16,250.0,2021-11-17
+"Dallas - S Riverfront Blvd, TX",Dallas,TX,32.767263,-96.807846,10,250.0,2022-08-31
+"Dallas - The Hill, TX",Dallas,TX,32.881155,-96.769519,12,72.0,2018-04-19
+"Daly City - Bryant St, CA",Daly City,CA,37.688188,-122.473605,32,250.0,
+"Daly City - Mission St, CA",Daly City,CA,37.696548,-122.463229,12,250.0,
+"Daly City, CA",Daly City,CA,37.673998,-122.472257,40,72.0,2018-10-05
+"Danbury, CT",Danbury,CT,41.379222,-73.477689,10,150.0,2018-05-15
+"Danvers, MA",Danvers,MA,42.585318,-70.96587,12,250.0,2023-05-19
+"Darien - Northbound, CT",Darien,CT,41.080321,-73.461365,10,250.0,2013-06-19
+"Darien - Southbound, CT",Darien,CT,41.067299,-73.504926,12,250.0,2013-06-19
+"Dartmouth, MA",Dartmouth,MA,41.642293,-70.99753,12,250.0,2022-05-14
+"Dateland, AZ",Dateland,AZ,32.798797,-113.540003,40,250.0,2023-04-01
+"Davenport, FL",Davenport,FL,28.258509,-81.590088,12,250.0,2021-05-25
+"Davenport, IA",Davenport,IA,41.575888,-90.513526,8,150.0,2016-10-21
+"Davie, FL",Davie,FL,26.0923282,-80.2496536,8,250.0,2021-11-19
+"Davis, CA",Davis,CA,38.542553,-121.725827,16,250.0,2021-01-20
+"Dayton, OH",Dayton,OH,39.858702,-84.277027,8,150.0,2014-11-11
+"Daytona Beach - Gateway North Dr, FL",Daytona Beach,FL,29.223265,-81.09972,12,250.0,2022-11-19
+"Daytona Beach, FL",Daytona Beach,FL,29.183314,-81.07889,12,250.0,2020-10-26
+"DeFuniak Springs, FL",DeFuniak Springs,FL,30.720702,-86.116677,5,150.0,2015-01-09
+"Decatur (SC), GA",Decatur,GA,33.793217,-84.285379,4,120.0,
+"Decatur - E Ponce de Leon Ave, GA",Decatur,GA,33.776189,-84.295612,16,250.0,2023-03-22
+"Dedham (SC), MA",Dedham,MA,42.236417,-71.17825,8,120.0,2015-08-08
+"Dedham - 100 Providence Hwy, MA",Dedham,MA,42.260254,-71.168939,12,250.0,
+"Deerfield Beach, FL",Deerfield Beach,FL,26.317736,-80.119643,8,250.0,2020-02-25
+"Del Valle, TX",Del Valle,TX,30.172397,-97.630394,8,250.0,2022-04-01
+"Delray Beach - W Atlantic Ave, FL",Delray Beach,FL,26.45468,-80.161252,8,250.0,
+"Delray Beach, FL",Delray Beach,FL,26.455815,-80.190072,18,120.0,2018-07-01
+"Deltona, FL",Deltona,FL,28.9498974,-81.2508045,8,250.0,2020-04-25
+"Deming, NM",Deming,NM,32.281357,-107.760281,8,150.0,2017-11-18
+"Denison, TX",Denison,TX,33.793806,-96.554709,8,250.0,2021-11-24
+"Denton - S I-35 E, TX",Denton,TX,33.178819,-97.101846,8,250.0,2023-05-22
+"Denton, TX",Denton,TX,33.231403,-97.166419,6,150.0,2015-11-04
+"Denver - 5940 Tower Rd, CO",Denver,CO,39.80408,-104.770869,16,250.0,
+"Denver - 6691 Tower Rd, CO",Denver,CO,39.817784,-104.772242,8,250.0,
+"Denver - E 45th Ave, CO",Denver,CO,39.778341,-104.848415,8,250.0,2023-04-07
+"Denver - Pontiac St, CO",Denver,CO,39.717869,-104.9057064,16,250.0,2021-10-05
+"Denver, CO",Denver,CO,39.775259,-104.794674,10,150.0,2014-11-08
+"Denver, PA",Bowmansville,PA,40.202902,-76.015953,8,250.0,2021-07-16
+"Deptford, NJ",Deptford,NJ,39.833413,-75.097737,12,150.0,2020-07-29
+"Des Moines, IA",Des Moines,IA,41.652488,-93.620937,8,250.0,2022-02-06
+"Destin, FL",Destin,FL,30.390504,-86.479102,12,250.0,
+"Detroit Lake, OR",Detroit,OR,44.737025,-122.152108,6,150.0,2013-12-23
+"Detroit, MI",Detroit,MI,42.445534,-83.11792,12,250.0,2022-08-09
+"Diamond Bar, CA",Diamond Bar,CA,33.97577,-117.838484,24,250.0,2021-12-04
+"Dickinson, ND",Dickinson,ND,46.901222,-102.790822,8,250.0,2020-06-17
+"Dickson, TN",Dickson,TN,36.018349,-87.332955,8,150.0,2017-09-20
+"District Heights, MD",District Heights,MD,38.861631,-76.918594,8,250.0,2023-05-16
+"Dixon, CA",Dixon,CA,38.457893,-121.839806,12,250.0,
+"Dobbs Ferry, NY",Dobbs Ferry,NY,41.003783,-73.85642,12,250.0,2022-09-02
+"Doral - NW 25th St, FL",Doral,FL,25.796437,-80.35376,8,250.0,
+"Doral, FL",Doral,FL,25.80622,-80.337826,8,250.0,2021-12-27
+"Dothan, AL",Dothan,AL,31.212985,-85.361437,12,250.0,2022-12-07
+"Douglasville, GA",Douglasville,GA,33.726907,-84.735784,12,250.0,2021-05-16
+"Dover - Forest St, DE",Dover,DE,39.158384,-75.558542,8,250.0,
+"Dover, DE",Dover,DE,39.19477,-75.54729,8,120.0,2019-01-12
+"Downey - Lakewood Blvd, CA",Downey,CA,33.953335,-118.112914,12,72.0,2018-05-24
+"Downey - Stonewood St, CA",Downey,CA,33.934643,-118.12117,12,72.0,2018-06-30
+"Downingtown, PA",Downingtown,PA,40.012206,-75.721504,8,250.0,2022-12-13
+"Dows, IA",Dows,IA,42.673838,-93.462294,8,150.0,2017-06-30
+"Doylestown, PA",Doylestown,PA,40.300112,-75.127537,8,250.0,2021-03-26
+"Draper, UT",Draper,UT,40.526531,-111.88591,12,250.0,2021-03-10
+"Dublin - Amador Plaza, CA",Dublin,CA,37.703183,-121.925327,16,150.0,2015-10-17
+"Dublin - Amador Valley Blvd, CA",Dublin,CA,37.7066,-121.9348,12,250.0,
+"Dublin - Dublin Blvd, CA",Dublin,CA,37.703993,-121.852249,10,150.0,2021-10-29
+"Dublin, GA",Dublin,GA,32.490203,-82.93261,12,250.0,2022-09-29
+"Dublin, OH",Dublin,OH,40.0930008,-83.0936558,10,150.0,2018-09-16
+"Dubuque, IA",Dubuque,IA,42.48773,-90.663624,8,150.0,2018-05-02
+"Duluth, GA",Duluth,GA,34.0004,-84.169,12,250.0,2022-05-13
+"Duluth, MN",Duluth,MN,46.784467,-92.10232,4,150.0,2015-07-17
+"Dunkirk, MD",Dunkirk,MD,38.717658,-76.660754,8,250.0,
+"Dunnigan, CA",Dunnigan,CA,38.862861,-121.951538,8,250.0,2022-11-24
+"Durham, NC",Durham,NC,35.953056,-78.991056,12,250.0,2021-06-15
+"Dwight, IL",Dwight,IL,41.093395,-88.442109,8,250.0,2021-10-03
+"Eagan, MN",Eagan,MN,44.795144,-93.205603,12,250.0,
+"Early, TX",Early,TX,31.733201,-98.968053,8,250.0,
+"East Brunswick - State Route 18, NJ",East Brunswick,NJ,40.424107,-74.380069,16,150.0,2019-06-21
+"East Brunswick, NJ",East Brunswick,NJ,40.415973,-74.444706,8,250.0,
+"East Greenwich - Division St, RI",Warwick,RI,41.664068,-71.492369,8,250.0,
+"East Greenwich, RI",East Greenwich,RI,41.660517,-71.497242,8,150.0,2014-01-06
+"East Hampton, NY",East Hampton,NY,40.965501,-72.189633,12,250.0,2022-03-27
+"East Haven, CT",East Haven,CT,41.286296,-72.877392,12,250.0,2023-03-28
+"East Palo Alto - E Bayshore Rd, CA",East Palo Alto,CA,37.460392,-122.138404,20,250.0,
+"East Palo Alto, CA",East Palo Alto,CA,37.459659,-122.137651,20,72.0,2018-07-02
+"East Point, GA",East Point,GA,33.658708,-84.50122,12,250.0,2021-03-30
+"East Rutherford, NJ",East Rutherford,NJ,40.811556,-74.064862,16,250.0,2022-12-22
+"East Templeton, MA",Templeton,MA,42.561164,-72.040773,8,250.0,2022-09-12
+"East Windsor, NJ",East Windsor,NJ,40.345495,-74.483726,16,250.0,
+"Easton, MD",Easton,MD,38.759257,-76.061405,8,250.0,2020-05-28
+"Easton, PA",Easton,PA,40.739349,-75.263529,8,250.0,2022-09-04
+"Eastvale - Limonite Ave, CA",Eastvale,CA,33.976911,-117.55442,16,250.0,2021-06-29
+"Eau Claire, WI",Eau Claire,WI,44.77083,-91.43711,6,120.0,2014-01-30
+"Edgewater, CO",Edgewater,CO,39.748186,-105.057756,8,250.0,2023-02-10
+"Edgewater, MD",Edgewater,MD,38.936193,-76.56776,8,250.0,2021-09-29
+"Edison - 1003 US-1, NJ",Edison,NJ,40.518056,-74.37238,16,250.0,
+"Edison - Route 1, NJ",Edison,NJ,40.5062,-74.3936,8,250.0,2022-12-13
+"Edison, NJ",Edison,NJ,40.5448144,-74.333248,8,120.0,2014-08-22
+"Edwards, CO",Edwards,CO,39.648581,-106.587182,8,250.0,2021-09-04
+"Effingham - Avenue of Mid-America, IL",Effingham,IL,39.138944,-88.562009,12,250.0,2023-04-05
+"Effingham, IL",Effingham,IL,39.137048,-88.563736,6,150.0,2015-03-28
+"Egg Harbor Township - E Black Horse Pike, NJ",Egg Harbor Township,NJ,39.398471,-74.555401,12,250.0,
+"Egg Harbor Township, NJ",Egg Harbor Township,NJ,39.393663,-74.562619,8,120.0,2016-06-23
+"Ehrenberg, AZ",Ehrenberg,AZ,33.601666,-114.522376,8,250.0,2019-11-27
+"El Centro - Wake Ave, CA",El Centro,CA,32.7729,-115.5501,8,250.0,2022-05-22
+"El Centro, CA",El Centro,CA,32.760837,-115.532486,12,150.0,2014-12-28
+"El Cerrito, CA",El Cerrito,CA,37.898575,-122.30073,14,72.0,2020-07-03
+"El Dorado - Towanda Service Plaza, KS",Towanda,KS,37.765506,-96.982618,8,250.0,2022-09-02
+"El Dorado Hills, CA",El Dorado Hills,CA,38.656461,-121.070673,12,250.0,
+"El Paso - Eastlake Blvd, TX",El Paso,TX,31.688723,-106.264541,20,250.0,
+"El Paso - N Desert Blvd, TX",El Paso,TX,31.884966,-106.580432,20,250.0,
+"El Paso, TX",El Paso,TX,31.8839,-106.58379,8,150.0,2017-04-22
+"El Portal, CA",El Portal,CA,37.679047,-119.763477,8,250.0,2022-11-01
+"Elgin, IL",Elgin,IL,42.012497,-88.335638,12,250.0,2022-10-19
+"Elizabeth, NJ",Elizabeth,NJ,40.662806,-74.173611,16,250.0,2020-08-25
+"Elizabethtown, KY",Elizabethtown,KY,37.671622,-85.845453,8,250.0,2021-12-10
+"Elk Grove - 7119 Elk Grove Blvd, CA",Elk Grove,CA,38.4099,-121.4181,12,250.0,2022-10-27
+"Elk Grove - Elk Grove Blvd, CA",Elk Grove,CA,38.409389,-121.391028,16,250.0,2020-07-21
+"Elkhart - George Craig Travel Plaza, IN",Elkhart,IN,41.731702,-86.005057,8,250.0,2021-12-23
+"Elkhart - Henry Schricker Travel Plaza, IN",Elkhart,IN,41.732798,-86.004993,8,250.0,2021-12-23
+"Elkhorn, WI",Elkhorn,WI,42.691939,-88.542869,12,250.0,
+"Elko, NV",Elko,NV,40.836301,-115.790859,6,150.0,2015-02-03
+"Ellensburg - Canyon Rd, WA",Ellensburg,WA,46.978013,-120.542423,12,250.0,2022-04-28
+"Ellensburg, WA",Ellensburg,WA,46.976918,-120.54162,5,150.0,2013-12-23
+"Ellenton, FL",Ellenton,FL,27.537933,-82.507363,16,250.0,2022-12-28
+"Ellsworth, ME",Ellsworth,ME,44.532641,-68.411381,8,250.0,2022-03-03
+"Eloy, AZ",Eloy,AZ,32.78255,-111.61868,28,250.0,2023-03-21
+"Elverson, PA",Elverson,PA,40.121588,-75.775761,8,250.0,2021-12-24
+"Elwood, NJ",Hammonton,NJ,39.550487,-74.735734,8,250.0,2022-05-29
+"Emeryville - Christie Ave, CA",Emeryville,CA,37.837506,-122.295407,12,250.0,2020-03-28
+"Emeryville - Shellmound St, CA",Emeryville,CA,37.840449,-122.293936,12,250.0,2020-11-20
+"Emporia, KS",Emporia,KS,38.414266,-96.216714,8,250.0,2020-05-27
+"Encinitas (SC), CA",Encinitas,CA,33.046319,-117.262142,8,250.0,
+"Encino, NM",Encino,NM,34.996195,-105.378114,8,250.0,
+"Enfield, CT",Enfield,CT,41.991015,-72.571105,12,250.0,
+"Ennis, TX",Ennis,TX,32.324308,-96.606375,24,250.0,2022-10-25
+"Entiat, WA",Entiat,WA,47.684662,-120.206959,8,250.0,2020-12-23
+"Ephrata, PA",Ephrata,PA,40.1633,-76.1535,8,250.0,2022-04-29
+"Epsom, NH",Epsom,NH,43.227409,-71.35962,8,250.0,
+"Erie - Perry Hwy, PA",Erie,PA,42.065634,-80.037239,8,250.0,2022-02-05
+"Erie, PA",Erie,PA,42.049602,-80.086345,8,150.0,2016-06-03
+"Erwin, NY",Painted Post,NY,42.170919,-77.107728,10,120.0,2017-07-25
+"Escanaba, MI",Escanaba,MI,45.750542,-87.085129,8,250.0,2021-07-31
+"Escondido, CA",Escondido,CA,33.12945,-117.08769,20,250.0,
+"Estero, FL",Estero,FL,26.43604,-81.773048,16,250.0,2022-04-06
+"Estes Park, CO",Estes Park,CO,40.383833,-105.519783,7,150.0,2018-05-15
+"Euless, TX",Euless,TX,32.880879,-97.074504,12,250.0,2023-03-21
+"Eureka, CA",Eureka,CA,40.778885,-124.188383,8,150.0,2016-08-17
+"Evanston, IL",Evanston,IL,42.050353,-87.685491,12,250.0,2022-01-21
+"Evanston, WY",Evanston,WY,41.263157,-110.985309,8,150.0,2017-07-18
+"Evansville, IN",Evansville,IN,38.001531,-87.494443,12,250.0,
+"Evansville, WY",Evansville,WY,42.846691,-106.214485,8,250.0,2020-07-01
+"Everett, WA",Everett,WA,47.90934,-122.225824,12,250.0,2023-02-24
+"Evergreen Park, IL",Evergreen Park,IL,41.725315,-87.683693,10,150.0,2019-06-16
+"Evergreen, AL",Evergreen,AL,31.457228,-86.961555,12,250.0,2022-11-15
+"Exmore, VA",Exmore,VA,37.516011,-75.831544,4,250.0,2022-03-19
+"Fair Oaks, IN",Fair Oaks,IN,41.010608,-87.276583,12,250.0,2021-08-28
+"Fair Play, SC",Fair Play,SC,34.504955,-82.965706,12,250.0,2021-07-02
+"Fairfax - Fairfax Blvd, VA",Fairfax,VA,38.864685,-77.280101,12,250.0,2022-09-09
+"Fairfax, VA",Fairfax,VA,38.859305,-77.357542,12,250.0,2022-05-26
+"Fairfield - 3001 Travis Blvd, CA",Fairfield,CA,38.257435,-122.065449,12,250.0,2023-03-01
+"Fairfield - Fairfield Centre, CT",Fairfield,CT,41.149854,-73.247068,12,250.0,
+"Fairfield - Holiday Lane, CA",Fairfield,CA,38.256667,-122.065139,12,150.0,2019-05-09
+"Fairfield - Northbound, CT",Fairfield,CT,41.146266,-73.257157,12,250.0,2019-12-23
+"Fairfield - Pittman Rd, CA",Fairfield,CA,38.221335,-122.127115,8,250.0,
+"Fairfield - Southbound, CT",Fairfield,CT,41.148076,-73.255582,8,250.0,2019-12-20
+"Fairfield, CA",Fairfield,CA,38.26175,-122.0524,12,150.0,2018-05-06
+"Fairfield, OH",Fairfield,OH,39.303803,-84.525312,12,250.0,2023-03-30
+"Fairfield, TX",Fairfield,TX,31.725331,-96.17837,12,250.0,
+"Fairmont, WV",Fairmont,WV,39.471945,-80.153302,8,250.0,2022-04-08
+"Fall River, MA",Fall River,MA,41.673139,-71.161876,8,250.0,
+"Falls Church, VA",Falls Church,VA,38.902472,-77.203588,8,250.0,2020-11-20
+"Falls Creek, PA",Falls Creek,PA,41.14072,-78.784725,8,150.0,2017-08-02
+"Falmouth, ME",Falmouth,ME,43.734299,-70.293547,8,250.0,2022-12-10
+"Fargo, ND",Fargo,ND,46.843601,-96.882492,8,250.0,2020-05-29
+"Farmington - Hannaford Dr, ME",Farmington,ME,44.65037,-70.150196,8,250.0,2021-06-25
+"Farmington, NM",Farmington,NM,36.766371,-108.144047,4,120.0,2014-01-10
+"Farmville, VA",Farmville,VA,37.271854,-78.401442,8,250.0,2020-06-25
+"Fayetteville, NC",Fayetteville,NC,35.009527,-78.822416,16,150.0,2017-11-06
+"Federal Way, WA",Federal Way,WA,47.314917,-122.315972,12,250.0,2021-03-23
+"Fenton, MO",Fenton,MO,38.544304,-90.465508,8,250.0,2023-06-03
+"Fernley, NV",Fernley,NV,39.609596,-119.220483,12,250.0,2022-11-24
+"Findlay, OH",Findlay,OH,41.059623,-83.671058,8,250.0,2021-11-13
+"Firebaugh, CA",Firebaugh,CA,36.639287,-120.625451,56,250.0,2020-11-13
+"Fish Camp, CA",Fish Camp,CA,37.473828,-119.635893,8,150.0,2016-12-15
+"Fishers, IN",Fishers,IN,39.957683,-86.016131,10,72.0,2018-03-17
+"Fishkill, NY",Fishkill,NY,41.52727858284335,-73.893152475357,12,250.0,2020-03-22
+"Fitchburg, WI",Fitchburg,WI,43.014476,-89.479453,16,250.0,
+"Flagstaff - Hwy 89, AZ",Flagstaff,AZ,35.2328,-111.5756,24,250.0,2023-02-21
+"Flagstaff, AZ",Flagstaff,AZ,35.174272,-111.66328,12,150.0,2014-01-10
+"Flatonia, TX",Flatonia,TX,29.697904,-97.099993,8,150.0,2017-05-14
+"Flemington, NJ",Flemington,NJ,40.505245,-74.851828,8,250.0,2021-05-06
+"Florence - Houston Rd, KY",Florence,KY,39.011489,-84.640279,12,250.0,2021-05-01
+"Florence - N Williston Rd, SC",Florence,SC,34.272134,-79.703346,16,250.0,2022-05-16
+"Florence, SC",Florence,SC,34.190371,-79.832575,18,150.0,2017-10-21
+"Florida City, FL",Florida City,FL,25.456825,-80.474341,8,150.0,2017-06-02
+"Flossmoor, IL",Flossmoor,IL,41.529391,-87.709287,8,250.0,2020-06-19
+"Flushing, NY",Flushing,NY,40.760821,-73.829676,4,72.0,2020-01-28
+"Folsom - Iron Point Rd, CA",Folsom,CA,38.64258,-121.18806,4,120.0,2012-11-19
+"Folsom - Palladio Pkwy, CA",Folsom,CA,38.647199,-121.118344,30,250.0,2016-08-13
+"Fond du Lac, WI",Fond du Lac,WI,43.791436,-88.485968,12,250.0,
+"Fontana, CA",Fontana,CA,34.151177,-117.471412,24,72.0,2019-03-29
+"Forks, WA",Forks,WA,47.942522,-124.384748,8,250.0,2020-03-30
+"Fort Bragg, CA",Fort Bragg,CA,39.421063,-123.807299,12,250.0,2021-05-22
+"Fort Drum, FL",Okeechobee,FL,27.601444,-80.822187,10,150.0,2014-11-26
+"Fort Lauderdale - East Sunrise Blvd, FL",Fort Lauderdale,FL,26.136936,-80.113134,16,250.0,2022-11-26
+"Fort Lauderdale - Powerline Rd, FL",Fort Lauderdale,FL,26.202627,-80.156465,8,250.0,2022-05-16
+"Fort Lauderdale, FL",Fort Lauderdale,FL,26.120885,-80.177098,8,250.0,2020-04-06
+"Fort Mill, SC",Fort Mill,SC,35.0964,-80.9359,12,250.0,2022-05-20
+"Fort Myers (closed), FL",Fort Myers,FL,26.48564,-81.787136,8,150.0,
+"Fort Myers - Gulf Coast Main St, FL",Fort Myers,FL,26.488531,-81.787028,12,250.0,2022-05-23
+"Fort Myers, FL",Fort Myers,FL,26.608585,-81.809444,14,150.0,2018-07-02
+"Fort Pierce - Kings Hwy, FL",Fort Pierce,FL,27.446551,-80.399403,8,250.0,
+"Fort Pierce, FL",Fort Pierce,FL,27.416538,-80.381845,8,250.0,2020-10-02
+"Fort Stockton, TX",Fort Stockton,TX,30.905492,-102.88453,8,150.0,2018-10-15
+"Fort Valley, GA",Fort Valley,GA,32.58434,-83.740022,16,250.0,2022-08-31
+"Fort Washington, PA",Fort Washington,PA,40.139399,-75.172384,8,250.0,2023-05-25
+"Fort Wayne - Illinois Rd, IN",Fort Wayne,IN,41.07321,-85.21819,12,250.0,2022-06-24
+"Fort Wayne, IN",Fort Wayne,IN,41.138806,-85.163548,10,150.0,2017-09-08
+"Fort Worth - Bucees Blvd, TX",Fort Worth,TX,33.023133,-97.279033,20,250.0,
+"Fort Worth - Eastchase Pkwy, TX",Fort Worth,TX,32.762928,-97.16682,16,250.0,
+"Fort Worth - Whitmore St, TX",Fort Worth,TX,32.758293,-97.353585,16,72.0,2018-11-12
+"Fountain Valley - Warner Ave, CA",Fountain Valley,CA,33.715666,-117.964945,12,250.0,2022-01-21
+"Fountain Valley, CA",Fountain Valley,CA,33.70278,-117.934127,16,150.0,2015-08-28
+"Framingham - 130 Worcester Rd, MA",Framingham,MA,42.297652,-71.399414,12,250.0,
+"Framingham - Old Path Village, MA",Framingham,MA,42.30519,-71.403475,12,250.0,
+"Framingham, MA",Framingham,MA,42.303637,-71.394171,12,120.0,2018-06-29
+"Franklin Park, PA",Franklin Park Township,PA,40.613216,-80.100103,8,150.0,2017-09-20
+"Franklin, MA",Franklin,MA,42.090329,-71.424835,12,250.0,2021-12-13
+"Frederick - Ballenger Creek Pike, MD",Frederick,MD,39.392566,-77.438609,8,250.0,
+"Frederick - Buckeystown Pike, MD",Frederick,MD,39.3867,-77.4077,8,250.0,2022-03-24
+"Frederick, MD",Frederick,MD,39.384693,-77.405494,10,150.0,2019-11-26
+"Fredericksburg - Jefferson Davis Hwy, VA",Fredericksburg,VA,38.194184,-77.50741,7,250.0,2023-01-31
+"Fredericksburg, VA",Fredericksburg,VA,38.225974,-77.506136,8,150.0,2018-04-12
+"Fredonia, NY",Fredonia,NY,42.454125,-79.30869,12,250.0,2022-10-03
+"Freehold, NJ",Freehold,NJ,40.238319,-74.228021,8,250.0,2020-06-24
+"Freeport, ME",Freeport,ME,43.8587942,-70.1041363,8,120.0,2017-10-19
+"Freetown, MA",Freetown,MA,41.7628,-71.0955,8,250.0,2022-12-21
+"Fremont - 39201 Fremont Blvd, CA",Fremont,CA,37.544506,-121.983822,12,150.0,2018-04-27
+"Fremont - Civic Center Dr, CA",Fremont,CA,37.5537,-121.9736,8,250.0,
+"Fremont - Pacific Commons, CA",Fremont,CA,37.502482,-121.968927,16,250.0,2020-11-18
+"Fremont - Thornton Ave, CA",Fremont,CA,37.561924,-122.010274,12,250.0,
+"Fremont, CA",Fremont,CA,37.492754,-121.944796,12,250.0,2013-08-16
+"Fresno - North Blackstone Ave, CA",Fresno,CA,36.85085698,-119.79142427,8,250.0,2021-08-12
+"Fresno - North Riverside Drive, CA",Fresno,CA,36.832164,-119.908341,12,250.0,2020-11-24
+"Fresno, CA",Fresno,CA,36.835455,-119.91058,10,150.0,2016-01-29
+"Frisco - Preston Road, TX",Frisco,TX,33.102512,-96.808762,12,250.0,2023-02-07
+"Fullerton, CA",Fullerton,CA,33.859694,-117.921706,16,250.0,2022-10-06
+"Gainesville - NW 39th Ave, FL",Gainesville,FL,29.688578,-82.443183,7,250.0,2023-03-31
+"Gainesville - Oaks Mall Plaza, FL",Gainesville,FL,29.658006,-82.414125,24,250.0,
+"Gainesville, FL",Gainesville,FL,29.624756,-82.376597,10,150.0,2019-04-17
+"Gainesville, TX",Gainesville,TX,33.635646,-97.154848,8,250.0,
+"Gainesville, VA",Gainesville,VA,38.79248,-77.622001,8,250.0,
+"Gaithersburg - Watkins Mill Rd, MD",Gaithersburg,MD,39.158124,-77.222372,7,250.0,2023-03-14
+"Gaithersburg, MD",Gaithersburg,MD,39.118151,-77.202271,12,150.0,2017-12-14
+"Gallup, NM",Gallup,NM,35.505278,-108.828094,8,250.0,2014-01-07
+"Garden City, NY",Garden City,NY,40.7416044,-73.6129391,12,250.0,2021-11-04
+"Gardena, CA",Gardena,CA,33.873172,-118.300857,20,250.0,
+"Gardendale, AL",Gardendale,AL,33.652452,-86.809625,8,250.0,2023-04-26
+"Gardnerville, NV",Gardnerville,NV,38.696426,-119.548534,6,150.0,2015-10-22
+"Garner, NC",Garner,NC,35.608443,-78.563054,8,250.0,2021-09-04
+"Gastonia, NC",Gastonia,NC,35.260057,-81.123368,12,250.0,
+"Gaylord, MI",Gaylord,MI,45.025577,-84.722201,10,150.0,2018-06-21
+"Genoa - Blue Heron Service Plaza, OH",Genoa,OH,41.490708,-83.366736,8,250.0,2021-12-21
+"Genoa - Wyandot Service Plaza, OH",Genoa,OH,41.489964,-83.37048,8,250.0,2021-12-21
+"George, WA",George,WA,47.081148,-119.861514,12,250.0,
+"Georgetown, DE",Georgetown,DE,38.688327,-75.397265,8,250.0,
+"Georgetown, TX",Georgetown,TX,30.632093,-97.694003,16,250.0,2023-04-12
+"Gettysburg, PA",Gettysburg,PA,39.844127,-77.19905,8,250.0,2020-10-15
+"Giddings, TX",Giddings,TX,30.178912,-96.907004,8,150.0,2019-10-20
+"Gila Bend, AZ",Gila Bend,AZ,32.943969,-112.733506,16,250.0,2014-05-17
+"Gillette, WY",Gillette,WY,44.29301,-105.526628,4,150.0,2015-09-24
+"Gilman, IL",Gilman,IL,40.752202,-87.996464,8,250.0,2020-05-06
+"Gilroy - Camino Arroyo, CA",Gilroy,CA,37.000817,-121.554338,12,250.0,2020-11-26
+"Gilroy, CA",Gilroy,CA,37.02493,-121.56542,16,150.0,2012-11-19
+"Girard, OH",Girard,OH,41.1493,-80.7,8,250.0,2022-05-20
+"Glen Allen, VA",Glen Allen,VA,37.669832,-77.461419,20,150.0,2013-10-24
+"Glen Mills, PA",Glen Mills,PA,39.883186,-75.534198,8,250.0,2020-12-14
+"Glendale - Cooper Ave, NY",Glendale,NY,40.707962,-73.867167,10,72.0,2019-06-17
+"Glendale - Harvey Dr, CA",Glendale,CA,34.148107,-118.227151,16,250.0,2022-01-25
+"Glendale - N Glendale Ave, CA",Glendale,CA,34.148997,-118.247798,16,250.0,
+"Glendale, AZ",Glendale,AZ,33.535965,-112.262776,16,250.0,2022-03-20
+"Glendale, CA",Glendale,CA,34.145099,-118.256433,20,72.0,2018-03-30
+"Glendale, WI",Glendale,WI,43.121,-87.916222,12,250.0,2022-09-02
+"Glendive, MT",Glendive,MT,47.127042,-104.694456,8,250.0,2020-06-19
+"Glenview, IL",Glenview,IL,42.077128,-87.860788,10,72.0,2018-04-20
+"Glenwood Springs, CO",Glenwood Springs,CO,39.55268,-107.340168,6,150.0,2013-09-17
+"Gloucester, MA",Gloucester,MA,42.623417,-70.6545,8,250.0,2022-09-30
+"Goldsboro, NC",Goldsboro,NC,35.386452,-77.948309,8,250.0,2020-12-31
+"Goleta, CA",Goleta,CA,34.427015,-119.871768,12,250.0,2020-05-06
+"Gonzales, LA",Gonzales,LA,30.210412,-90.944365,8,250.0,
+"Goodland, KS",Goodland,KS,39.326253,-101.725171,6,150.0,2014-06-13
+"Gothenburg, NE",Gothenburg,NE,40.917317,-100.169913,8,150.0,2016-12-02
+"Granada Hills - N Balboa Blvd, CA",Granada Hills,CA,34.258565,-118.502667,20,250.0,
+"Granada Hills, CA",Granada Hills,CA,34.266172,-118.524155,20,250.0,2020-12-24
+"Grand Ave (SC), Chicago, IL",Chicago,IL,41.890732,-87.654125,2,120.0,
+"Grand Forks, ND",Grand Forks,ND,47.888156,-97.081142,8,250.0,2021-08-25
+"Grand Island, NE",Grand Island,NE,40.829973,-98.379822,8,150.0,2017-01-06
+"Grand Junction, CO",Grand Junction,CO,39.090758,-108.604325,6,120.0,2014-01-10
+"Grand Rapids, MI",Grand Rapids,MI,42.914231,-85.533057,8,150.0,2015-06-25
+"Grants Pass, OR",Grants Pass,OR,42.460883,-123.324124,8,150.0,2013-10-22
+"Grapevine - E Northwest Hwy, TX",Grapevine,TX,32.941334,-97.073611,8,250.0,2023-04-12
+"Grapevine, TX",Grapevine,TX,32.941942,-97.065861,12,250.0,2021-04-07
+"Grasonville - Hissey Rd, MD",Grasonville,MD,38.965566,-76.194145,8,250.0,
+"Grasonville, MD",Grasonville,MD,38.965706,-76.220905,12,150.0,2017-08-18
+"Grass Valley, CA",Grass Valley,CA,39.199798,-121.064216,12,250.0,2023-05-25
+"Great Barrington, MA",Great Barrington,MA,42.180663,-73.364632,8,250.0,2020-09-26
+"Great Falls, MT",Great Falls,MT,47.48295,-111.337681,8,250.0,2020-06-27
+"Green River, UT",Green River,UT,38.993577,-110.140513,8,150.0,2014-03-17
+"Greenbrae, CA",Greenbrae,CA,37.944776,-122.522706,14,72.0,2020-12-16
+"Greenfield, CA",Greenfield,CA,36.32925,-121.245444,12,250.0,2020-12-15
+"Greenfield, WI",Greenfield,WI,42.960238,-87.986788,12,250.0,
+"Greensboro, NC",Greensboro,NC,36.059473,-79.908358,8,150.0,2017-12-17
+"Greenville - Haywood Rd, SC",Greenville,SC,34.848232,-82.339496,12,250.0,2023-04-29
+"Greenville, AL",Greenville,AL,31.855989,-86.635765,12,250.0,2014-12-06
+"Greenville, NC",Greenville,NC,35.6055,-77.4,8,250.0,2022-05-26
+"Greenville, SC",Greenville,SC,34.825895,-82.306973,8,150.0,2015-11-09
+"Greenwich - Northbound, CT",Greenwich,CT,41.041538,-73.671661,4,150.0,2014-02-12
+"Greenwich - Southbound, CT",Greenwich,CT,41.040555,-73.673445,4,150.0,2014-02-12
+"Grenada, MS",Grenada,MS,33.787384,-89.849614,8,150.0,2017-07-08
+"Gretna, LA",Gretna,LA,29.887477,-90.032859,8,250.0,
+"Grinnell, IA",Grinnell,IA,41.700046,-92.726636,8,250.0,2022-05-19
+"Grove City - London Groveport Rd, OH",Grove City,OH,39.837853,-83.079126,12,250.0,
+"Grove City, OH",Grove City,OH,39.877253,-83.063448,8,150.0,2015-01-16
+"Grove City, PA",Grove City,PA,41.143778,-80.157055,6,250.0,2020-02-07
+"Groveland, CA",Groveland,CA,37.838679,-120.23199,7,150.0,2016-12-16
+"Guaynabo - Calle Tabonuco, PR",Guaynabo,PR,18.4069,-66.1061,2,72.0,2021-11-19
+"Guaynabo, PR",Guaynabo,PR,18.405993,-66.106131,2,72.0,2019-12-18
+"Guilderland, NY",Guilderland,NY,42.688932,-73.853554,20,150.0,2017-08-16
+"Guin, AL",Guin,AL,34.00972,-87.8349,12,250.0,2023-05-22
+"Gulf Breeze, FL",Gulf Breeze,FL,30.389314,-87.062227,12,250.0,2023-04-14
+"Gustine, CA",Gustine,CA,37.109305,-121.017565,12,150.0,2016-11-16
+"Hackensack, NJ",Hackensack,NJ,40.907703,-74.030779,8,250.0,
+"Hadley, MA",Hadley,MA,42.338922,-72.611239,12,150.0,2018-04-17
+"Hagerstown - Venture Dr, MD",Hagerstown,MD,39.608895,-77.750802,8,250.0,2020-12-30
+"Hagerstown, MD",Hagerstown,MD,39.605859,-77.733324,6,120.0,2014-01-23
+"Half Moon Bay, CA",Half Moon Bay,CA,37.469394,-122.435001,12,250.0,
+"Halifax, NC",Halifax,NC,36.366063,-77.674315,12,250.0,2021-09-25
+"Hallandale Beach, FL",Hallandale Beach,FL,25.993528,-80.143183,8,250.0,2022-11-18
+"Haltom City, TX",Haltom City,TX,32.783349,-97.273818,8,250.0,
+"Hamburg, PA",Hamburg,PA,40.564621,-76.007412,8,250.0,2022-01-15
+"Hamden - Dixwell Avenue, CT",Hamden,CT,41.369666,-72.919942,12,250.0,2021-03-18
+"Hamilton - Woodrow Wilson, NJ",Hamilton Township,NJ,40.175932,-74.630183,8,250.0,2022-07-16
+"Hamilton Township, NJ",Hamilton,NJ,40.195539,-74.641375,6,150.0,2014-04-22
+"Hamilton, TX",Hamilton,TX,31.706196,-98.122518,8,250.0,
+"Hancock, NY",Hancock,NY,41.956228,-75.294742,8,250.0,2022-12-19
+"Hannibal, MO",Hannibal,MO,39.718198,-91.392441,8,250.0,2021-05-14
+"Hanover - Shipley Homestead Dr, MD",Hanover,MD,39.132463,-76.739539,8,250.0,
+"Hanover, MA",Hanover,MA,42.1474,-70.8432,12,250.0,2022-07-01
+"Hanover, MD",Hanover,MD,39.153272,-76.743717,8,72.0,2019-11-14
+"Hardeeville, SC",Hardeeville,SC,32.27012485,-81.08084499,8,250.0,2020-06-13
+"Harlingen, TX",Harlingen,TX,26.1877,-97.7563,12,250.0,2022-08-12
+"Harris Ranch, CA",Coalinga,CA,36.25415,-120.237896,18,150.0,2012-11-19
+"Harrisburg, OR",Harrisburg,OR,44.27972,-123.063083,8,250.0,2022-05-27
+"Harrisburg, PA",Harrisburg,PA,40.277134,-76.823255,8,150.0,2016-05-09
+"Harrisonburg, VA",Harrisonburg,VA,38.429826,-78.856029,8,250.0,2021-05-28
+"Hartford - Leibert Rd, CT",Hartford,CT,41.788236,-72.65582,12,150.0,2020-10-30
+"Hartford, CT",Hartford,CT,41.766116,-72.673977,6,72.0,2018-05-09
+"Hattiesburg, MS",Hattiesburg,MS,31.322701,-89.38188,8,150.0,2019-11-24
+"Haubstadt - Ruffian Way, IN",Haubstadt,IN,38.159762,-87.551955,8,250.0,2021-10-11
+"Hauppauge - Motor Pkwy, NY",Hauppauge,NY,40.806913,-73.238313,8,250.0,2021-09-25
+"Hawthorne - El Segundo Blvd, CA",Hawthorne,CA,33.918036,-118.353197,12,72.0,2019-11-22
+"Hawthorne - W 120th St, CA",Hawthorne,CA,33.923198,-118.322218,20,250.0,2020-10-05
+"Hawthorne, CA",Hawthorne,CA,33.921068,-118.330054,12,250.0,
+"Hawthorne, NV",Hawthorne,NV,38.533939,-118.62308,8,150.0,2016-05-03
+"Haymarket, VA",Haymarket,VA,38.815129,-77.642614,8,120.0,2018-12-19
+"Hays, KS",Hays,KS,38.900543,-99.319142,6,150.0,2014-06-12
+"Hayward - Mission Blvd, CA",Hayward,CA,37.644903,-122.063057,12,250.0,
+"Hayward, CA",Hayward,CA,37.667227,-122.120338,16,72.0,2019-06-22
+"Helena, MT",Helena,MT,46.618173,-112.007628,8,250.0,2020-06-26
+"Henderson - Las Vegas Blvd S, NV",Henderson,NV,35.964283,-115.167124,24,250.0,
+"Henderson - Paseo Verde Pkwy, NV",Henderson,NV,36.022754,-115.090142,12,250.0,
+"Henderson, NC",Henderson,NC,36.329537,-78.447534,8,150.0,2019-06-22
+"Henderson, NV",Henderson,NV,35.97141,-114.911332,12,150.0,2018-06-23
+"Hendersonville, TN",Hendersonville,TN,36.321,-86.601,12,250.0,
+"Henrietta, TX",Henrietta,TX,33.80051,-98.196588,12,150.0,2019-10-05
+"Hermitage, PA",Hermitage,PA,41.201068,-80.455205,8,150.0,2017-09-05
+"Hermosa Beach, CA",Hermosa Beach,CA,33.864955,-118.394819,20,250.0,2020-06-10
+"Hesperia, CA",Hesperia,CA,34.424864,-117.385861,20,250.0,2020-11-17
+"Hialeah, FL",Miami Gardens,FL,25.942859,-80.344869,12,250.0,2022-06-17
+"Hickory - NC-127, NC",Hickory,NC,35.692297,-81.357075,12,250.0,2023-05-25
+"Hickory, NC",Hickory,NC,35.706189,-81.294768,8,150.0,2018-04-04
+"Highland Park (SC), IL",Highland Park,IL,42.17434,-87.816626,4,120.0,
+"Highland Park - Skokie Valley Rd, IL",Highland Park,IL,42.191936,-87.826741,12,250.0,2021-09-01
+"Highland, CA",Highland,CA,34.135136,-117.195193,8,250.0,2021-09-04
+"Hillsboro, OR",Hillsboro,OR,45.538579,-122.866166,12,250.0,2020-11-05
+"Hilton Head - William Hilton Pkwy, SC",Hilton Head Island,SC,32.21475,-80.703411,8,250.0,2022-05-26
+"Hilton Head Island, SC",Hilton Head Island,SC,32.15369,-80.767933,8,250.0,2020-11-05
+"Hinckley, MN",Hinckley,MN,46.009592,-92.93155,8,150.0,2015-10-21
+"Hines, OR",Hines,OR,43.572694,-119.074556,8,250.0,2021-05-28
+"Hockessin, DE",Hockessin,DE,39.788523,-75.697093,8,250.0,
+"Holbrook, AZ",Holbrook,AZ,34.922962,-110.145558,12,250.0,2014-01-15
+"Holland, MI",Holland,MI,42.781417,-86.077194,12,250.0,2022-09-01
+"Hollister - Airline Hwy, CA",Hollister,CA,36.837926,-121.391328,20,250.0,
+"Hollister, CA",Hollister,CA,36.989869,-121.380535,20,150.0,2018-03-13
+"Hollywood - Universal Hollywood Dr, CA",Hollywood,CA,34.13681,-118.359396,12,250.0,
+"Hollywood, CA",Hollywood,CA,34.091072,-118.342038,32,250.0,
+"Hollywood, FL",Hollywood,FL,26.00982,-80.207831,8,250.0,
+"Holtsville, NY",Holtsville,NY,40.822264,-73.046663,8,250.0,
+"Honolulu, HI",Honolulu,HI,21.271469,-157.774432,12,250.0,
+"Hood River - Anchor Way, OR",Hood River,OR,45.714111,-121.515793,16,250.0,2023-01-20
+"Hood River - Cascade Ave, OR",Hood River,OR,45.709603,-121.534581,8,250.0,2021-11-04
+"Hooksett (north), NH",Hooksett,NH,43.109587,-71.474575,10,150.0,2015-01-20
+"Hooksett (south), NH",Hooksett,NH,43.108363,-71.477625,12,150.0,2015-01-15
+"Houston - 12523 Westheimer Rd, TX",Houston,TX,29.734364,-95.605596,16,250.0,2023-03-24
+"Houston - 9633 Westheimer Rd (SC), TX",Houston,TX,29.735982,-95.538575,16,250.0,2021-05-28
+"Houston - Airline Dr, TX",Houston,TX,29.809944,-95.381879,12,250.0,
+"Houston - Hempstead Rd (SC), TX",Houston,TX,29.912978,-95.615944,16,250.0,2022-06-29
+"Houston - Kipling Street, TX",Houston,TX,29.739757,-95.412036,12,250.0,
+"Houston - Louetta Rd, TX",Houston,TX,29.997117,-95.575736,14,250.0,2023-02-02
+"Houston - Northwest Fwy, TX",Houston,TX,29.867259,-95.538125,8,150.0,2018-08-18
+"Houston - Piping Rock Ln, TX",Houston,TX,29.740638,-95.645831,8,250.0,2022-12-31
+"Houston - Queensbury Lane, TX",Houston,TX,29.778456,-95.558652,12,250.0,
+"Houston - Telephone Rd, TX",Houston,TX,29.67547,-95.289948,12,250.0,
+"Houston - W Alabama St, TX",Houston,TX,29.736538,-95.402318,8,250.0,2022-05-09
+"Houston - Washington Ave, TX",Houston,TX,29.766874,-95.36592,12,250.0,
+"Houston - Westheimer Rd, TX",Houston,TX,29.7377385,-95.4639171,16,250.0,2021-07-02
+"Houston - Yale St, TX",Houston,TX,29.774428,-95.400631,32,250.0,
+"Houston, TX",Houston,TX,29.980741,-95.421697,6,150.0,2015-07-09
+"Howard, WI",Howard,WI,44.5354319,-88.0777788,8,150.0,2017-09-08
+"Howe - Ernie Pyle Travel Plaza, IN",Howe,IN,41.747139,-85.32775,8,250.0,2021-05-28
+"Howe - Gene Stratton Travel Plaza, IN",Howe,IN,41.744917,-85.330167,8,250.0,2021-05-28
+"Howell Township, NJ",Howell Township,NJ,40.137212,-74.225678,12,250.0,2022-12-22
+"Hudson, MA",Hudson,MA,42.395775,-71.594724,8,120.0,2019-01-29
+"Hudson, NY",Hudson,NY,42.22314,-73.826845,8,250.0,2022-01-26
+"Hudsonville, MI",Hudsonville,MI,42.843659,-85.862462,10,150.0,2019-08-16
+"Humble, TX",Humble,TX,29.984472,-95.299508,12,250.0,
+"Huntington Beach - Edinger Ave, CA",Huntington Beach,CA,33.729552,-118.002561,32,250.0,
+"Huntington Beach, CA",Huntington Beach,CA,33.731412,-117.992233,12,250.0,
+"Huntington, WV",Huntington,WV,38.410941,-82.487122,8,150.0,2018-01-11
+"Huntsville, AL",Huntsville,AL,34.739127,-86.666295,12,250.0,2022-06-14
+"Huntsville, TX",Huntsville,TX,30.716158,-95.565944,6,125.0,2013-11-20
+"Hutto, TX",Hutto,TX,30.502813,-97.580947,12,250.0,2022-03-22
+"Hyannis, MA",Hyannis,MA,41.676619,-70.307049,12,250.0,2020-05-20
+"Idaho Falls, ID",Idaho Falls,ID,43.485152,-112.05205,8,150.0,2016-06-09
+"Idaho Springs, CO",Idaho Springs,CO,39.741549,-105.518358,8,250.0,2020-02-06
+"Incline Village, NV",Incline Village,NV,39.250765,-119.948927,10,150.0,2019-08-30
+"Independence - S Noland Rd, MO",Independence,MO,39.03651,-94.413785,8,250.0,
+"Independence, MO",Independence,MO,39.040814,-94.369265,6,150.0,2015-02-17
+"Indianapolis - Capitol Avenue, IN",Indianapolis,IN,39.765443,-86.161222,12,72.0,2019-03-20
+"Indianapolis - Col. H. Weir Cook Memorial Dr, IN",Indianapolis,IN,39.699773,-86.313723,12,250.0,
+"Indianapolis - E Southport Rd, IN",Indianapolis,IN,39.664746,-86.076234,12,250.0,2022-05-29
+"Indianapolis - Waterway Blvd, IN",Indianapolis,IN,39.784679,-86.184536,16,250.0,
+"Indianapolis North, IN",Indianapolis,IN,39.9139,-86.1392,16,250.0,
+"Indianapolis, IN",Indianapolis,IN,39.702444,-86.079687,8,150.0,2014-10-30
+"Indio, CA",Indio,CA,33.741484,-116.215019,46,250.0,2014-09-26
+"Inyokern - Locust Ave, CA",Inyokern,CA,35.646509,-117.81326,12,250.0,2021-09-06
+"Inyokern, CA",Inyokern,CA,35.646461,-117.812629,4,150.0,2015-03-20
+"Iowa - Henry's Travel Plaza, LA",Iowa,LA,30.241331,-92.927732,16,250.0,2022-12-22
+"Iowa City, IA",Iowa City,IA,41.675785,-91.520803,8,250.0,2022-06-14
+"Iowa, LA",Iowa,LA,30.247262,-93.010598,8,250.0,
+"Irvine - Culver Drive, CA",Irvine,CA,33.706784,-117.785164,16,250.0,2021-04-17
+"Irvine - Irvine Blvd, CA",Irvine,CA,33.713119,-117.760834,8,250.0,
+"Irvine - Main St, CA",Irvine,CA,33.684357,-117.851746,24,72.0,2020-12-26
+"Irvine - Michelson Dr, CA",Irvine,CA,33.673394,-117.844666,12,72.0,2019-10-20
+"Irvine - Spectrum Center Dr, CA",Irvine,CA,33.647749,-117.739207,24,250.0,
+"Irvine - Von Karman Ave, CA",Irvine,CA,33.670156,-117.858319,8,250.0,
+"Irvine - Walnut Ave, CA",Irvine,CA,33.689853,-117.768924,8,250.0,2020-12-04
+"Irving, TX",Irving,TX,32.925559,-96.991554,12,250.0,
+"Islandia, NY",Islandia,NY,40.805079,-73.180528,10,150.0,2018-08-11
+"Issaquah - Gilman, WA",Issaquah,WA,47.540084,-122.041717,8,250.0,
+"Issaquah Highlands, WA",Issaquah,WA,47.544008,-122.016938,8,250.0,
+"Issaquah, WA",Issaquah,WA,47.548026,-122.040026,8,72.0,2018-10-20
+"Italy, TX",Italy,TX,32.194947,-96.89875,10,150.0,2017-09-25
+"Ithaca, NY",Ithaca,NY,42.428639,-76.509111,8,150.0,2019-07-24
+"Jackman, ME",Jackman,ME,45.624071,-70.25201,4,150.0,2019-10-19
+"Jackson, CA",Jackson,CA,38.347998,-120.7766,8,250.0,2020-11-05
+"Jackson, TN",Jackson,TN,35.660349,-88.855771,8,150.0,2016-11-30
+"Jackson, WY",Jackson,WY,43.463995,-110.794875,8,150.0,2016-10-19
+"Jacksonville - Chaffee Rd, FL",Jacksonville,FL,30.307077,-81.847887,8,250.0,2020-09-19
+"Jacksonville - County Road, FL",St. Johns,FL,30.060278,-81.513861,10,150.0,2018-12-20
+"Jacksonville - Gate Parkway, FL",Jacksonville,FL,30.254019,-81.536459,8,150.0,2018-08-29
+"Jacksonville - Philips Hwy, FL",Jacksonville,FL,30.265516,-81.617034,12,250.0,2021-07-23
+"Jacksonville - River City Marketplace, FL",Jacksonville,FL,30.477032,-81.642532,16,250.0,
+"Jacksonville - Sago Ave W, FL",Jacksonville,FL,30.461054,-81.63318,12,250.0,
+"Jacksonville - Wilson Blvd, FL",Jacksonville,FL,30.270331,-81.756107,8,250.0,2022-05-26
+"Jacksonville, NC",Jacksonville,NC,34.776774,-77.414566,8,250.0,2022-07-27
+"Jamestown, ND",Jamestown,ND,46.884658,-98.719555,8,250.0,2020-06-17
+"Janesville, WI",Janesville,WI,42.7176917,-88.9947624,8,250.0,2022-06-25
+"Jarrell, TX",Jarrell,TX,30.814396,-97.610506,8,250.0,2023-05-25
+"Jasper, FL",Jasper,FL,30.446647,-82.933586,8,250.0,2022-03-29
+"Jefferson City, MO",Jefferson City,MO,38.5879,-92.2552,7,250.0,
+"Jersey City - Mall Drive West, NJ",Jersey City,NJ,40.727327,-74.039344,20,72.0,2018-02-23
+"Jersey City, NJ",Jersey City,NJ,40.721595,-74.040469,6,72.0,2018-02-13
+"Jessup, MD",Jessup,MD,39.174251,-76.776827,12,250.0,
+"Jim Thorpe - Northbound, PA",Jim Thorpe,PA,40.971484,-75.63068,8,250.0,2021-05-29
+"Jim Thorpe - Southbound, PA",Jim Thorpe,PA,40.969331,-75.631379,8,250.0,2021-05-27
+"Johnson City - US-281, TX",Johnson City,TX,30.269934,-98.398065,8,250.0,2021-11-24
+"Johnstown, CO",Johnstown,CO,40.334593,-104.984935,20,250.0,
+"Jonesboro, AR",Jonesboro,AR,35.7966,-90.7307,7,250.0,2022-07-22
+"Joplin - Range Line Rd, MO",Joplin,MO,37.047552,-94.473399,8,150.0,
+"Joplin, MO",Joplin,MO,37.033192,-94.515724,8,250.0,2021-05-01
+"Joppatowne, MD",Joppatowne,MD,39.440207,-76.345305,8,250.0,2023-05-04
+"Junction, TX",Junction,TX,30.509233,-99.77456,8,150.0,2017-01-04
+"Kahului, HI",Kahului,HI,20.875812,-156.454215,12,250.0,
+"Kalispell, MT",Kalispell,MT,48.241078,-114.326445,12,250.0,
+"Kaneohe, HI",Kaneohe,HI,21.406115,-157.788988,8,250.0,
+"Kansas City, MO",Kansas City,MO,39.24629,-94.644943,8,72.0,2018-05-26
+"Katy - Katy Fwy, TX",Katy,TX,29.779001,-95.848797,24,250.0,2022-12-09
+"Katy, TX",Katy,TX,29.774658,-95.821859,12,150.0,2020-07-24
+"Kearney, NE",Kearney,NE,40.6822,-99.0834,8,250.0,2022-07-26
+"Kearny, NJ",Kearny,NJ,40.749156,-74.136392,8,120.0,2019-02-16
+"Kelso, WA",Kelso,WA,46.143403,-122.899225,12,250.0,2020-05-29
+"Kennebunk - Northbound, ME",Kennebunk,ME,43.409493,-70.558551,8,150.0,2018-06-14
+"Kennebunk - Southbound, ME",Kennebunk,ME,43.410693,-70.560923,8,150.0,2018-06-29
+"Kennesaw, GA",Kennesaw,GA,34.013116,-84.563224,12,250.0,
+"Kennewick, WA",Kennewick,WA,46.198085,-119.162734,8,150.0,2015-09-04
+"Kenosha, WI",Kenosha,WI,42.56911,-87.947466,12,250.0,2021-12-18
+"Kernersville, NC",Kernersville,NC,36.069842,-80.112057,8,250.0,2022-04-01
+"Kettleman City - Bernard Dr, CA",Kettleman City,CA,35.9861622,-119.957565,55,250.0,2021-11-21
+"Kettleman City, CA",Kettleman City,CA,35.987651,-119.962336,40,250.0,2017-11-15
+"Kill Devil Hills, NC",Kill Devil Hills,NC,35.993328,-75.651124,8,150.0,2019-05-30
+"Kimball, TN",Kimball,TN,35.039825,-85.685066,12,250.0,2021-10-04
+"King City, CA",King City,CA,36.202218,-121.12983,16,250.0,
+"King George - Owens Drive, VA",King George,VA,38.353581,-77.048857,8,250.0,2021-03-18
+"King of Prussia - South Henderson Rd, PA",King of Prussia,PA,40.092333,-75.359222,16,250.0,2021-05-21
+"Kingman - W Andy Devine, AZ",Kingman,AZ,35.189032,-114.058384,16,250.0,2022-01-22
+"Kingman, AZ",Kingman,AZ,35.191331,-114.065592,10,120.0,2014-01-22
+"Kingsland, GA",Kingsland,GA,30.790764,-81.663729,8,150.0,2015-11-18
+"Kingston, NY",Kingston,NY,41.941916,-74.027208,8,120.0,2016-10-18
+"Kingsville - E Corral Ave, TX",Kingsville,TX,27.53086,-97.842375,8,250.0,
+"Kingsville, TX",Kingsville,TX,27.493808,-97.844399,8,150.0,2016-11-15
+"Kinston, NC",Kinston,NC,35.26079,-77.649666,8,250.0,2020-09-18
+"Kirkland, WA",Kirkland,WA,47.708072,-122.182989,12,250.0,
+"Kissimmee - E Irlo Bronson Memorial Hwy, FL",Kissimmee,FL,28.280288,-81.348103,12,250.0,
+"Kissimmee - W Irlo Bronson Memorial Hwy, FL",Kissimmee,FL,28.348216,-81.610374,12,250.0,
+"Kissimmee - W Osceola Pkwy, FL",Kissimmee,FL,28.341509,-81.411159,16,250.0,2023-04-25
+"Kissimmee, FL",Kissimmee,FL,28.34551,-81.604567,8,150.0,2020-01-13
+"Klamath Falls, OR",Klamath Falls,OR,42.216906,-121.756218,8,150.0,2017-03-16
+"Knightdale, NC",Knightdale,NC,35.795716,-78.505527,11,250.0,
+"Knoxville - Brookview Centre Way, TN",Knoxville,TN,35.935852,-84.004146,8,250.0,2021-09-22
+"Knoxville - Neyland Drive, TN",Knoxville,TN,35.959109,-83.916658,4,72.0,
+"Knoxville, TN",Knoxville,TN,35.901319,-84.149634,8,150.0,2015-05-27
+"Kodak, TN",Kodak,TN,35.981638,-83.6056,12,250.0,
+"Kokomo, IN",Kokomo,IN,40.475169,-86.101306,8,250.0,2020-02-25
+"Kremmling, CO",Kremmling,CO,40.059575,-106.387881,8,250.0,2020-08-08
+"Kuttawa, KY",Kuttawa,KY,37.073405,-88.124752,8,150.0,2017-01-01
+"Kyle, TX",Kyle,TX,30.013004,-97.862665,16,250.0,2021-08-08
+"La Crosse, WI",Onalaska,WI,43.879042,-91.188428,6,120.0,2014-01-05
+"La Jolla, CA",La Jolla,CA,32.865069,-117.232114,16,250.0,
+"La Mesa, CA",La Mesa,CA,32.7808724,-117.0135593,12,250.0,2022-03-18
+"La Quinta - Washington St, CA",La Quinta,CA,33.678542,-116.296225,8,250.0,
+"La Quinta, CA",La Quinta,CA,33.717271,-116.296155,20,250.0,
+"La Vale, MD",La Vale,MD,39.63626,-78.845748,8,120.0,2017-09-01
+"LaGuardia, NY",Queens,NY,40.76832,-73.866749,8,250.0,
+"Lacey, WA",Lacey,WA,47.0427557461906,-122.836407423019,12,250.0,2020-10-30
+"Ladera Heights, CA",Los Angeles,CA,33.978535,-118.37189,12,250.0,
+"Lady Lake, FL",Lady Lake,FL,28.917179,-81.923031,8,250.0,2020-09-09
+"Lafayette, IN",Lafayette,IN,40.416187,-86.814084,24,250.0,2014-10-10
+"Lafayette, LA",Lafayette,LA,30.265264,-91.994232,8,250.0,2020-02-13
+"Laguna Hills, CA",Laguna Hills,CA,33.595554,-117.675507,16,250.0,
+"Laguna Seca, CA",Salinas,CA,36.586463,-121.756108,8,250.0,2022-09-15
+"Lake Arrowhead, CA",Lake Arrowhead,CA,34.250676,-117.189756,8,250.0,2021-11-17
+"Lake Charles, LA",Lake Charles,LA,30.199071,-93.248782,6,150.0,2014-12-21
+"Lake City - US-441, FL",Lake City,FL,29.995807,-82.599002,8,250.0,
+"Lake City, FL",Lake City,FL,30.181429,-82.679701,6,150.0,2014-08-20
+"Lake Delton, WI",Lake Delton,WI,43.576852,-89.77949,12,250.0,2022-06-08
+"Lake Elsinore - Grape Street, CA",Lake Elsinore,CA,33.65937259957883,-117.29450572076,16,250.0,2022-12-16
+"Lake Elsinore, CA",Lake Elsinore,CA,33.698437,-117.349113,21,150.0,2018-03-01
+"Lake Forest - Muirlands Blvd, CA",Lake Forest,CA,33.629413,-117.705886,24,250.0,2023-02-27
+"Lake Geneva, WI",Lake Geneva,WI,42.60901,-88.407819,6,150.0,2019-09-26
+"Lake Grove, NY",Lake Grove,NY,40.862269,-73.129075,8,250.0,2021-08-03
+"Lake Placid, NY",Lake Placid,NY,44.294797,-74.010526,8,250.0,2020-07-08
+"Lakeland, FL",Lakeland,FL,28.0979989,-81.9746033,7,250.0,2020-09-03
+"Lakemoor, IL",Lakemoor,IL,42.321493,-88.169682,12,250.0,
+"Lakewood, CA",Lakewood,CA,33.858572,-118.116389,20,250.0,2022-12-06
+"Lakewood, CO",Lakewood,CO,39.733697,-105.154154,16,250.0,2020-03-31
+"Lamar, CO",Lamar,CO,38.089378,-102.618303,8,250.0,2022-05-21
+"Lamont, FL",Lamont,FL,30.472366,-83.892265,8,250.0,2022-11-24
+"Lana'i City, HI",Lana'i City,HI,20.820569,-156.919888,4,250.0,
+"Lancaster, PA",Lancaster,PA,40.052622,-76.254776,8,250.0,2020-03-13
+"Land O Lakes, FL",Land O Lakes,FL,28.189347,-82.40032,8,250.0,2021-02-03
+"Langhorne, PA",Langhorne,PA,40.163345,-74.904428,8,250.0,2022-07-21
+"Lansing - S Pennsylvania Ave, MI",Lansing,MI,42.66705,-84.54091,12,250.0,2022-10-20
+"Lansing, MI",Lansing,MI,42.766555,-84.514724,10,150.0,2017-09-11
+"Lantana, FL",Lantana,FL,26.587844,-80.064215,12,250.0,
+"Laramie, WY",Laramie,WY,41.32512,-105.618117,8,150.0,2017-08-31
+"Laredo, TX",Laredo,TX,27.555003,-99.49424,8,150.0,2017-12-12
+"Las Cruces, NM",Las Cruces,NM,32.296716,-106.812414,15,250.0,
+"Las Vegas - 7400 S Las Vegas Blvd, NV",Las Vegas,NV,36.056634,-115.170356,28,250.0,
+"Las Vegas - Arroyo Crossing Pkwy, NV",Las Vegas,NV,36.063861,-115.247515,48,250.0,
+"Las Vegas - Bridger Ave, NV",Las Vegas,NV,36.165906,-115.138655,6,120.0,2014-02-19
+"Las Vegas - Cambridge St, NV",Las Vegas,NV,36.12875,-115.143823,8,250.0,2023-05-26
+"Las Vegas - E Sahara Ave (SC), NV",Las Vegas,NV,36.145327,-115.102898,9,250.0,2022-05-06
+"Las Vegas - Grand Central Parkway, NV",Las Vegas,NV,36.165908,-115.158343,8,250.0,2020-09-15
+"Las Vegas - High Roller at LINQ, NV",Las Vegas,NV,36.11671,-115.168258,24,250.0,2019-07-19
+"Las Vegas - Kevin Way, NV",Las Vegas,NV,36.278556,-115.289673,12,250.0,
+"Las Vegas - Las Vegas Blvd S, NV",Las Vegas,NV,36.070633,-115.17295,10,150.0,2017-03-08
+"Las Vegas - S Fort Apache Rd, NV",Las Vegas,NV,36.093947,-115.29709,8,250.0,
+"Las Vegas - S Rampart Blvd, NV",Las Vegas,NV,36.1680334,-115.2848652,12,250.0,2023-02-04
+"Las Vegas - South Eastern Ave, NV",Las Vegas,NV,36.082221,-115.121054,12,250.0,2022-04-10
+"Las Vegas - Tivoli Village (Urban), NV",Las Vegas,NV,36.168897,-115.286579,6,72.0,2019-05-24
+"Las Vegas - Tivoli Village, NV",Las Vegas,NV,36.168474,-115.286829,2,150.0,2019-05-25
+"Las Vegas - W Charleston Blvd, NV",Las Vegas,NV,36.158002,-115.333822,16,250.0,
+"Las Vegas - W Flamingo Rd, NV",Las Vegas,NV,36.1206,-115.1873,6,72.0,
+"Las Vegas - W Tropical Pkwy, NV",Las Vegas,NV,36.271532,-115.265931,8,250.0,2022-11-18
+"Las Vegas, NM",Las Vegas,NM,35.622007,-105.20541,6,150.0,2015-09-14
+"Lathrop, CA",Lathrop,CA,37.826148,-121.285965,11,250.0,2022-09-14
+"Laughlin, NV",Laughlin,NV,35.15031,-114.575664,8,250.0,
+"Laurel - Fort Meade Rd, MD",Laurel,MD,39.095839,-76.841533,8,250.0,2022-04-06
+"Laurel - Van Dusen Rd, MD",Laurel,MD,39.081527,-76.888961,6,250.0,2021-12-14
+"Laurel, MD",Laurel,MD,39.095382,-76.858319,8,150.0,2016-09-23
+"Laurel, MT",Laurel,MT,45.6661532,-108.7614891,8,250.0,
+"Lawndale, CA",Lawndale,CA,33.893485,-118.352964,8,250.0,
+"Lawrence - Lawrence Service Plaza, KS",Lawrence,KS,39.0205,-95.1348,12,250.0,2022-07-14
+"Lawrence, MA",Lawrence,MA,42.687406,-71.14663,8,250.0,
+"Laytonville, CA",Laytonville,CA,39.689269,-123.483443,8,150.0,2019-06-28
+"Leavenworth, WA",Leavenworth,WA,47.598608,-120.655636,16,150.0,2018-07-28
+"Lebanon, IN",Lebanon,IN,40.035056,-86.469586,11,250.0,2023-03-24
+"Lebec - Gorman Post Rd, CA",Gorman,CA,34.796255,-118.853932,63,250.0,
+"Lee, MA",Lee,MA,42.29571,-73.239245,8,150.0,2016-08-20
+"Leeds, AL",Leeds,AL,33.543942,-86.588636,16,250.0,2022-03-18
+"Leesburg - California Dr NE, VA",Leesburg,VA,39.1029426,-77.525479,8,250.0,2022-04-22
+"Leesburg - Compass Point Plaza, VA",Leesburg,VA,39.082459,-77.563051,8,250.0,
+"Leesburg, VA",Leesburg,VA,39.089677,-77.526324,10,72.0,2019-07-19
+"Leland, NC",Leland,NC,34.2173,-78.0185,12,250.0,2022-02-24
+"Lenox, MA",Lenox,MA,42.377028,-73.277352,8,250.0,2022-11-19
+"Leominster, MA",Leominster,MA,42.529798,-71.744151,8,150.0,2017-12-13
+"Leon Springs, TX",San Antonio,TX,29.665289,-98.633387,10,150.0,2020-03-25
+"Lewes, DE",Lewes,DE,38.743725,-75.153394,8,120.0,2017-12-16
+"Lewisburg, WV",Lewisburg,WV,37.810341,-80.431295,8,250.0,2023-03-31
+"Lexington (NB), MA",Lexington,MA,42.439697,-71.257982,8,250.0,2021-09-23
+"Lexington - E Nelson St, VA",Lexington,VA,37.778564,-79.434062,8,250.0,2023-03-27
+"Lexington - Meijer Way, KY",Lexington,KY,37.995554,-84.532683,12,250.0,
+"Lexington, KY",Lexington,KY,38.017955,-84.420664,20,250.0,2015-01-30
+"Lexington, NC",Lexington,NC,35.800189,-80.288565,8,250.0,2020-12-10
+"Lexington, SC",Lexington,SC,33.9521519,-81.2326944,12,250.0,2021-09-21
+"Lexington, VA",Lexington,VA,37.796979,-79.419007,6,150.0,2015-12-16
+"Liberty Lake (SC), WA",Liberty Lake,WA,47.673313,-117.113505,12,250.0,2022-03-29
+"Liberty, MO",Liberty,MO,39.245809,-94.448108,8,250.0,2021-10-19
+"Lima, MT",Lima,MT,44.632745,-112.591203,8,150.0,2017-01-09
+"Lima, OH",Lima,OH,40.726668,-84.071932,8,150.0,2014-12-23
+"Limon, CO",Limon,CO,39.2688421,-103.708604,14,250.0,2014-06-21
+"Lincoln - Groveland Lane, CA",Lincoln,CA,38.869969,-121.303187,8,250.0,2020-10-15
+"Lincoln - West O St, NE",Lincoln,NE,40.814225,-96.727836,8,250.0,
+"Lincoln City, OR",Lincoln City,OR,44.957751,-124.010966,8,150.0,2016-08-19
+"Lincoln, NE",Lincoln,NE,40.860817,-96.679723,8,150.0,2017-01-05
+"Lincoln, NH",Lincoln,NH,44.042314,-71.668127,6,150.0,2016-11-24
+"Lindale, TX",Lindale,TX,32.470885,-95.450473,8,150.0,2016-06-08
+"Lisbon, CT",Lisbon,CT,41.58569,-71.991059,8,250.0,2020-12-08
+"Lithonia, GA",Lithonia,GA,33.69893,-84.173181,12,150.0,2019-10-17
+"Little Ferry, NJ",Little Ferry,NJ,40.855059,-74.0333262,12,250.0,2022-12-16
+"Little Rock, AR",Little Rock,AR,34.6614,-92.41031,10,150.0,2017-05-20
+"Littleton, MA",Littleton,MA,42.553135,-71.473819,12,250.0,2021-03-30
+"Live Oak, FL",Live Oak,FL,30.331363,-82.961355,12,150.0,2017-08-20
+"Livermore - Jack London Blvd, CA",Livermore,CA,37.696535,-121.844176,16,250.0,
+"Livermore - Vasco Rd, CA",Livermore,CA,37.718847,-121.724535,32,250.0,
+"Livermore, CA",Livermore,CA,37.700349,-121.841063,20,72.0,2018-11-22
+"Livingston, TX",Livingston,TX,30.711715,-94.921292,8,250.0,
+"Livonia, MI",Livonia,MI,42.379485,-83.32954,10,150.0,2018-01-20
+"Llano, TX",Llano,TX,30.750554,-98.67491,8,250.0,2022-01-07
+"Lodi, NJ",Lodi,NJ,40.89146,-74.07267,8,250.0,2021-09-04
+"Lompoc, CA",Lompoc,CA,34.700387,-120.467415,12,250.0,
+"London, KY",London,KY,37.14916,-84.11385,14,250.0,2015-02-04
+"Lone Pine, CA",Lone Pine,CA,36.60059,-118.061916,16,250.0,2015-01-28
+"Lone Tree, CO",Lone Tree,CO,39.562726,-104.873432,10,150.0,2017-11-17
+"Long Beach - E Anaheim St, CA",Long Beach,CA,33.782778,-118.182452,16,250.0,
+"Long Beach - Long Beach Blvd, CA",Long Beach,CA,33.87396,-118.202413,8,250.0,2023-05-09
+"Long Beach, CA",Long Beach,CA,33.7574,-118.1074,20,250.0,2022-05-16
+"Loomis, CA",Loomis,CA,38.817444,-121.189472,8,250.0,2021-04-02
+"Los Altos - Loucks Ave, CA",Los Altos,CA,37.399922,-122.114897,20,250.0,
+"Los Altos, CA",Los Altos,CA,37.398894,-122.110682,16,72.0,2020-08-07
+"Los Angeles - 668 S Alameda St, CA",Los Angeles,CA,34.03575,-118.238039,8,250.0,
+"Los Angeles - Alameda St, CA",Los Angeles,CA,34.033502,-118.240852,16,72.0,2020-09-17
+"Los Angeles - Francisco St, CA",Los Angeles,CA,34.047424,-118.264589,10,72.0,2019-03-07
+"Los Angeles - N Soto St, CA",Los Angeles,CA,34.06908,-118.194724,8,250.0,
+"Los Angeles - Venice Blvd, CA",Los Angeles,CA,34.027942,-118.393968,44,250.0,2023-03-09
+"Los Angeles - W Olympic Blvd, CA",Los Angeles,CA,34.03818,-118.443301,16,250.0,2022-11-19
+"Los Gatos - Los Gatos Blvd, CA",Los Gatos,CA,37.236386,-121.962442,12,250.0,
+"Los Gatos, CA",Los Gatos,CA,37.229926,-121.979384,20,72.0,2018-09-24
+"Lost Hills, CA",Lost Hills,CA,35.616874,-119.656098,20,250.0,
+"Louisville - Preston Hwy, KY",Louisville,KY,38.111814,-85.677355,12,250.0,2021-09-30
+"Louisville - Towne Center Drive, KY",Louisville,KY,38.299,-85.556056,8,250.0,2020-07-01
+"Louisville, KY",Louisville,KY,38.211846,-85.673087,8,150.0,2015-12-30
+"Loveland, CO",Loveland,CO,40.44146,-104.991205,10,150.0,2016-12-29
+"Lovelock, NV",Lovelock,NV,40.179476,-118.472135,4,150.0,2015-01-28
+"Lowell, AR",Lowell,AR,36.255329,-94.152637,8,250.0,2020-02-21
+"Lubbock (SC), TX",Lubbock,TX,33.520954,-101.961588,4,250.0,2022-05-26
+"Ludington, MI",Ludington,MI,43.957103,-86.376093,8,150.0,2017-06-23
+"Luling, TX",Luling,TX,29.651054,-97.595174,16,250.0,
+"Lumberton, NC",Lumberton,NC,34.667629,-79.002343,8,150.0,2014-01-17
+"Lusk, WY",Lusk,WY,42.75625,-104.45267,4,120.0,2013-12-19
+"Lynchburg, VA",Lynchburg,VA,37.32486,-79.190523,8,250.0,2020-02-06
+"Lynnfield - Broadway, MA",Lynnfield,MA,42.505037,-71.015444,12,250.0,
+"Lynnfield, MA",Lynnfield,MA,42.516609,-71.032521,12,150.0,2019-08-02
+"Lynnwood - 148th St SW, WA",Lynnwood,WA,47.865456,-122.282856,12,250.0,
+"Lynnwood, WA",Lynnwood,WA,47.846712,-122.271391,10,72.0,2018-01-20
+"Macedonia, OH",Macedonia,OH,41.313663,-81.517018,6,150.0,2014-01-15
+"Mackinaw City, MI",Mackinaw City,MI,45.77225,-84.7265,8,250.0,2020-06-10
+"Macon - Tom Hill Sr Rd, GA",Macon,GA,32.897259,-83.689432,10,150.0,2018-12-23
+"Macon, GA",Macon,GA,32.8334275,-83.6255567,8,150.0,
+"Madera - Ave 7, CA",Madera,CA,36.851569,-119.950611,16,250.0,2022-02-08
+"Madison - E Washington Ave, WI",Madison,WI,43.119137,-89.319052,8,150.0,2017-12-20
+"Madison - East Towne Mall, WI",Madison,WI,43.12669,-89.306896,3,120.0,2014-01-13
+"Madison - Northbound, CT",Madison,CT,41.2900852,-72.5803292,10,250.0,2020-01-30
+"Madison - S Livingston, WI",Madison,WI,43.080622,-89.375068,8,250.0,2021-11-05
+"Madison - Southbound, CT",Madison,CT,41.2915926,-72.5790793,10,250.0,2020-01-30
+"Madison - Whitney Way, WI",Madison,WI,43.050266,-89.472382,8,250.0,2021-09-22
+"Madison Heights, VA",Madison Heights,VA,37.466222,-79.117738,8,250.0,2021-12-09
+"Madison, FL",Madison,FL,30.43387,-83.4535,8,250.0,2021-12-31
+"Madison, GA",Madison,GA,33.558083,-83.473861,8,250.0,2021-04-23
+"Madison, VA",Madison,VA,38.34664,-78.286103,8,250.0,2020-02-07
+"Madisonville, TX",Madisonville,TX,30.966229,-95.880841,24,250.0,2022-06-28
+"Madras, OR",Madras,OR,44.614312,-121.134674,8,250.0,2022-07-08
+"Mahwah, NJ",Mahwah,NJ,41.090122,-74.155284,8,250.0,
+"Malaga, NJ",Malaga,NJ,39.572,-75.0528,8,250.0,2021-12-09
+"Malibu - Pacific Coast Highway, CA",Malibu,CA,34.031792,-118.842266,20,250.0,
+"Malibu - Whole Foods and the Park, CA",Malibu,CA,34.037043,-118.685809,5,72.0,2019-06-13
+"Malibu, CA",Malibu,CA,34.036024,-118.684095,8,250.0,2020-12-17
+"Malta, NY",Ballston Spa,NY,43.0262,-73.792,8,250.0,2021-11-21
+"Malvern, PA",Malvern,PA,40.050647,-75.525104,8,250.0,2023-03-16
+"Mammoth Lakes - CRC, CA",Mammoth Lakes,CA,37.636186,-118.967973,12,250.0,
+"Mammoth Lakes, CA",Mammoth Lakes,CA,37.644544,-118.965875,8,150.0,2016-01-21
+"Manahawkin, NJ",Stafford Township,NJ,39.711359,-74.285175,16,250.0,
+"Manassas, VA",Manassas,VA,38.793019,-77.515512,8,250.0,2021-12-13
+"Manchester, CT",Manchester,CT,41.80455,-72.562267,16,150.0,2017-12-18
+"Manchester, NH",Manchester,NH,42.961287,-71.439058,8,250.0,2023-04-17
+"Manchester, TN",Manchester,TN,35.458583,-86.057316,10,150.0,2018-07-02
+"Manhattan - Vesey St, NY",New York,NY,40.714062,-74.015837,4,72.0,2020-01-28
+"Manhattan Beach, CA",Manhattan Beach,CA,33.901472,-118.393833,24,72.0,2018-12-06
+"Manorville, NY",Manorville,NY,40.871424,-72.798971,12,250.0,2022-04-24
+"Mansfield, MA",Mansfield,MA,42.013729,-71.231754,8,150.0,2018-06-30
+"Mansfield, PA",Mansfield,PA,41.8049603,-77.08515356,4,250.0,2021-08-07
+"Manteca - Spreckels Ave, CA",Manteca,CA,37.795975,-121.19771,12,250.0,2020-05-09
+"Manteca, CA",Manteca,CA,37.782622,-121.228683,20,150.0,2015-02-12
+"Maple Grove, MN",Maple Grove,MN,45.135263,-93.474392,12,250.0,2022-10-06
+"Maple Shade, NJ",Maple Shade,NJ,39.937134,-74.970511,8,250.0,2020-02-21
+"Marathon, FL",Marathon,FL,24.725916,-81.047519,4,150.0,2015-05-02
+"Marianna, FL",Marianna,FL,30.716016,-85.184269,8,250.0,2021-01-29
+"Marietta - Dallas Hwy, GA",Marietta,GA,33.953257,-84.657297,12,250.0,2023-03-15
+"Marietta - Roswell Rd, GA",Marietta,GA,33.986776,-84.421616,8,250.0,
+"Marietta, GA",Marietta,GA,33.90375,-84.465778,12,250.0,2021-03-19
+"Marin City, CA",Sausalito,CA,37.872835,-122.510499,16,72.0,2020-09-03
+"Marina Del Rey - Admiralty Way, CA",Marina Del Rey,CA,33.981839,-118.44174,10,250.0,
+"Marina Del Rey, CA",Marina Del Rey,CA,33.980394,-118.445237,8,250.0,2022-07-28
+"Marina, CA",Marina,CA,36.666436,-121.810168,12,250.0,2021-11-17
+"Marinette, WI",Marinette,WI,45.0801,-87.6621,8,250.0,2022-07-30
+"Marion, IL",Marion,IL,37.744427,-88.962303,8,250.0,2022-03-18
+"Mariposa, CA",Mariposa,CA,37.488952,-119.972428,12,250.0,2023-05-12
+"Marlton, NJ",Marlton,NJ,39.877547,-74.918491,12,120.0,2019-04-26
+"Marquette, MI",Marquette,MI,46.551944,-87.470222,8,250.0,2021-07-01
+"Marshall, MI",Marshall,MI,42.292009,-84.964122,8,150.0,2017-07-06
+"Marshall, MN",Marshall,MN,44.438564,-95.777511,12,250.0,
+"Martinez, CA",Martinez,CA,37.99316,-122.12137,16,250.0,2021-12-31
+"Martinsburg, WV",Martinsburg,WV,39.485531,-77.956783,8,150.0,2017-09-30
+"Marysville, CA",Marysville,CA,39.111142,-121.55662,8,250.0,2023-02-06
+"Mashpee, MA",Mashpee,MA,41.6175,-70.488528,10,120.0,2019-01-17
+"Massapequa, NY",Massapequa,NY,40.701916,-73.432817,8,250.0,2021-09-18
+"Matamoras, PA",Matamoras,PA,41.353461,-74.72394,16,250.0,
+"Matthews, NC",Matthews,NC,35.12847,-80.700301,12,250.0,2023-03-28
+"Maumee, OH",Maumee,OH,41.57835,-83.66465,8,150.0,2014-01-13
+"Mauston, WI",Mauston,WI,43.795551,-90.059358,6,125.0,2013-12-09
+"McAllen, TX",McAllen,TX,26.198443,-98.259839,8,150.0,2017-07-28
+"McComb, MS",McComb,MS,31.248479,-90.471779,8,150.0,2019-11-23
+"McDermitt, NV",McDermitt,NV,41.9952675,-117.7177391,8,250.0,
+"McDonough, GA",McDonough,GA,33.425818,-84.18787,12,250.0,2021-07-09
+"McFarland, CA",McFarland,CA,35.599782,-119.209871,8,250.0,
+"McHenry, MD",McHenry,MD,39.549893,-79.35164,8,250.0,
+"McKinney - University Dr, TX",McKinney,TX,33.21747,-96.65721,8,250.0,2022-12-16
+"McKinney, TX",McKinney,TX,33.151713,-96.717299,8,250.0,2022-11-08
+"McLean, VA",McLean,VA,38.9153758,-77.225194,20,250.0,
+"McLeansville, NC",McLeansville,NC,36.056164,-79.660102,8,250.0,2023-03-07
+"Mebane, NC",Mebane,NC,36.070176,-79.270532,8,250.0,2021-01-27
+"Mechanicsburg, PA",Mechanicsburg,PA,40.194428,-76.992163,8,250.0,2023-02-07
+"Mechanicsville, VA",Mechanicsville,VA,37.613437,-77.328344,8,250.0,2022-05-21
+"Medford, NJ",Medford,NJ,39.904558,-74.80511,12,250.0,
+"Medford, OR",Medford,OR,42.347992,-122.878882,12,250.0,2020-11-04
+"Medway, ME",Medway,ME,45.609675,-68.522956,6,150.0,2019-10-17
+"Mehlville, MO",Mehlville,MO,38.508172,-90.331113,10,150.0,2018-06-23
+"Melbourne, FL",Melbourne,FL,28.119865,-80.699588,8,250.0,2022-03-31
+"Melissa, TX",Melissa,TX,33.270374,-96.592973,8,250.0,2022-12-15
+"Melville - Walt Whitman Rd, NY",Melville,NY,40.782905,-73.42252,12,250.0,2022-05-19
+"Melville, NY",Melville,NY,40.798738,-73.41226,10,250.0,2022-04-08
+"Memphis - North Germantown Pkwy, TN",Memphis,TN,35.202146,-89.794496,12,250.0,2022-08-31
+"Memphis, TN",Memphis,TN,35.097801,-89.858957,8,150.0,2016-12-01
+"Menifee, CA",Menifee,CA,33.679646,-117.174095,20,150.0,2019-09-30
+"Menlo Park - El Camino Real, CA",Menlo Park,CA,37.451958,-122.178079,8,250.0,
+"Menlo Park, CA",Menlo Park,CA,37.423372,-122.198189,18,72.0,2019-11-21
+"Menomonee Falls, WI",Menomonee Falls,WI,43.16438,-88.065848,8,250.0,2021-11-23
+"Menomonie, WI",Menomonie,WI,44.901325,-91.933569,8,250.0,2021-11-15
+"Merced - Martin Luther King Junior Way, CA",Merced,CA,37.297988,-120.483354,12,250.0,2021-03-10
+"Meredith, NH",Meredith,NH,43.66114,-71.493944,6,250.0,2022-06-30
+"Meriden, CT",Meriden,CT,41.527018,-72.773982,8,250.0,2020-02-09
+"Meridian, MS",Meridian,MS,32.35778,-88.671246,8,150.0,2016-10-07
+"Merrillville, IN",Merrillville,IN,41.468444,-87.343613,10,150.0,2018-05-09
+"Mesa - Guadalupe Rd, AZ",Mesa,AZ,33.363445,-111.875334,16,250.0,
+"Mesa, AZ",Mesa,AZ,33.3803,-111.8056,12,250.0,2022-12-16
+"Mesquite - Mesa Blvd, NV",Mesquite,NV,36.815991,-114.064751,8,250.0,2022-10-10
+"Mesquite, NV",Mesquite,NV,36.802978,-114.099928,12,250.0,2021-10-27
+"Metairie, LA",Metairie,LA,30.001862,-90.124675,12,250.0,2021-06-02
+"Metter, GA",Metter,GA,32.378566,-82.062539,8,250.0,2019-11-27
+"Miami - Bird Rd, FL",Miami,FL,25.732331,-80.306178,12,250.0,2022-12-22
+"Miami - Blue Lagoon Dr, FL",Miami,FL,25.781403,-80.287682,8,250.0,
+"Miami - Mary Brickell Village, FL",Miami,FL,25.764706,-80.194629,4,72.0,2019-05-05
+"Miami - NE 41st Street, FL",Miami,FL,25.813933,-80.194551,14,72.0,2018-06-23
+"Miami - SW 124th Ave, FL",Miami,FL,25.689099,-80.393365,12,250.0,2022-09-02
+"Miami - SW 24th Street, FL",Miami,FL,25.7485018,-80.3084064,8,250.0,2020-01-30
+"Miami - SW 7th St, FL",Miami,FL,25.76768,-80.192467,13,72.0,2018-03-16
+"Miami - SW 8th St, FL",Miami,FL,25.766875,-80.194524,10,72.0,2018-06-01
+"Miami - South Dixie Highway, FL",Miami,FL,25.693198,-80.304898,12,72.0,2020-06-11
+"Miami Beach - Pennsylvania Ave, FL",Miami Beach,FL,25.79169,-80.134014,10,72.0,2022-04-03
+"Miami Beach - West Avenue, FL",Miami Beach,FL,25.780227,-80.141787,18,72.0,2021-07-02
+"Miami Gardens, FL",Miami Gardens,FL,25.940624,-80.245513,8,250.0,
+"Michigan City, IN",Michigan City,IN,41.673833,-86.891234,20,250.0,2020-03-24
+"Middletown, DE",Middletown,DE,39.47951,-75.722099,8,250.0,2021-04-22
+"Middletown, NY",Middletown,NY,41.442449,-74.376565,8,150.0,2019-09-28
+"Middletown-Odessa, DE",Middletown,DE,39.452761,-75.680246,8,250.0,
+"Midland, TX",Midland,TX,31.947361,-102.141289,8,150.0,2016-12-24
+"Midvale, UT",Midvale,UT,40.622823,-111.868732,8,250.0,
+"Milan, NM",Milan,NM,35.183045,-107.898024,8,250.0,
+"Miles City, MT",Miles City,MT,46.390475,-105.823359,8,250.0,2020-06-18
+"Milford - Boston Post Rd, CT",Milford,CT,41.238035,-73.036156,14,150.0,2017-04-28
+"Milford - Northbound, CT",Milford,CT,41.245814,-73.008988,2,120.0,2012-12-16
+"Milford - Southbound, CT",Milford,CT,41.246232,-73.010529,2,125.0,2012-12-16
+"Mill Hall, PA",Mill Hall,PA,41.0251,-77.5243,12,250.0,2022-07-16
+"Millen, GA",Millen,GA,32.8032,-81.9486,8,250.0,2022-04-30
+"Millersville, MD",Millersville,MD,39.110684,-76.631323,8,250.0,
+"Milpitas - 20 S Abbott Ave, CA",Milpitas,CA,37.427494,-121.9134,8,250.0,
+"Milpitas - Dempsey Rd, CA",Milpitas,CA,37.415391,-121.878074,11,250.0,
+"Milpitas - Great Mall, CA",Milpitas,CA,37.413353,-121.897995,20,72.0,2019-09-20
+"Milpitas - S Abbott Ave, CA",Milpitas,CA,37.42537,-121.914559,12,250.0,
+"Milpitas, CA",Milpitas,CA,37.434536,-121.891387,16,150.0,2018-11-16
+"Miner, MO",Miner,MO,36.893583,-89.533986,8,150.0,2016-06-01
+"Minneapolis, MN",Minneapolis,MN,45.004609,-93.229542,10,250.0,2020-10-07
+"Minnetonka, MN",Minnetonka,MN,44.9698145,-93.4478659,8,250.0,2020-08-27
+"Minocqua, WI",Minocqua,WI,45.887409,-89.720831,8,250.0,2022-11-17
+"Minot, ND",Minot,ND,48.21183,-101.296308,8,,
+"Miramar - Miramar Pkwy, FL",Miramar,FL,25.976412,-80.310779,16,250.0,2023-02-09
+"Mishawaka, IN",Mishawaka,IN,41.7174,-86.1887,6,120.0,2013-12-11
+"Mission Viejo - Crown Valley Pkwy, CA",Mission Viejo,CA,33.5607,-117.672028,8,72.0,2021-12-24
+"Mission Viejo, CA",Mission Viejo,CA,33.557279,-117.668035,10,72.0,2020-03-25
+"Mission, KS",Mission,KS,39.02,-94.661182,8,72.0,2019-06-02
+"Missoula - US-93 N, MT",Missoula,MT,46.955035,-114.131741,12,250.0,
+"Missoula, MT",Missoula,MT,46.914375,-114.031924,6,150.0,2014-10-29
+"Mitchell, SD",Mitchell,SD,43.701129,-98.04449999999996,6,120.0,2013-12-18
+"Moab - N Main St, UT",Moab,UT,38.585988,-109.5566,8,250.0,2023-01-11
+"Moab, UT",Moab,UT,38.573122,-109.552368,4,120.0,2014-01-22
+"Mobile, AL",Mobile,AL,30.671556,-88.118644,8,150.0,2015-04-16
+"Mocksville, NC",Mocksville,NC,35.9189,-80.5856,8,250.0,2023-01-25
+"Modesto - Joyce Ave, CA",Modesto,CA,37.61061,-120.976745,8,250.0,
+"Modesto - Sisk Rd, CA",Modesto,CA,37.694343,-121.064215,12,250.0,2020-07-13
+"Mojave - 16870 Hwy 14, CA",Mojave,CA,35.067855,-118.175439,20,250.0,
+"Mojave - 16940 Hwy 14, CA",Mojave,CA,35.068595,-118.174576,12,250.0,2015-03-27
+"Mojave - Sierra Hwy, CA",Mojave,CA,35.056876,-118.174706,12,250.0,2022-08-18
+"Mokena, IL",Mokena,IL,41.49984,-87.88864,12,250.0,2023-04-28
+"Monroe Township, NJ",Monroe Township,NJ,40.267115,-74.471887,8,250.0,2022-07-01
+"Monroe, LA",Monroe,LA,32.496554,-92.055091,8,150.0,2016-09-16
+"Monroe, WA",Monroe,WA,47.86274,-121.97672,12,150.0,2017-04-25
+"Montauk, NY",Montauk,NY,41.035822,-71.943868,8,250.0,2020-12-11
+"Monteagle, TN",Monteagle,TN,35.237478,-85.850734,12,250.0,2023-04-21
+"Montecito, CA",Santa Barbara,CA,34.420561,-119.627239,8,72.0,2021-09-04
+"Monterey - Fishermans Wharf, CA",Monterey,CA,36.601401,-121.89251,16,250.0,
+"Monterey, CA",Monterey,CA,36.585729,-121.898765,14,250.0,2017-08-10
+"Monterey-Seaside, CA",Seaside,CA,36.616759,-121.844014,6,150.0,2015-08-13
+"Montgomery, AL",Montgomery,AL,32.361192,-86.161314,12,250.0,2021-10-04
+"Monticello, MN",Monticello,MN,45.3008,-93.7995,8,250.0,2022-10-04
+"Montrose, CO",Montrose,CO,38.481242,-107.876472,8,250.0,2020-12-18
+"Monument, CO",Monument,CO,39.092296,-104.852544,8,250.0,2021-05-07
+"Mooresville, NC",Mooresville,NC,35.587472,-80.873,12,250.0,2021-11-19
+"Moosic, PA",Moosic,PA,41.361979,-75.676596,8,150.0,2017-01-05
+"Moraine (SC), OH",Moraine,OH,39.710368,-84.20743,2,250.0,
+"Morgan Hill, CA",Morgan Hill,CA,37.156827,-121.653693,14,72.0,2019-10-24
+"Morgantown - Earl L Core Rd, WV",Morgantown,WV,39.62,-79.9234,8,250.0,2021-10-20
+"Morgantown, WV",Morgantown,WV,39.579175,-79.953493,8,150.0,2017-09-10
+"Moriarty, NM",Moriarty,NM,35.005233,-106.040409,8,250.0,
+"Morrisville, NC",Morrisville,NC,35.854875,-78.795217,12,250.0,
+"Morrow, GA",Morrow,GA,33.5769,-84.354123,24,250.0,2023-04-08
+"Moses Lake, WA",Moses Lake,WA,47.103505,-119.310203,12,250.0,2020-01-03
+"Mount Juliet, TN",Mount Juliet,TN,36.173769,-86.513564,11,250.0,2023-02-17
+"Mount Laurel - James Fenimore, NJ",Mount Laurel,NJ,39.980733,-74.887217,8,250.0,
+"Mount Pleasant, IA",Mount Pleasant,IA,40.961378,-91.528249,8,250.0,2021-06-10
+"Mount Vernon - S 42nd St, IL",Mt. Vernon,IL,38.300369,-88.942472,8,250.0,
+"Mount Vernon, IL",Mt. Vernon,IL,38.316292,-88.955923,8,150.0,2016-10-27
+"Mountain Brook, AL",Mountain Brook,AL,33.486691,-86.772681,8,250.0,2021-11-25
+"Mountain View - Grant Rd, CA",Mountain View,CA,37.378052,-122.077578,32,250.0,
+"Mountain View, CA",Mountain View,CA,37.415344,-122.076607,12,150.0,2015-06-10
+"Mountain Village - Mountain Village Blvd, CO",Mountain Village,CO,37.933428,-107.854146,8,250.0,2021-11-11
+"Mt Airy - Graceland Ln, NC",Mt Airy,NC,36.485545,-80.744773,8,250.0,2022-10-08
+"Mt Airy, NC",Mt Airy,NC,36.458847,-80.636683,8,150.0,2019-06-22
+"Mt. Gilead, OH",Mt. Gilead,OH,40.494024,-82.712896,8,150.0,2016-12-16
+"Mt. Hope, WV",Mount Hope,WV,37.847683,-81.196272,8,150.0,2018-02-19
+"Mt. Jackson, VA",Mt. Jackson,VA,38.760227,-78.63121,8,150.0,2017-12-05
+"Mt. Shasta - 111 Morgan Way, CA",Mt. Shasta,CA,41.310233,-122.317278,4,125.0,2013-10-23
+"Mt. Shasta - 134 Morgan Way, CA",Mt. Shasta,CA,41.310348,-122.316039,16,150.0,2018-01-04
+"Munster, IN",Munster,IN,41.568161,-87.508042,12,250.0,
+"Murdo, SD",Murdo,SD,43.886915,-100.716887,4,120.0,2013-12-31
+"Murfreesboro, TN",Murfreesboro,TN,35.781152,-86.374409,20,250.0,
+"Muskegon, MI",Muskegon,MI,43.155333,-86.202939,10,150.0,2018-02-27
+"Myrtle Beach, SC",Myrtle Beach,SC,33.704388,-78.925172,10,150.0,2017-03-25
+"Myrtle Creek, OR",Myrtle Creek,OR,42.97264,-123.339021,8,250.0,2021-10-21
+"Mystic, CT",Mystic,CT,41.372386,-71.956586,12,250.0,2022-06-01
+"Nacogdoches, TX",Nacogdoches,TX,31.651793,-94.679625,8,150.0,2017-09-23
+"Napa - Bel Aire Plaza, CA",Napa,CA,38.321869,-122.307381,8,250.0,
+"Napa - Factory Stores Drive, CA",Napa,CA,38.297635,-122.302617,20,150.0,2019-11-16
+"Napa, CA",Napa,CA,38.2356,-122.264,12,150.0,2016-07-09
+"Naples - Pine Ridge Rd, FL",Naples,FL,26.209987,-81.769531,16,250.0,
+"Naples - Premier Way, FL",Naples,FL,26.212685,-81.790775,12,250.0,
+"Naples - Tarpon Bay Blvd, FL",Naples,FL,26.271106,-81.739504,8,250.0,2021-09-08
+"Naples, FL",Naples,FL,26.14462,-81.788849,8,150.0,2017-02-23
+"Nashville - 11th Ave N, TN",Nashville,TN,36.1646189,-86.7910833,12,250.0,
+"Nashville - Brentwood (SC), TN",Nashville,TN,35.969209,-86.804641,6,150.0,
+"Nashville - Charlotte Pike, TN",Nashville,TN,36.133938,-86.891832,12,250.0,2021-04-30
+"Nashville, TN",Nashville,TN,36.110444,-86.723917,24,250.0,2019-11-23
+"Natchitoches, LA",Natchitoches,LA,31.724944,-93.162309,8,250.0,2022-06-11
+"National Harbor - National Plaza, MD",Oxon Hill,MD,38.785823,-77.015745,12,120.0,
+"National Harbor - Potomac Passage, MD",National Harbor,MD,38.785335,-77.014771,12,72.0,2019-02-16
+"Needles - E Broadway St, CA",Needles,CA,34.825734,-114.594896,12,250.0,2023-02-27
+"Needles - W Broadway St, CA",Needles,CA,34.850856,-114.622865,12,250.0,2022-12-09
+"Needles, CA",Needles,CA,34.850835,-114.624329,4,150.0,2015-01-16
+"Nephi - S Main St, UT",Nephi,UT,39.677755,-111.841252,8,250.0,2023-05-28
+"Nephi, UT",Nephi,UT,39.678083,-111.840906,8,150.0,2014-06-11
+"Nevada, MO",Nevada,MO,37.83677,-94.351404,8,250.0,2021-10-21
+"New Bern - Dr MLK Jr Blvd, NC",New Bern,NC,35.10275,-77.084173,12,250.0,
+"New Bern, NC",New Bern,NC,35.104124,-77.080448,8,250.0,2021-09-04
+"New Boston, TX",New Boston,TX,33.469659,-94.454696,16,250.0,2022-12-22
+"New Braunfels, TX",New Braunfels,TX,29.726598,-98.078702,24,250.0,2022-05-31
+"New Caney, TX",New Caney,TX,30.131229,-95.235042,16,250.0,
+"New Castle - I-295, DE",New Castle,DE,39.6952,-75.5555,8,250.0,
+"New Castle, DE",New Castle,DE,39.709271,-75.562365,8,250.0,2021-09-25
+"New Haven, CT",New Haven,CT,41.297348,-72.917804,12,250.0,2022-11-22
+"New Kent, VA",New Kent,VA,37.505449,-77.081874,24,250.0,
+"New London, CT",New London,CT,41.370726,-72.119398,8,250.0,2020-03-07
+"New Milford, CT",New Milford,CT,41.538744,-73.421791,8,250.0,2021-03-29
+"New Orleans, LA",New Orleans,LA,29.957061,-90.076684,12,250.0,2023-04-06
+"New Paltz, NY",New Paltz,NY,41.743731,-74.070122,8,250.0,2021-09-25
+"New Philadelphia, OH",New Philadelphia,OH,40.494068,-81.473561,12,250.0,
+"New Port Richey, FL",New Port Richey,FL,28.218029,-82.736177,8,250.0,2022-12-29
+"New River, AZ",New River,AZ,33.91578,-112.14417,10,150.0,2019-12-25
+"New Rochelle, NY",New Rochelle,NY,40.912298,-73.780132,8,72.0,2018-06-04
+"New Springfield - Glacier Hills Service Plaza, OH",New Springfield,OH,40.939077,-80.587852,8,250.0,
+"New Springfield - Mahoning Valley Service Plaza, OH",New Springfield,OH,40.940129,-80.585293,8,250.0,
+"New Stanton, PA",New Stanton,PA,40.218355,-79.613656,8,250.0,2023-03-23
+"New York - 59 Allen Street, NY",Lower Manhattan,NY,40.717153,-73.991869,4,72.0,2018-07-25
+"New York - E 47th Street, NY",New York,NY,40.753356,-73.971685,4,72.0,2018-04-24
+"New York - Mott Street, NY",New York,NY,40.717522,-73.997302,2,72.0,2018-02-21
+"New York - W 75th Street, NY",New York,NY,40.780976,-73.980414,4,72.0,2018-04-24
+"New York JFK, NY",Queens,NY,40.66319,-73.793192,12,250.0,2013-12-23
+"Newark - Chestnut Hill Rd, DE",Newark,DE,39.662049,-75.73563,8,250.0,2023-03-14
+"Newark - Gateway Blvd, CA",Newark,CA,37.536013,-122.063348,18,250.0,
+"Newark - Old Baltimore Pike, DE",Newark,DE,39.642686,-75.729226,8,250.0,2023-03-17
+"Newark, CA",Newark,CA,37.525905,-122.006624,16,72.0,2019-09-19
+"Newark, DE",Newark,DE,39.6635,-75.69017,12,150.0,2012-12-21
+"Newburgh, NY",Newburgh,NY,41.499775,-74.071261,6,120.0,2015-06-23
+"Newhall, CA",Santa Clarita,CA,34.3683,-118.5092,16,250.0,2023-03-08
+"Newnan, GA",Newnan,GA,33.393341,-84.759097,12,250.0,2021-03-17
+"Newport Beach, CA",Newport Beach,CA,33.665072,-117.864896,12,250.0,
+"Newport News, VA",Newport News,VA,37.114233,-76.494498,12,150.0,2019-11-14
+"Newport, ME",Newport,ME,44.838213,-69.2868582,8,250.0,
+"Newport, OR",Newport,OR,44.653043,-124.052788,8,250.0,
+"Newton, MA",Newton,MA,42.330663,-71.255062,8,250.0,2023-01-25
+"Norfolk - N Military Hwy, VA",Norfolk,VA,36.897383,-76.226511,8,250.0,2021-07-13
+"Norfolk, VA",Norfolk,VA,36.860525,-76.207467,6,150.0,2015-10-18
+"Normal - E College Ave, IL",Normal,IL,40.511235,-88.947814,12,250.0,2021-11-18
+"Normal - W Raab Rd, IL",Normal,IL,40.532717,-88.997291,12,250.0,
+"Normal, IL",Normal,IL,40.508497,-88.985575,8,150.0,2013-06-26
+"North Augusta, SC",North Augusta,SC,33.569471,-81.938767,8,250.0,
+"North Aurora, IL",North Aurora,IL,41.802949,-88.370249,16,250.0,2016-10-05
+"North Babylon, NY",North Babylon,NY,40.739557,-73.319465,12,250.0,2022-10-07
+"North Bend, WA",North Bend,WA,47.468107,-121.716454,8,250.0,2019-12-12
+"North Bergen - John F Kennedy Blvd, NJ",North Bergen,NJ,40.77386,-74.03814,8,250.0,2022-12-16
+"North Bergen, NJ",North Bergen,NJ,40.775375,-74.034666,12,250.0,2022-12-22
+"North Bethesda, MD",North Bethesda,MD,39.050339,-77.11657,8,72.0,2020-01-28
+"North Branch, MN",North Branch,MN,45.510887,-92.990596,8,250.0,2022-10-05
+"North Brunswick - Shoppes Blvd, NJ",North Brunswick,NJ,40.459873,-74.455582,12,250.0,
+"North Brunswick, NJ",North Brunswick,NJ,40.439373,-74.504769,10,150.0,2018-07-19
+"North Canaan, CT",Canaan,CT,42.024331,-73.322684,8,250.0,2020-04-17
+"North Charleston, SC",North Charleston,SC,32.872626,-80.015535,8,250.0,2020-10-29
+"North Conway, NH",North Conway,NH,44.020271,-71.113742,8,250.0,2021-12-23
+"North East - Pulaski Hwy, MD",North East,MD,39.612899,-75.930972,12,250.0,2023-03-15
+"North East, MD",North East,MD,39.612048,-76.009908,10,150.0,2017-09-10
+"North Hollywood, CA",North Hollywood,CA,34.1814,-118.3954,12,250.0,
+"North Huntingdon - Ronda Ct, PA",North Huntingdon,PA,40.316709,-79.683832,8,250.0,2023-05-04
+"North Huntingdon, PA",North Huntingdon,PA,40.314135,-79.671409,8,150.0,2017-09-24
+"North Miami Beach, FL",North Miami Beac,FL,25.906606,-80.157279,12,250.0,2022-09-05
+"North Myrtle Beach, SC",North Myrtle Beach,SC,33.79857,-78.746356,8,250.0,2023-05-19
+"North Platte, NE",North Platte,NE,41.120588,-100.762642,8,250.0,2022-06-29
+"North Providence, RI",North Providence,RI,41.8605,-71.4662,8,250.0,
+"North Richland Hills, TX",North Richland Hills,TX,32.906757,-97.187269,8,250.0,2022-12-21
+"North Stamford, CT",Stamford,CT,41.107885,-73.5469602,8,150.0,2019-08-09
+"North Wales, PA",North Wales,PA,40.219356,-75.247211,8,250.0,2021-11-25
+"Northbrook, IL",Northbrook,IL,42.107745,-87.802496,8,250.0,2020-03-18
+"Northridge, CA",Northridge,CA,34.23471,-118.55287,24,250.0,2022-11-23
+"Northville, MI",Northville,MI,42.4372,-83.4381,12,250.0,2022-05-27
+"Northwood, OH",Northwood,OH,41.617518,-83.482021,12,250.0,
+"Novato, CA",Novato,CA,38.089447,-122.551755,20,150.0,2020-03-28
+"Oacoma, SD",Oacoma,SD,43.803188,-99.383442,8,150.0,2017-10-16
+"Oak Brook, IL",Oak Brook,IL,41.854435,-87.958496,8,250.0,2021-11-25
+"Oak Creek, WI",Oak Creek,WI,42.900045,-87.913714,10,150.0,2018-01-26
+"Oakdale, MN",Oakdale,MN,44.96499,-92.96129,8,150.0,2016-08-17
+"Oakhurst, CA",Oakhurst,CA,37.333611,-119.645191,8,250.0,2022-02-03
+"Oakland - 2nd St, CA",Oakland,CA,37.794153,-122.272578,12,72.0,2020-11-22
+"Oakland - Hegenberger Rd, CA",Oakland,CA,37.746403,-122.195614,16,250.0,2020-06-17
+"Oakland Park, FL",Oakland Park,FL,26.166146,-80.164885,12,250.0,
+"Ocala - 49th St, FL",Ocala,FL,29.237539,-82.188467,28,250.0,
+"Ocala - W. Silver Springs Blvd, FL",Ocala,FL,29.1853376,-82.1773968,8,250.0,2022-05-10
+"Ocala, FL",Ocala,FL,29.140985,-82.19395,8,150.0,2014-11-03
+"Ocean City - 12502 Ocean Gateway, MD",Ocean City,MD,38.339024,-75.119033,11,250.0,2023-02-16
+"Ocean City, MD",West Ocean City,MD,38.335586,-75.104509,8,250.0,2020-02-06
+"Ocean Shores, WA",Ocean Shores,WA,47.008309,-124.165142,8,250.0,
+"Oceanside, CA",Oceanside,CA,33.199147,-117.376891,20,250.0,
+"Ochopee, FL",Ochopee,FL,26.174361,-80.855694,12,250.0,2020-02-14
+"Odessa, FL",Odessa,FL,28.190073,-82.616178,8,250.0,2022-12-08
+"Ogallala, NE",Ogallala,NE,41.116493,-101.709415,8,150.0,2016-12-02
+"Ojai, CA",Ojai,CA,34.441994,-119.258898,12,72.0,2019-07-23
+"Okahumpka, FL",Wildwood,FL,28.787015,-81.982383,8,250.0,2021-10-09
+"Oklahoma City - W Sheridan Ave, OK",Oklahoma City,OK,35.466015,-97.527568,8,250.0,
+"Oklahoma City, OK",Oklahoma City,OK,35.461704,-97.651445,8,150.0,2015-07-31
+"Olathe, KS",Olathe,KS,38.912194,-94.795583,8,150.0,2019-06-11
+"Old Bridge, NJ",Old Bridge,NJ,40.39113,-74.340201,8,250.0,2022-03-23
+"Old Fort, NC",Old Fort,NC,35.638228,-82.143169,12,250.0,2021-11-21
+"Olema, CA",Olema,CA,38.040224,-122.788345,6,150.0,
+"Omaha, NE",Omaha,NE,41.233578,-96.051488,12,250.0,
+"Onamia, MN",Onamia,MN,46.066137,-93.663538,4,250.0,
+"Oneonta, NY",Oneonta,NY,42.447575,-75.048622,8,250.0,2020-02-07
+"Ontario - SE 10th St, OR",Ontario,OR,44.023099,-116.949487,8,250.0,
+"Ontario, CA",Ontario,CA,34.066162,-117.65027,8,250.0,2022-06-14
+"Ontario, OR",Ontario,OR,44.025597,-116.942114,8,250.0,2020-09-03
+"Orangeburg, NY",Orangeburg,NY,41.044821,-73.954058,12,250.0,
+"Orangeburg, SC",Orangeburg,SC,33.552408,-80.828133,8,250.0,2021-11-17
+"Orland Park, IL",Orland Park,IL,41.632333,-87.850228,12,250.0,2022-12-22
+"Orlando - 7826 W Sand Lake Rd, FL",Orlando,FL,28.449537,-81.490195,12,250.0,2022-06-06
+"Orlando - Central Florida Pkwy, FL",Orlando,FL,28.405944,-81.457879,8,250.0,2023-01-26
+"Orlando - E Colonial Dr, FL",Orlando,FL,28.568833,-81.277982,8,250.0,
+"Orlando - Eagle Watch Dr, FL",Orlando,FL,28.460949,-81.308287,20,250.0,
+"Orlando - International Dr, FL",Orlando,FL,28.461636,-81.467433,12,250.0,
+"Orlando - Millenia Plaza Way, FL",Orlando,FL,28.492365,-81.429161,12,250.0,2022-06-12
+"Orlando - N Alafaya Trail, FL",Orlando,FL,28.555278,-81.198944,14,120.0,2019-02-19
+"Orlando - Palm Pkwy, FL",Orlando,FL,28.3848995,-81.5011005,8,250.0,2021-12-30
+"Orlando - S Orange Blossom Trl, FL",Orlando,FL,28.448461,-81.394583,16,250.0,2022-10-22
+"Orlando - Universal Blvd, FL",Orlando,FL,28.474481,-81.46149,12,250.0,
+"Orlando - W Grant St, FL",Orlando,FL,28.516287,-81.379958,16,250.0,
+"Orlando - W Robinson St, FL",Orlando,FL,28.545986,-81.381115,16,250.0,
+"Orlando - W Sand Lake Rd, FL",Orlando,FL,28.449767,-81.466734,8,150.0,2018-03-10
+"Orleans, MA",Orleans,MA,41.796653,-69.985961,12,150.0,2019-12-07
+"Osage Beach, MO",Osage Beach,MO,38.162028,-92.605238,8,150.0,2017-06-15
+"Oshkosh, WI",Oshkosh,WI,44.028779,-88.592508,6,150.0,2017-12-21
+"Ossining, NY",Ossining,NY,41.144011,-73.861472,12,150.0,2019-06-14
+"Oswego, IL",Oswego,IL,41.699456,-88.3123,12,250.0,2022-05-28
+"Overland Park, KS",Overland Park,KS,38.95535,-94.685593,12,250.0,2023-03-10
+"Owings Mills, MD",Owings Mills,MD,39.407596,-76.782871,12,250.0,
+"Oxford, AL",Oxford,AL,33.610651,-85.782355,12,150.0,2017-10-15
+"Oxford, NC",Oxford,NC,36.2803,-78.6047,12,250.0,2022-04-12
+"Oxnard, CA",Oxnard,CA,34.238654,-119.177398,20,150.0,2014-09-24
+"Ozark, AR",Ozark,AR,35.5238,-93.8636,8,250.0,2020-09-04
+"Ozona, TX",Ozona,TX,30.706696,-101.195962,6,150.0,2017-01-19
+"Pacific Palisades, CA",Pacific Palisades,CA,34.047878,-118.524987,8,250.0,2022-04-02
+"Page, AZ",Page,AZ,36.924902,-111.468041,8,150.0,2016-09-10
+"Palm Beach Gardens, FL",Palm Beach Gardens,FL,26.840149,-80.103969,16,250.0,2023-04-11
+"Palm Coast, FL",Palm Coast,FL,29.475857,-81.206442,8,250.0,2020-11-13
+"Palm Springs, CA",Palm Springs,CA,33.824931,-116.548824,24,250.0,2019-06-19
+"Palmdale - 10th St W, CA",Palmdale,CA,34.602239,-118.146111,24,250.0,2023-02-07
+"Palmdale, CA",Palmdale,CA,34.606207,-118.151386,20,250.0,2020-10-19
+"Palmer, MA",Palmer,MA,42.173452,-72.324767,12,250.0,2023-03-27
+"Palo Alto - Bryant St, CA",Palo Alto,CA,37.446507,-122.162028,19,250.0,2022-09-03
+"Palo Alto - Stanford Shopping Center, CA",Palo Alto,CA,37.441722,-122.170271,20,72.0,2019-11-05
+"Panama City Beach, FL",Panama City Beach,FL,30.211432,-85.849367,8,250.0,2020-08-28
+"Parachute, CO",Parachute,CO,39.45242,-108.04582,12,250.0,2022-10-01
+"Paramus - NJ-17, NJ",Paramus,NJ,40.955391,-74.07467,8,250.0,2023-03-25
+"Paramus, NJ",Paramus,NJ,40.957429,-74.07408,8,150.0,2014-11-26
+"Parish, NY",Parish,NY,43.408589,-76.114268,8,250.0,2023-01-08
+"Parkersburg, WV",Parkersburg,WV,39.2633181,-81.5446371,6,120.0,2019-03-06
+"Parsippany, NJ",Parsippany,NJ,40.850095,-74.350835,8,150.0,2019-03-06
+"Pasadena - 3363 E Foothill Blvd, CA",Pasadena,CA,34.153571,-118.081718,20,250.0,2022-10-05
+"Pasadena - E Colorado Blvd, CA",Pasadena,CA,34.145015,-118.078417,16,250.0,2023-03-27
+"Pasadena - E Glenarm St, CA",Pasadena,CA,34.12699,-118.147727,20,250.0,2021-10-21
+"Pasadena - S Lake Ave, CA",Pasadena,CA,34.139,-118.1312,12,250.0,
+"Pasadena, CA",Pasadena,CA,34.144835,-118.146609,24,72.0,2019-11-26
+"Pasco, WA",Pasco,WA,46.272437,-119.182456,8,250.0,2023-04-20
+"Paso Robles - Riverside Ave, CA",Paso Robles,CA,35.626263,-120.68703,8,250.0,
+"Paso Robles, CA",Paso Robles,CA,35.645482,-120.660047,28,250.0,2020-09-04
+"Patterson - Speno Dr, CA",Patterson,CA,37.466496,-121.174403,8,250.0,2020-08-29
+"Paulsboro, NJ",Paulsboro,NJ,39.822355,-75.240447,8,150.0,2019-01-12
+"Payson, AZ",Payson,AZ,34.242065,-111.322538,12,150.0,2018-12-29
+"Peachtree City, GA",Peachtree City,GA,33.396462,-84.593126,8,250.0,2023-02-16
+"Peachtree Corners, GA",Peachtree Corners,GA,33.978802,-84.214918,12,250.0,
+"Pearl, MS",Pearl,MS,32.274159,-90.151048,8,150.0,2016-03-31
+"Pearland, TX",Pearland,TX,29.580184,-95.392324,12,250.0,
+"Pecos, TX",Pecos,TX,31.400223,-103.486931,8,150.0,2018-10-15
+"Pedricktown - Clara Barton, NJ",Pedricktown,NJ,39.697702,-75.39773,8,250.0,2021-04-06
+"Pedricktown - John Fenwick, NJ",Pedricktown,NJ,39.696093,-75.395823,8,250.0,2021-03-30
+"Pembroke Pines - S Hiatus Rd, FL",Pembroke Pines,FL,25.994288,-80.296384,8,250.0,2022-10-16
+"Pembroke Pines, FL",Pembroke Pines,FL,26.006948,-80.348953,16,150.0,2018-10-12
+"Pendleton, OR",Pendleton,OR,45.64655,-118.68198,8,150.0,2015-05-28
+"Peoria - N Sheridan Rd, IL",Peoria,IL,40.739208,-89.606721,8,250.0,2021-03-30
+"Perry Hall, MD",Perry Hall,MD,39.4189,-76.4558,8,250.0,2022-05-25
+"Perry, FL",Perry,FL,30.086266,-83.571338,8,250.0,2021-07-04
+"Perry, OK",Perry,OK,36.289315,-97.325935,6,150.0,2015-04-15
+"Perth Amboy, NJ",Perth Amboy,NJ,40.516738,-74.285902,8,250.0,2022-12-20
+"Peru, IL",Peru,IL,41.348503,-89.126115,20,250.0,2016-06-22
+"Petaluma, CA",Petaluma,CA,38.242693,-122.625049,20,150.0,2015-02-03
+"Petersburg - Wagner Rd, VA",Petersburg,VA,37.1906,-77.3663,8,250.0,2020-12-12
+"Philadelphia - Center City, PA",Philadelphia,PA,39.951276,-75.158667,6,72.0,2019-05-26
+"Philadelphia - Church St, PA",Philadelphia,PA,40.001987,-75.081547,8,250.0,2021-03-17
+"Philadelphia - North 20th St, PA",Philadelphia,PA,39.962023,-75.172049,10,72.0,2018-12-21
+"Philadelphia - Penrose Ave, PA",Philadelphia,PA,39.905116,-75.19437,20,250.0,2021-06-17
+"Phoenix - Agua Fria Fwy, AZ",Phoenix,AZ,33.667011,-112.120891,16,150.0,2018-03-21
+"Phoenix - E Camelback Rd, AZ",Phoenix,AZ,33.511555,-112.026392,16,72.0,2018-03-27
+"Phoenix - E Mayo Blvd, AZ",Phoenix,AZ,33.657,-111.9298,20,250.0,2022-09-27
+"Phoenix - N 19th Ave, AZ",Phoenix,AZ,33.521819,-112.098656,12,250.0,2022-11-14
+"Piedmont, SC",Piedmont,SC,34.757187,-82.474101,8,250.0,2022-03-10
+"Pigeon Forge, TN",Pigeon Forge,TN,35.806348,-83.572721,12,250.0,2021-06-28
+"Pinellas Park, FL",Pinellas Park,FL,27.8461,-82.678114,8,150.0,2017-08-10
+"Pismo Beach, CA",Pismo Beach,CA,35.136408,-120.628662,12,250.0,2020-06-08
+"Pittsburgh, PA",Pittsburgh,PA,40.456432,-79.934125,8,72.0,2020-10-21
+"Placerville - Broadway, CA",Placerville,CA,38.730606,-120.788085,12,150.0,2019-08-31
+"Placerville, CA",Placerville,CA,38.709815,-120.842293,8,250.0,2021-05-15
+"Plainview - 1667 Old Country, NY",Plainview,NY,40.780501,-73.448435,8,250.0,
+"Plainview, NY",Plainview,NY,40.779989,-73.450258,6,120.0,2018-06-29
+"Plainview, TX",Plainview,TX,34.188839,-101.749148,8,250.0,2023-04-06
+"Plano - W Spring Creek Pkwy, TX",Plano,TX,33.08204,-96.850233,8,250.0,2023-03-02
+"Plano - Windhaven Pkwy, TX",Plano,TX,33.05595,-96.8308638,12,250.0,2022-10-21
+"Plano, TX",Plano,TX,33.07868,-96.819506,12,72.0,2018-03-31
+"Plant City, FL",Plant City,FL,28.026083,-82.151705,8,250.0,2022-03-24
+"Plantation, FL",Plantation,FL,26.108614,-80.252268,16,150.0,2015-12-19
+"Plattsburgh, NY",Plattsburgh,NY,44.704537,-73.491829,8,120.0,2016-06-09
+"Playa Vista, CA",Playa Vista,CA,33.977104,-118.417167,14,72.0,2020-11-06
+"Pleasant Prairie, WI",Pleasant Prairie,WI,42.518715,-87.950428,8,120.0,2014-02-13
+"Pleasanton - Santa Rita Rd, CA",Pleasanton,CA,37.69989,-121.871035,12,250.0,
+"Pleasanton, CA",Pleasanton,CA,37.700508,-121.908364,10,72.0,2019-05-01
+"Plumas Lake, CA",Plumas Lake,CA,38.978078,-121.539066,8,250.0,
+"Plymouth, NC",Plymouth,NC,35.850587,-76.756116,8,150.0,2014-03-12
+"Pocatello, ID",Pocatello,ID,42.899615,-112.435248,8,150.0,2016-05-24
+"Polaris, OH",Columbus,OH,40.141056,-82.988972,10,150.0,2019-06-22
+"Pollock Pines, CA",Pollock Pines,CA,38.759738,-120.530172,12,250.0,
+"Pomona, CA",Pomona,CA,34.027034,-117.762195,12,250.0,
+"Pompano Beach - Florida Turnpike Service Plaza, FL",Pompano Beach,FL,26.226546,-80.182431,8,250.0,2021-10-10
+"Pompano Beach - N Federal Hwy, FL",Pompano Beach,FL,26.276244,-80.098192,7,250.0,2023-01-28
+"Pompton Lakes, NJ",Pompton Lakes,NJ,41.008153,-74.293688,12,250.0,2023-03-23
+"Poncha Springs, CO",Poncha Springs,CO,38.51174,-106.076394,8,150.0,2018-02-02
+"Pooler - US 80, GA",Pooler,GA,32.110766,-81.235803,11,250.0,2022-12-30
+"Pooler, GA",Parker,GA,32.079619,-81.281224,8,250.0,2021-11-05
+"Port Huron, MI",Port Huron,MI,42.998817,-82.428935,8,150.0,2016-08-18
+"Port Orange, FL",Port Orange,FL,29.108566,-81.034569,6,150.0,2013-09-13
+"Port Saint Lucie - Florida's Turnpike, FL",Port St. Lucie,FL,27.300086,-80.372074,16,250.0,2021-09-08
+"Port St. Lucie, FL",Port St. Lucie,FL,27.313023,-80.406688,16,150.0,2013-07-25
+"Portage - George Ade Travel Plaza, IN",Portage,IN,41.5874,-87.2176,8,250.0,2021-12-24
+"Portage - John T McCutcheon Travel Plaza, IN",Portage,IN,41.588366,-87.216556,8,250.0,2021-12-24
+"Portage - Westnedge Ave, MI",Portage,MI,42.244,-85.587575,8,250.0,2021-07-02
+"Portland - Jantzen Beach Center, OR",Portland,OR,45.611854,-122.684919,8,250.0,
+"Portland - SW Broadway, OR",Portland,OR,45.5184429,-122.6804502,4,250.0,2023-02-10
+"Portland, ME",Portland,ME,43.664423,-70.269631,12,150.0,2019-10-17
+"Portland, OR",Portland,OR,45.572631,-122.554017,16,250.0,2023-01-27
+"Portsmouth, NH",Portsmouth,NH,43.034005,-70.779463,8,250.0,
+"Portsmouth, RI",Portsmouth,RI,41.617703,-71.247255,8,250.0,
+"Portsmouth, VA",Portsmouth,VA,36.837402,-76.306478,8,250.0,2023-03-16
+"Potsdam, NY",Potsdam,NY,44.667002,-74.990238,4,250.0,2022-09-28
+"Pottstown, PA",Pottstown,PA,40.2330528,-75.657935,12,250.0,2023-01-19
+"Prairie du Chien, WI",Prairie du Chien,WI,43.045703,-91.141403,8,250.0,
+"Price, UT",Price,UT,39.600731,-110.831701,8,150.0,2015-10-16
+"Primm, NV",Primm,NV,35.610687,-115.388028,42,250.0,2014-11-26
+"Princeton, WV",Princeton,WV,37.364002,-81.052394,8,250.0,2022-01-25
+"Providence, RI",Providence,RI,41.828441,-71.42697,8,250.0,2022-12-21
+"Provincetown, MA",Provincetown,MA,42.062319,-70.162513,12,250.0,
+"Provo - S 40 E, UT",Provo,UT,40.214126,-111.656782,12,250.0,
+"Pueblo, CO",Pueblo,CO,38.266591,-104.609086,12,250.0,2022-09-28
+"Punta Gorda, FL",Punta Gorda,FL,26.89569,-82.011268,8,250.0,2022-03-08
+"Quanah, TX",Quanah,TX,34.291728,-99.755215,8,250.0,2022-12-22
+"Quartzsite - Main Event Ln, AZ",Quartzsite,AZ,33.66288,-114.240091,88,250.0,
+"Quartzsite, AZ",Quartzsite,AZ,33.661314,-114.242174,36,250.0,2013-11-14
+"Queens - Queens Center, NY",Queens,NY,40.735082,-73.87067,10,72.0,2018-10-03
+"Queensbury, NY",Queensbury,NY,43.328388,-73.679992,8,120.0,2016-07-15
+"Quincy, MA",Quincy,MA,42.247935,-70.982978,8,250.0,
+"Quincy, WA",Quincy,WA,47.103877,-119.833007,8,250.0,2022-12-29
+"Raleigh, NC",Raleigh,NC,35.835623,-78.642569,24,250.0,2017-11-02
+"Rancho Cucamonga - Foothill Blvd, CA",Rancho Cucamonga,CA,34.106627,-117.527064,8,250.0,2021-09-22
+"Rancho Cucamonga - Haven Ave, CA",Rancho Cucamonga,CA,34.100473,-117.575552,16,250.0,
+"Rancho Cucamonga, CA",Rancho Cucamonga,CA,34.113592,-117.529406,12,150.0,2014-11-20
+"Rancho Mirage, CA",Rancho Mirage,CA,33.741311,-116.409258,24,72.0,2019-09-18
+"Rancho Palos Verdes, CA",Rancho Palos Verdes,CA,33.756556,-118.312364,24,250.0,
+"Raphine, VA",Raphine,VA,37.930083,-79.234611,8,250.0,2023-05-17
+"Rapid City, SD",Rapid City,SD,44.105601,-103.212569,4,120.0,2013-11-25
+"Rawlins, WY",Rawlins,WY,41.79082,-107.210272,8,150.0,2017-09-01
+"Reading, PA",Reading,PA,40.301734,-75.853085,8,250.0,2022-02-05
+"Red Bluff - S Main St, CA",Red Bluff,CA,40.163072,-122.228937,12,250.0,2022-07-02
+"Red Bluff, CA",Red Bluff,CA,40.182152,-122.227452,8,250.0,2019-11-26
+"Red Hook, NY",Red Hook,NY,41.979518,-73.88216,8,250.0,2022-04-07
+"Red Oak, TX",Red Oak,TX,32.517,-96.8214,16,250.0,2022-12-12
+"Redding - Hilltop Dr, CA",Redding,CA,40.578643,-122.359162,44,250.0,
+"Redding, CA",Redding,CA,40.590042,-122.378506,8,250.0,2022-10-11
+"Redlands - Alabama St, CA",Redlands,CA,34.07179,-117.210598,20,250.0,
+"Redlands - W Stuart Ave, CA",Redlands,CA,34.059384,-117.185405,20,250.0,2022-07-04
+"Redondo Beach, CA",Redondo Beach,CA,33.894294,-118.367379,8,150.0,2015-01-20
+"Refugio, TX",Refugio,TX,28.315183,-97.272189,12,250.0,
+"Rehoboth Beach - Coastal Hwy, DE",Rehoboth Beach,DE,38.716616,-75.109997,8,250.0,
+"Rehoboth Beach, DE",Rehoboth Beach,DE,38.712542,-75.10381,8,250.0,2021-01-07
+"Reno - Element Ln, NV",Reno,NV,39.503749,-119.801198,16,250.0,
+"Reno - N Sierra St, NV",Reno,NV,39.529389,-119.815667,16,250.0,2019-12-24
+"Reno - Rancharrah Pkwy, NV",Reno,NV,39.468528,-119.794333,24,250.0,
+"Reno - S Virginia St, NV",Reno,NV,39.487507,-119.796682,16,250.0,
+"Reno, NV",Reno,NV,39.489732,-119.794179,6,150.0,2016-05-05
+"Renton - SW 41st St, WA",Renton,WA,47.443115,-122.225157,16,250.0,2023-05-20
+"Reston - Sunset Hills Rd, VA",Reston,VA,38.956,-77.3654,12,250.0,
+"Reston, VA",Reston,VA,38.949021,-77.339711,8,250.0,2020-06-26
+"Revere, MA",Revere,MA,42.398547,-71.00021,8,250.0,2020-04-11
+"Richfield, UT",Richfield,UT,38.787942,-112.085316,4,150.0,2014-04-04
+"Richmond - Pierce St, CA",Richmond,CA,37.898736,-122.308672,16,250.0,2020-05-30
+"Richmond - S Providence Rd, VA",Richmond,VA,37.495848,-77.547664,8,250.0,2022-05-12
+"Richmond, CA",Richmond,CA,37.919969,-122.348976,12,150.0,2019-09-16
+"Richmond, IN",Richmond,IN,39.868255,-84.886326,8,250.0,2020-04-08
+"Richmond, KY",Richmond,KY,37.67173,-84.308365,12,250.0,2023-04-13
+"Richmond, RI",Richmond,RI,41.513891,-71.698256,8,250.0,2022-06-23
+"Richmond, TX",Richmond,TX,29.561504,-95.695242,8,150.0,2018-12-17
+"Richmond, VA",Richmond,VA,37.529855,-77.353819,20,120.0,2017-12-25
+"Ridgefield, WA",Ridgefield,WA,45.8177,-122.6828,12,250.0,2023-05-27
+"Ridgeland, SC",Ridgeland,SC,32.485474,-80.977876,8,250.0,
+"Ripon, CA",Ripon,CA,37.747311,-121.141219,12,250.0,
+"Ritzville, WA",Ritzville,WA,47.116294,-118.368328,4,150.0,2014-05-18
+"Riverdale Park, MD",Riverdale,MD,38.970361,-76.937333,8,72.0,2019-07-19
+"Riverhead, NY",Riverhead,NY,40.923322,-72.702788,8,250.0,2020-12-11
+"Riverside - Canyon Springs Pkwy, CA",Riverside,CA,33.939957,-117.282508,16,250.0,2020-02-25
+"Riverside, CA",Riverside,CA,33.981393,-117.37577,24,72.0,2017-12-29
+"Riverview - Hwy 301 S, FL",Riverview,FL,27.858153,-82.327561,8,250.0,2022-06-28
+"Riverview, FL",Riverview,FL,27.7915,-82.332833,10,120.0,2019-02-14
+"Riviera Beach, FL",Riviera Beach,FL,26.7781155,-80.1091072,8,120.0,
+"Roanoke, VA",Roanoke,VA,37.299379,-79.894214,8,250.0,
+"Robbinsdale, MN",Robbinsdale,MN,45.018928,-93.32583,8,150.0,2019-06-17
+"Robbinsville, NJ",Robbinsville Twp,NJ,40.1941978,-74.5953015,8,150.0,2019-07-13
+"Robertsdale, AL",Robertsdale,AL,30.633696,-87.677561,16,250.0,2022-04-23
+"Rochelle, IL",Rochelle,IL,41.916936,-89.069076,8,250.0,2022-05-29
+"Rochester, MN",Rochester,MN,44.006329,-92.470902,8,150.0,2017-10-21
+"Rochester, NH",Rochester,NH,43.310917,-70.993265,8,150.0,2019-12-26
+"Rock Springs, WY",Rock Springs,WY,41.580815,-109.262137,8,150.0,2017-08-10
+"Rockaway, NJ",Rockaway,NJ,40.908225,-74.557405,12,120.0,2019-03-02
+"Rockford - McFarland Rd, IL",Rockford,IL,42.306111,-88.976472,12,250.0,2021-12-19
+"Rockford, IL",Rockford,IL,42.243896,-88.978877,8,150.0,2013-09-12
+"Rockingham, NC",Rockingham,NC,34.921509,-79.74772,12,250.0,2021-12-10
+"Rockledge, FL",Rockledge,FL,28.26721,-80.71842,12,250.0,2021-03-04
+"Rocklin (SC), CA",Rocklin,CA,38.800537,-121.210485,18,150.0,2015-02-20
+"Rockville, MD",Rockville,MD,39.085997,-77.149696,8,72.0,2020-01-25
+"Rocky Hill, CT",Rocky Hill,CT,41.653283,-72.679252,12,250.0,2022-09-09
+"Rocky Mount, NC",Rocky Mount,NC,35.972874,-77.84687,8,120.0,2013-11-08
+"Rogers (SC), MN",Rogers,MN,45.199393,-93.560314,2,250.0,
+"Rohnert Park, CA",Rohnert Park,CA,38.3475,-122.720944,12,150.0,2019-05-09
+"Rolla, MO",Rolla,MO,37.940064,-91.801658,8,150.0,2016-09-27
+"Rolling Meadows, IL",Rolling Meadows,IL,42.049702,-87.994915,22,250.0,2017-10-18
+"Rolling Prairie - S Knute Rockne Plaza, IN",Rolling Prairie,IN,41.705116,-86.621519,8,250.0,2021-05-26
+"Rolling Prairie - Wilbur Shaw Travel Plaza, IN",Rolling Prairie,IN,41.707691,-86.623162,8,250.0,2021-05-26
+"Roscoe, NY",Roscoe,NY,41.93056,-74.908742,8,150.0,2019-02-12
+"Rosedale - 8731 Pulaski Hwy, MD",Rosedale,MD,39.33621,-76.481351,8,250.0,
+"Rosedale, MD",Rosedale,MD,39.311994,-76.525368,8,250.0,
+"Rosemont, IL",Rosemont,IL,41.975091,-87.866501,10,72.0,2018-11-06
+"Roseville - Douglas Blvd, CA",Roseville,CA,38.745316,-121.253384,16,250.0,
+"Roseville - Freedom Way, CA",Roseville,CA,38.792458,-121.298228,24,250.0,
+"Roseville - Galleria Boulevard, CA",Roseville,CA,38.767949,-121.263356,20,150.0,2020-02-18
+"Roseville - Harding Blvd, CA",Roseville,CA,38.745531,-121.273601,8,250.0,
+"Roseville, CA",Roseville,CA,38.771208,-121.266149,7,150.0,2014-04-29
+"Roseville, MI",Roseville,MI,42.522048,-82.906756,8,150.0,2017-11-23
+"Roslyn Heights - Willis Ave, NY",Roslyn Heights,NY,40.77956,-73.651063,8,250.0,2021-07-27
+"Roslyn Heights, NY",Roslyn Heights,NY,40.784034,-73.638233,8,250.0,
+"Rossford, OH",Rossford,OH,41.546791,-83.590402,12,250.0,
+"Roswell, GA",Roswell,GA,34.019005,-84.312888,12,250.0,2022-11-20
+"Rotterdam, NY",Rotterdam,NY,42.793371,-74.004721,8,250.0,2023-03-28
+"Round Rock, TX",Round Rock,TX,30.509711,-97.687749,16,250.0,2021-10-29
+"Rowland Heights, CA",Rowland Heights,CA,33.991811,-117.92803,8,72.0,2020-11-07
+"Royse City, TX",Royse City,TX,32.979184,-96.296371,8,250.0,2023-03-09
+"Russell, KS",Russell,KS,38.8679258,-98.8538087,8,250.0,
+"Ruston, LA",Ruston,LA,32.542727,-92.62574,8,250.0,2022-08-12
+"Rutland, VT",Rutland,VT,43.617562,-72.957208,6,250.0,2020-09-05
+"Saco, ME",Saco,ME,43.5112,-70.4348,8,250.0,2023-03-07
+"Sacramento - Arden Way, CA",Sacramento,CA,38.603327,-121.42853,20,72.0,2018-08-11
+"Sacramento - Freeport Blvd, CA",Sacramento,CA,38.533691,-121.4961,8,250.0,2020-09-30
+"Sacramento - J St, CA",Sacramento,CA,38.580186,-121.499476,20,250.0,2021-09-18
+"Sacramento - Point West Way, CA",Sacramento,CA,38.601153,-121.431187,8,250.0,
+"Sacramento, CA",Sacramento,CA,38.637729,-121.49718,10,150.0,2017-10-13
+"Sagamore Beach, MA",Sagamore Beach,MA,41.781242,-70.540271,8,150.0,2014-10-27
+"Salamanca, NY",Salamanca,NY,42.153067,-78.747726,8,120.0,2019-01-31
+"Salem (SC), OR",Salem,OR,44.92155,-123.006624,12,250.0,
+"Salem - Apperson Dr, VA",Salem,VA,37.271756,-80.037063,2,72.0,
+"Salem, OR",Salem,OR,44.93894,-122.987919,12,250.0,2020-11-05
+"Salem, VA",Salem,VA,37.289384,-80.079866,8,150.0,2019-11-15
+"Salina, KS",Salina,KS,38.877342,-97.618699,6,150.0,2014-07-04
+"Salinas, CA",Salinas,CA,36.715699,-121.653992,14,150.0,2017-10-13
+"Salisbury - N Salisbury Blvd, MD",Salisbury,MD,38.420772,-75.56579,8,250.0,2022-03-13
+"Salisbury, MD",Salisbury,MD,38.401648,-75.564818,6,150.0,2014-11-08
+"Salisbury, NC","Salisbury, NC",NC,35.645142,-80.486013,12,250.0,
+"Salt Lake City (SC), UT",Salt Lake City,UT,40.746393,-111.900534,4,72.0,2020-11-25
+"Salt Lake City - Admiral Byrd Rd, UT",Salt Lake City,UT,40.772184,-112.022278,8,250.0,
+"Salt Lake City - S 300 W, UT",Salt Lake City,UT,40.730089,-111.90178,8,250.0,2021-12-09
+"Salt Lake City - S State St, UT",South Salt Lake City,UT,40.720353,-111.888706,10,150.0,2015-03-06
+"Sammamish, WA",Sammamish,WA,47.616291,-122.032922,8,250.0,
+"San Anselmo, CA",San Anselmo,CA,37.980562,-122.565755,8,250.0,
+"San Antonio - Broadway, TX",San Antonio,TX,29.432144,-98.48244,16,250.0,
+"San Antonio - E Basse Rd, TX",San Antonio,TX,29.497048,-98.482185,12,250.0,
+"San Antonio - N Loop 1604 E, TX",San Antonio,TX,29.610486,-98.488594,15,250.0,2022-10-07
+"San Antonio - W Loop 1604 N, TX",San Antonio,TX,29.503634,-98.69925,16,250.0,
+"San Antonio - Worth Pkwy, TX",San Antonio,TX,29.61331,-98.598076,20,250.0,
+"San Antonio, TX",San Antonio,TX,29.549585,-98.582722,10,122.0,2019-08-22
+"San Ardo, CA",San Ardo,CA,35.97477,-120.900203,12,250.0,
+"San Bernardino, CA",San Bernardino,CA,34.08407,-117.299314,14,72.0,2018-06-08
+"San Bruno - El Camino Real, CA",San Bruno,CA,37.636105,-122.420515,28,250.0,2022-01-29
+"San Bruno - San Bruno Ave, CA",San Bruno,CA,37.618905,-122.440524,12,250.0,2021-05-31
+"San Carlos, CA",San Carlos,CA,37.502912,-122.245569,19,72.0,2018-07-01
+"San Clemente - Av. Vista Hermosa, CA",San Clemente,CA,33.463091,-117.60783,16,250.0,2020-10-01
+"San Clemente, CA",San Clemente,CA,33.437177,-117.62712,49,250.0,2017-11-17
+"San Diego - A Street, CA",San Diego,CA,32.719384,-117.159567,16,72.0,2018-06-27
+"San Diego - Balboa Mesa, CA",San Diego,CA,32.818922,-117.179792,16,250.0,2020-11-18
+"San Diego - Camino De La Plaza, CA",San Ysidro,CA,32.54462,-117.042305,8,250.0,2022-07-27
+"San Diego - Camino Del Sur, CA",San Diego,CA,33.020052,-117.126278,16,72.0,2019-01-12
+"San Diego - Carmel Mountain Ranch, CA",San Diego,CA,32.984443,-117.076353,12,250.0,
+"San Diego - Carmel Mountain Rd, CA",San Diego,CA,32.920824,-117.21491,24,250.0,2022-05-10
+"San Diego - Clairemont Mesa Blvd, CA",San Diego,CA,32.831963,-117.159547,12,250.0,2022-12-20
+"San Diego - Del Mar Heights Rd, CA",San Diego,CA,32.952645,-117.235974,18,72.0,
+"San Diego - Fenton Pkwy, CA",San Diego,CA,32.781473,-117.127532,8,250.0,
+"San Diego - Friars Rd, CA",San Diego,CA,32.769144,-117.166271,48,250.0,2019-02-01
+"San Diego - Genesee Ave, CA",San Diego,CA,32.821662,-117.184317,8,250.0,2023-01-23
+"San Diego - Kearny Mesa Hazard Village, CA",San Diego,CA,32.832252,-117.128472,12,250.0,
+"San Diego - Kearny Mesa, CA",San Diego,CA,32.8333,-117.1446,16,250.0,
+"San Diego - Mira Mesa Blvd, CA",San Diego,CA,32.911707,-117.145653,16,250.0,2021-07-13
+"San Diego - Mission Center Rd, CA",San Diego,CA,32.776392,-117.155136,10,250.0,2022-06-10
+"San Diego - Navajo Rd, CA",San Diego,CA,32.803954,-117.007615,12,250.0,
+"San Diego - Qualcomm, CA",San Diego,CA,32.902137,-117.193489,12,150.0,2015-06-08
+"San Diego - Scripps Poway Pkwy, CA",San Diego,CA,32.9362,-117.098848,12,250.0,2021-11-09
+"San Diego - Ted Williams Pkwy, CA",San Diego,CA,32.9665,-117.0892,8,250.0,
+"San Diego - Truxtun Rd, CA",San Diego,CA,32.737743,-117.217061,12,250.0,2022-05-06
+"San Diego - University Center Lane, CA",San Diego,CA,32.870556,-117.224664,7,72.0,2021-06-10
+"San Diego - Valley Centre Drive, CA",San Diego,CA,32.938702,-117.231395,16,250.0,
+"San Diego - Village Way, CA",San Diego,CA,32.96304,-117.18984,12,250.0,
+"San Fernando - Celis St, CA",San Fernando,CA,34.281483,-118.44167,12,250.0,2021-05-15
+"San Francisco - 16th St, CA",San Francisco,CA,37.766033,-122.408981,12,72.0,
+"San Francisco - Geary Blvd, CA",San Francisco,CA,37.781806,-122.446146,34,250.0,2021-05-20
+"San Francisco - Letterman Drive, CA",San Francisco,CA,37.798513,-122.449846,6,72.0,2019-05-23
+"San Francisco, CA",San Francisco,CA,37.781296,-122.421394,12,72.0,2020-08-14
+"San Gabriel, CA",San Gabriel,CA,34.077694,-118.100109,20,250.0,2021-08-05
+"San Jose - 925 Blossom Hill Rd, CA",San Jose,CA,37.250854,-121.860731,24,250.0,2021-06-24
+"San Jose - Blossom Hill Rd, CA",San Jose,CA,37.244638,-121.891141,18,72.0,2019-05-17
+"San Jose - Cherry Avenue, CA",San Jose,CA,37.258506,-121.871476,24,72.0,2018-12-22
+"San Jose - Coleman Ave, CA",San Jose,CA,37.339661,-121.905085,12,150.0,2018-09-01
+"San Jose - East Capitol Expressway, CA",San Jose,CA,37.300551,-121.825198,20,250.0,2020-08-29
+"San Jose - Holger Way, CA",San Jose,CA,37.417281,-121.956897,14,72.0,2020-11-07
+"San Jose - Santana Row (Valet), CA",San Jose,CA,37.321459,-121.948969,10,72.0,2019-02-02
+"San Jose - Santana Row, CA",San Jose,CA,37.322234,-121.949226,26,72.0,2019-02-02
+"San Jose - Saratoga Ave, CA",San Jose,CA,37.3006,-121.9812,12,250.0,2022-11-30
+"San Juan Capistrano - Verdugo St, CA",San Juan Capistrano,CA,33.503662,-117.6642,12,250.0,
+"San Juan Capistrano, CA",San Juan Capistrano,CA,33.498458,-117.6632,7,125.0,2014-05-06
+"San Leandro, CA",San Leandro,CA,37.709813,-122.164607,12,250.0,2022-09-16
+"San Luis Obispo - Higuera St, CA",San Luis Obispo,CA,35.247841,-120.67193,20,250.0,2021-11-19
+"San Luis Obispo - Los Osos Valley Rd, CA",San Luis Obispo,CA,35.253753,-120.684317,16,250.0,2021-05-15
+"San Luis Obispo, CA",San Luis Obispo,CA,35.265182,-120.676288,18,250.0,2018-05-06
+"San Marcos, CA",San Marcos,CA,33.13658,-117.176119,20,250.0,2021-08-18
+"San Marcos, TX",San Marcos,TX,29.827692,-97.979677,12,150.0,2013-08-17
+"San Mateo - 1876 S Norfolk St, CA",San Mateo,CA,37.55453,-122.293228,16,250.0,
+"San Mateo - 230 De Anza Blvd, CA",San Mateo,CA,37.5215,-122.3377,8,250.0,
+"San Mateo - 2940 S Norfolk St, CA",San Mateo,CA,37.543787,-122.285551,12,250.0,
+"San Mateo - Bridgepointe Pkwy, CA",San Mateo,CA,37.558546,-122.284614,12,120.0,2017-11-01
+"San Mateo - El Camino Real, CA",San Mateo,CA,37.542,-122.3016,12,250.0,
+"San Mateo - Hillsdale Boulevard, CA",San Mateo,CA,37.533306,-122.327472,12,250.0,2021-01-06
+"San Mateo, CA",San Mateo,CA,37.544632,-122.290188,8,150.0,2015-07-10
+"San Rafael - Northgate Dr, CA",San Rafael,CA,38.009266,-122.548661,12,250.0,
+"San Rafael, CA",San Rafael,CA,37.971375,-122.517193,8,250.0,2023-02-04
+"San Ramon - Diablo Plaza, CA",San Ramon,CA,37.774766,-121.979789,20,72.0,2019-04-05
+"San Ramon - San Ramon Valley Blvd, CA",San Ramon,CA,37.723081,-121.944252,16,250.0,2021-12-10
+"San Ramon, CA",San Ramon,CA,37.76292,-121.963662,16,150.0,2018-08-30
+"Sand City, CA",Sand City,CA,36.621976,-121.844208,12,250.0,2021-04-17
+"Sandusky, OH",Sandusky,OH,41.410173,-82.662914,10,150.0,2018-07-03
+"Sandy, OR",Sandy,OR,45.403531,-122.294242,8,150.0,2015-11-04
+"Sanford, FL",Sanford,FL,28.799264,-81.338224,12,250.0,2023-03-29
+"Sanford, NC",Sanford,NC,35.488112,-79.193398,12,250.0,2022-11-30
+"Santa Ana - E 5th St, CA",Santa Ana,CA,33.748796,-117.866115,20,72.0,2020-11-20
+"Santa Ana, CA",Santa Ana,CA,33.776011,-117.872176,12,150.0,2016-12-06
+"Santa Barbara - Ortega St, CA",Santa Barbara,CA,34.41927,-119.69715,12,250.0,
+"Santa Barbara, CA",Santa Barbara,CA,34.440227,-119.753359,16,250.0,2021-10-04
+"Santa Clara, CA",Santa Clara,CA,37.394816,-121.945157,16,72.0,2020-09-17
+"Santa Clarita - Magic Mountain Pkwy, CA",Santa Clarita,CA,34.41895,-118.559089,16,250.0,
+"Santa Clarita - Newhall Ranch Rd, CA",Santa Clarita,CA,34.441547,-118.577621,24,250.0,
+"Santa Clarita, CA",Santa Clarita,CA,34.431041,-118.554319,32,250.0,2018-04-06
+"Santa Cruz, CA",Santa Cruz,CA,36.978635,-122.013968,16,250.0,2020-07-16
+"Santa Fe, NM",Santa Fe,NM,35.611793,-106.032196,8,150.0,2017-04-13
+"Santa Maria, CA",Santa Maria,CA,34.952928,-120.434555,20,250.0,2022-05-18
+"Santa Monica - Cloverfield Blvd, CA",Santa Monica,CA,34.025098,-118.469543,16,250.0,2022-10-21
+"Santa Monica - Santa Monica Place, CA",Santa Monica,CA,34.013087,-118.493843,14,72.0,2019-02-19
+"Santa Monica, CA",Santa Monica,CA,34.024585,-118.485771,62,250.0,2022-02-18
+"Santa Nella, CA",Santa Nella,CA,37.100209,-121.012011,48,250.0,2022-08-18
+"Santa Rosa, CA",Santa Rosa,CA,38.459554,-122.73023,20,250.0,2019-11-20
+"Santa Rosa, NM",Santa Rosa,NM,34.947013,-104.647997,6,150.0,2015-03-13
+"Santa Ysabel, CA",Santa Ysabel,CA,33.109253,-116.674419,8,250.0,2021-03-29
+"Santee, SC",Santee,SC,33.485858,-80.475763,8,150.0,2013-12-27
+"Santo, TX",Santo,TX,32.61173,-98.109967,12,250.0,
+"Sarasota - Clark Rd, FL",Sarasota,FL,27.270298,-82.462865,8,250.0,2022-06-02
+"Sarasota, FL",Sarasota,FL,27.386306,-82.464377,20,150.0,2017-08-19
+"Sault Ste. Marie, MI",Sault Ste. Marie,MI,46.463553,-84.386795,8,250.0,2021-08-26
+"Savannah, GA",Savannah,GA,32.135507,-81.212767,8,125.0,2014-01-15
+"Scappoose, OR",Scappoose,OR,45.7562,-122.8764,4,250.0,2023-05-24
+"Schertz, TX",Schertz,TX,29.598455,-98.276067,8,150.0,2020-05-02
+"Scott, LA",Scott,LA,30.242833,-92.106083,8,250.0,
+"Scotts Valley, CA",Scotts Valley,CA,37.047608,-122.027743,16,250.0,2020-01-30
+"Scottsdale - E Shea Blvd, AZ",Scottsdale,AZ,33.5835,-111.894,16,250.0,2022-06-30
+"Scottsdale - N Kierland Blvd, AZ",Scottsdale,AZ,33.623205,-111.930338,8,72.0,2019-02-16
+"Scottsdale, AZ",Scottsdale,AZ,33.623139,-111.922451,16,72.0,2017-11-21
+"Seabrook, NH",Seabrook,NH,42.895182,-70.869351,8,150.0,2015-10-09
+"Seaford, DE",Seaford,DE,38.658528,-75.592966,8,250.0,2022-02-24
+"Sealy, TX",Sealy,TX,29.76911,-96.046154,8,250.0,
+"Seaside, OR",Seaside,OR,46.00101,-123.91683,8,150.0,2016-07-01
+"Seattle - 1201 2nd Avenue, WA",Seattle,WA,47.6066581,-122.3371498,4,72.0,2020-12-07
+"Seattle - NE Northgate Way, WA",Seattle,WA,47.705956,-122.327133,16,250.0,2021-03-30
+"Seattle - NW Ballard Way, WA",Seattle,WA,47.662639,-122.374975,8,150.0,2020-12-11
+"Seattle - Union St, WA",Seattle,WA,47.609686,-122.332152,10,72.0,2019-07-09
+"Sebastian, FL",Sebastian,FL,27.767877,-80.549569,8,250.0,2022-12-09
+"Sebring, FL",Sebring,FL,27.465749,-81.434147,8,250.0,2023-03-14
+"Sedona, AZ",Sedona,AZ,34.775559,-111.764099,14,72.0,2018-04-23
+"Seekonk, MA",Seekonk,MA,41.799157,-71.331026,8,250.0,2022-01-28
+"Selma, CA",Selma,CA,36.574434,-119.629402,16,250.0,2022-07-08
+"Sequim, WA",Sequim,WA,48.071232,-123.074527,8,150.0,2017-07-05
+"Seville, OH",Seville,OH,41.035687,-81.865126,12,250.0,
+"Shaker Heights, OH",Shaker Heights,OH,41.465546,-81.538146,12,250.0,
+"Shamrock, TX",Shamrock,TX,35.226765,-100.24836,6,150.0,2015-02-20
+"Sheboygan, WI",Sheboygan,WI,43.749912,-87.747073,8,150.0,2015-10-07
+"Sheffield, OH",Sheffield,OH,41.426963,-82.076273,8,150.0,2018-02-10
+"Shelby, IA",Shelby,IA,41.500575,-95.451663,8,150.0,2019-01-08
+"Shelbyville, IN",Shelbyville,IN,39.5539,-85.7745,8,250.0,2022-06-17
+"Shenandoah - Metropark Dr, TX",Shenandoah,TX,30.194964,-95.452548,8,250.0,2022-11-25
+"Shenandoah, TX",Shenandoah,TX,30.188746,-95.452171,8,250.0,2022-11-04
+"Sherburn, MN",Sherburn,MN,43.66182,-94.733012,8,150.0,2017-11-19
+"Sheridan, WY",Sheridan,WY,44.804565,-106.956363,4,150.0,2015-07-15
+"Sherman Oaks - Ventura Blvd, CA",Sherman Oaks,CA,34.156902,-118.467539,40,250.0,2022-12-13
+"Shirley, NY",Shirley,NY,40.804373,-72.860362,12,250.0,2022-04-16
+"Shreveport, LA",Shreveport,LA,32.478594,-93.75437,8,150.0,2016-05-12
+"Sidney, NE",Sidney,NE,41.115424,-102.949694,8,150.0,2017-05-10
+"Siler City, NC",Siler City,NC,35.73499,-79.442016,8,250.0,2021-06-24
+"Silverthorne - Ruby Ranch Rd, CO",Silverthorne,CO,39.645998,-106.079617,8,250.0,2021-07-03
+"Silverthorne, CO",Silverthorne,CO,39.631457,-106.070816,12,150.0,2013-10-03
+"Simi Valley - Tierra Rejada Rd, CA",Simi Valley,CA,34.272167,-118.797139,16,250.0,2020-09-22
+"Sioux City - Southern Hills Dr, IA",Sioux City,IA,42.440787,-96.346112,8,250.0,2021-05-19
+"Sioux Falls, SD",Sioux Falls,SD,43.527655,-96.790579,8,120.0,2017-10-30
+"Sisseton, SD",Sisseton,SD,45.65847,-97.017933,8,250.0,2023-03-01
+"Sisters, OR",Sisters,OR,44.297162,-121.56292,8,250.0,
+"Skokie, IL",Skokie,IL,42.009459,-87.766164,20,72.0,2018-01-30
+"Skowhegan, ME",Skowhegan,ME,44.780304,-69.727027,8,150.0,2020-01-01
+"Slidell, LA",Slidell,LA,30.266552,-89.760156,8,150.0,2016-02-06
+"Smithfield, NC",Smithfield,NC,35.505,-78.325583,8,150.0,2019-10-04
+"Socorro, NM",Socorro,NM,34.071707,-106.892957,8,250.0,2022-08-30
+"Soldotna, AK",Soldotna,AK,60.494628,-151.045047,4,250.0,2021-11-18
+"Soledad - Front St, CA",Soledad,CA,36.429889,-121.334477,8,250.0,2021-11-21
+"Soledad - H Dela Rosa St, CA",Soledad,CA,36.4162019,-121.320846,7,250.0,2022-06-26
+"Somerset - Eastbound Service Plaza, PA",Somerset,PA,39.9995422,-79.0474265,8,250.0,2021-07-21
+"Somerset - Westbound Service Plaza, PA",Somerset,PA,39.999603,-79.043673,8,250.0,2021-05-24
+"Somerset, PA",Somerset,PA,40.017383,-79.077117,6,150.0,2014-01-10
+"Somerville, MA",Somerville,MA,42.390558,-71.086016,8,250.0,2022-03-31
+"Sonoma, CA",Sonoma,CA,38.29179,-122.452126,8,250.0,2021-10-16
+"South Amboy, NJ",South Amboy,NJ,40.460488,-74.294903,8,250.0,
+"South Barrington, IL",South Barrington,IL,42.0748,-88.1868,12,250.0,2022-09-22
+"South Boston - Philpott Rd, VA",South Boston,VA,36.68665,-78.900855,4,250.0,2021-07-29
+"South Burlington, VT",South Burlington,VT,44.462814,-73.179316,8,150.0,2015-11-04
+"South Hill, VA",South Hill,VA,36.748445,-78.103764,6,150.0,2014-08-07
+"South Jordan, UT",South Jordan,UT,40.561525,-111.930221,12,250.0,
+"South Lake Tahoe - Harrison Ave, CA",South Lake Tahoe,CA,38.940414,-119.977858,12,250.0,
+"South Lake Tahoe, CA",South Lake Tahoe,CA,38.85543,-120.013284,8,250.0,
+"South Padre Island, TX",South Padre Island,TX,26.081436,-97.16109,2,72.0,2019-11-12
+"South River, NJ",South River,NJ,40.461954,-74.400916,8,250.0,2022-10-05
+"South San Francisco, CA",South San Francisco,CA,37.655243,-122.401321,20,72.0,
+"South Toms River, NJ",Toms River,NJ,39.941683,-74.211995,8,150.0,2019-10-18
+"Southampton, NY",Southampton,NY,40.891909,-72.426995,8,120.0,2016-06-03
+"Southaven, MS",Southaven,MS,34.963441,-89.99184,8,250.0,2023-05-17
+"Southington, CT",Southington,CT,41.612429,-72.901215,12,250.0,
+"Southlake, TX",Southlake,TX,32.943488,-97.133843,10,150.0,2018-04-19
+"Sparks, NV",Sparks,NV,39.538137,-119.733926,8,250.0,2023-05-15
+"Spartanburg, SC",Spartanburg,SC,34.936515,-81.982822,8,250.0,
+"Spearfish, SD",Spearfish,SD,44.520607,-103.890924,6,150.0,2017-10-30
+"Speedway, IN",Indianapolis,IN,39.80066,-86.270482,8,250.0,2021-05-28
+"Spokane, WA",Spokane,WA,47.590359,-117.56168,8,250.0,2019-12-21
+"Sprague, WA",Sprague,WA,47.209072,-118.22589,8,250.0,2022-03-29
+"Spring - Spring Stuebner Rd, TX",Spring,TX,30.085513,-95.449924,15,250.0,2023-03-28
+"Spring, TX",Spring,TX,30.050304,-95.438361,8,250.0,2022-10-01
+"Springfield - 6601 Springfield Mall, VA",Springfield,VA,38.77627,-77.175921,20,250.0,
+"Springfield - Cleveland Place, NJ",Springfield,NJ,40.717706,-74.329462,8,250.0,2020-07-30
+"Springfield - N Mulroy Rd, MO",Springfield,MO,37.252772,-93.182327,16,250.0,
+"Springfield - W Jefferson St, IL",Springfield,IL,39.807044,-89.681966,12,250.0,
+"Springfield, IL",Springfield,IL,39.748868,-89.67119,8,150.0,2015-01-09
+"Springfield, MO",Springfield,MO,37.251836,-93.265534,8,150.0,2016-11-16
+"Springfield, OR",Springfield,OR,44.082605,-123.037471,14,150.0,2013-11-02
+"Springfield, VA",Springfield,VA,38.774412,-77.177566,18,150.0,2018-06-21
+"St. Augustine - Inman Rd, FL",St. Augustine,FL,29.916415,-81.403632,12,250.0,2021-11-18
+"St. Augustine - World Commerce Pkwy, FL",St. Augustine,FL,29.983752,-81.464138,12,250.0,2022-12-20
+"St. Augustine, FL",St. Augustine,FL,29.924286,-81.416018,6,120.0,2014-01-03
+"St. Charles - Beale St, MO",St. Charles,MO,38.765655,-90.493552,12,72.0,2019-05-15
+"St. Charles, IL",St. Charles,IL,41.8998,-88.3417,12,250.0,
+"St. Charles, MO",St. Charles,MO,38.782139,-90.532862,5,150.0,2015-04-15
+"St. George - Convention Center Drive, UT",St. George,UT,37.077652,-113.583912,4,72.0,
+"St. George - S Convention Center Dr, UT",St. George,UT,37.077559,-113.5843,12,250.0,2023-05-25
+"St. George, SC",St. George,SC,33.195556,-80.599395,12,250.0,2021-09-03
+"St. George, UT",St. George,UT,37.12645,-113.601865,8,150.0,2014-08-14
+"St. Johnsbury, VT",St. Johnsbury,VT,44.460841,-72.014819,8,250.0,2022-09-30
+"St. Joseph, MI",St. Joseph,MI,42.056357,-86.456352,8,120.0,2013-11-26
+"St. Joseph, MO",St. Joseph,MO,39.768966,-94.801118,8,150.0,2018-11-20
+"St. Louis - Riverview Dr, MO",St. Louis,MO,38.768852,-90.182684,8,250.0,
+"St. Louis Park, MN",St. Louis Park,MN,44.935964,-93.347857,8,250.0,2020-05-27
+"St. Louis, MO",St. Louis,MO,38.620823,-90.260954,12,250.0,2022-07-16
+"St. Paul, MN",St. Paul,MN,44.954518,-93.15492,12,250.0,2021-11-13
+"St. Peter, MN",St. Peter,MN,44.336448,-93.950131,8,250.0,2021-10-30
+"St. Petersburg, FL",St. Petersburg,FL,27.734808,-82.680101,8,250.0,2021-02-20
+"St. Regis, MT",St Regis,MT,47.29891,-115.09932,12,250.0,
+"Stafford, VA",Stafford,VA,38.467411,-77.412069,8,250.0,2021-05-22
+"Stamford, CT",Stamford,CT,41.067836,-73.545266,12,72.0,2019-08-09
+"State College, PA",State College,PA,40.815605,-77.901757,8,250.0,2021-03-05
+"Stateline, NV",Stateline,NV,38.963471,-119.940651,14,150.0,2017-08-25
+"Staten Island - Richmond Ave, NY",Staten Island,NY,40.612043,-74.156647,12,250.0,
+"Staten Island - Veterans Rd W, NY",Staten Island,NY,40.527562,-74.231359,12,150.0,2019-12-31
+"Staunton, VA",Staunton,VA,38.1334859,-79.0434692,8,120.0,2019-01-31
+"Steele, AL",Steele,AL,33.933824,-86.191611,8,150.0,2017-08-09
+"Sterling, VA",Sterling,VA,38.977853,-77.41201,8,250.0,2021-05-25
+"Stevens Point, WI",Stevens Point,WI,44.536,-89.5782862,8,250.0,
+"Stockton (SC), CA",Stockton,CA,38.01908,-121.276399,8,250.0,
+"Stockton - E Morada Ln, CA",Stockton,CA,38.039095,-121.260928,12,250.0,2022-02-23
+"Stockton, CA",Stockton,CA,37.984978,-121.335924,12,250.0,2020-11-13
+"Stoughton, MA",Stoughton,MA,42.152917,-71.073528,12,250.0,2021-09-30
+"Strasburg, VA",Strasburg,VA,39.00496,-78.337836,6,150.0,2015-09-02
+"Strongsville, OH",Strongsville,OH,41.34336,-81.824924,8,150.0,2018-02-09
+"Stuart, FL",Stuart,FL,27.175517,-80.252532,8,250.0,2022-02-21
+"Sturbridge, MA",Sturbridge,MA,42.098547,-72.072596,12,250.0,2023-03-24
+"Sturgeon Bay, WI",Sturgeon Bay,WI,44.822043,-87.402726,8,250.0,2022-06-15
+"Sugar Land, TX",Sugar Land,TX,29.586968,-95.634899,12,250.0,
+"Sulphur Springs, TX",Sulphur Springs,TX,33.137172,-95.603239,8,150.0,2016-06-29
+"Sulphur, LA",Sulphur,LA,30.21422,-93.374795,12,250.0,
+"Summerton, SC",Summerton,SC,33.587091,-80.357191,8,250.0,2021-12-23
+"Sun City Center, FL",Sun City Center,FL,27.7136,-82.3756,8,250.0,
+"Sun Valley, CA",Sun Valley,CA,34.225463,-118.397666,40,250.0,
+"Sunnyvale - E El Camino Real, CA",Sunnyvale,CA,37.362342,-122.026278,12,250.0,
+"Sunnyvale - N Mathilda Ave, CA",Sunnyvale,CA,37.404383,-122.02605,8,250.0,
+"Sunnyvale - S Bernardo Ave, CA",Sunnyvale,CA,37.372668,-122.057332,16,250.0,2021-04-03
+"Sunnyvale - W McKinley Ave, CA",Sunnyvale,CA,37.373421,-122.033114,10,120.0,2018-03-12
+"Sunrise, FL",Sunrise,FL,26.19313,-80.276696,8,250.0,
+"Superior, CO",Superior,CO,39.9548017,-105.1646291,16,250.0,2020-10-02
+"Superior, MT",Superior,MT,47.192149,-114.888901,4,150.0,2014-12-05
+"Susanville, CA",Susanville,CA,40.430902,-120.657897,8,250.0,2021-09-29
+"Sutherlin, OR",Sutherlin,OR,43.386902,-123.341367,51,250.0,2023-02-17
+"Sutton, WV",Sutton,WV,38.700389,-80.664472,8,250.0,2022-10-03
+"Suwanee, GA",Suwanee,GA,34.03393,-84.052624,12,250.0,2023-05-27
+"Swartz Creek, MI",Swartz Creek,MI,42.96744,-83.828794,10,150.0,2020-01-28
+"Swedesboro, NJ",Swedesboro,NJ,39.759041,-75.360179,11,250.0,
+"Sweetwater, TX",Sweetwater,TX,32.450591,-100.392455,8,150.0,2016-08-19
+"Syosset - Jericho Tpke, NY",Syosset,NY,40.8109,-73.5054,8,250.0,2022-09-11
+"Syracuse - Destiny USA Dr, NY",Syracuse,NY,43.0674,-76.1753,12,250.0,2022-06-30
+"Syracuse, NY",Liverpool,NY,43.102516,-76.187475,8,120.0,2015-04-16
+"Tacna, AZ",Tacna,AZ,32.6900433,-113.9535836,8,250.0,2020-03-24
+"Tacoma, WA",Tacoma,WA,47.209113,-122.462621,12,250.0,2023-03-15
+"Tahoe City, CA",Tahoe City,CA,39.167793,-120.14453,6,150.0,2019-11-15
+"Tallahassee - Thomasville Rd, FL",Tallahassee,FL,30.504341,-84.252123,12,250.0,
+"Tallahassee - Westend Square, FL",Tallahassee,FL,30.441476,-84.319677,12,250.0,
+"Tallahassee, FL",Tallahassee,FL,30.510935,-84.247838,6,150.0,2015-09-23
+"Talleyville, DE",Wilmington,DE,39.8103,-75.5514,8,250.0,
+"Tampa - E Hillsborough Ave, FL",Tampa,FL,27.996805,-82.372668,8,250.0,2022-03-29
+"Tampa - East Bearss Ave, FL",Tampa,FL,28.088551,-82.4521,8,250.0,2022-08-28
+"Tampa - N Dale Mabry Hwy, FL",Tampa,FL,27.949242,-82.504944,8,250.0,2022-03-31
+"Tampa - West Swann Ave, FL",Tampa,FL,27.937057,-82.481113,10,120.0,2018-08-01
+"Tampa, FL",Tampa,FL,27.965757,-82.402577,8,150.0,2018-02-24
+"Tannersville, PA",Tannersville,PA,41.045431,-75.312244,8,150.0,2015-12-14
+"Tappahannock, VA",Tappahannock,VA,37.903836,-76.865734,8,250.0,2021-01-14
+"Tarpon Springs, FL",Tarpon Springs,FL,28.136633,-82.756734,12,250.0,2023-01-31
+"Tarrytown, NY",Tarrytown,NY,41.061499,-73.836411,12,120.0,2016-12-02
+"Tehachapi, CA",Tehachapi,CA,35.125216,-118.406785,40,250.0,
+"Tejon Ranch - Outlets at Tejon Pkwy, CA",Arvin,CA,34.985959,-118.94385,76,250.0,2021-09-01
+"Tejon Ranch, CA",Lebec,CA,34.98734,-118.94623,24,150.0,2012-11-19
+"Temecula - Temecula Pkwy, CA",Temecula,CA,33.475122,-117.129563,8,250.0,2021-07-09
+"Temecula, CA",Temecula,CA,33.52421,-117.152568,10,150.0,2016-05-10
+"Tempe, AZ",Tempe,AZ,33.381,-111.963,14,250.0,2022-07-15
+"Temple, TX",Temple,TX,31.13776,-97.329332,48,250.0,2023-02-02
+"Terre Haute, IN",Terre Haute,IN,39.443345,-87.331737,8,150.0,2016-03-30
+"Terrell, TX",Terrell,TX,32.717529,-96.323024,24,250.0,2023-03-22
+"Texarkana, TX",Texarkana,TX,33.459926,-94.077179,8,150.0,2016-12-21
+"The Dalles, OR",The Dalles,OR,45.611964,-121.208526,5,150.0,2014-08-01
+"Thomasville, NC",Thomasville,NC,35.855555,-80.072156,8,250.0,2022-07-16
+"Thornton, CO",Thornton,CO,39.914711,-104.986758,8,250.0,2020-02-28
+"Thornton, NH",Thornton,NH,43.870733,-71.652514,8,250.0,
+"Thousand Oaks - East Thousand Oaks Blvd, CA",Thousand Oaks,CA,34.158291,-118.82363,24,150.0,2018-03-21
+"Thousand Oaks - West Hillcrest Drive, CA",Thousand Oaks,CA,34.18445,-118.890747,20,72.0,2018-08-05
+"Three Rivers, TX",Three Rivers,TX,28.521614,-98.185829,8,150.0,2016-09-30
+"Tifton, GA",Tifton,GA,31.448847,-83.53221,8,150.0,2014-07-10
+"Tigard, OR",Tigard,OR,45.451608,-122.782599,10,72.0,2018-05-07
+"Tillamook, OR",Tillamook,OR,45.481359,-123.843893,12,250.0,2022-09-21
+"Tilton, NH",Tilton,NH,43.455263,-71.564612,8,250.0,2021-02-25
+"Timonium, MD",Timonium,MD,39.455973,-76.635703,12,250.0,
+"Tinton Falls, NJ",Tinton Falls,NJ,40.226272,-74.093538,8,120.0,2015-09-19
+"Titusville, FL",Titusville,FL,28.552782,-80.840594,16,250.0,2020-10-18
+"Tofte, MN",Tofte,MN,47.564434,-90.855776,8,250.0,
+"Toledo, OH",Toledo,OH,41.721617,-83.509207,10,150.0,2017-11-24
+"Tomah, WI",Tomah,WI,44.018885,-90.507493,8,250.0,2021-11-16
+"Tonopah, NV",Tonopah,NV,38.069801,-117.232243,8,150.0,2016-06-03
+"Tooele, UT",Tooele,UT,40.684486,-112.268818,6,150.0,2015-02-25
+"Topeka - Topeka Service Area, KS",Topeka,KS,39.0195,-95.508,8,250.0,2022-09-02
+"Topeka, KS",Topeka,KS,39.044199,-95.76046,8,150.0,2014-10-17
+"Torrance - W Knox St, CA",Torrance,CA,33.854799,-118.299614,32,250.0,
+"Torrance, CA",Torrance,CA,33.834811,-118.349039,20,250.0,2021-01-22
+"Towson, MD",Towson,MD,39.396234,-76.575626,8,250.0,2021-04-23
+"Tracy - West Grant Line Rd, CA",Tracy,CA,37.753054,-121.467549,12,250.0,2022-04-21
+"Traver, CA",Traver,CA,36.44881,-119.486404,16,250.0,2020-11-18
+"Traverse City, MI",Traverse City,MI,44.744729,-85.644019,10,150.0,2017-09-10
+"Tremonton, UT",Tremonton,UT,41.70995,-112.198576,10,150.0,2015-04-01
+"Trenton - Richard Stockton, NJ",Trenton,NJ,40.176935,-74.631786,8,250.0,2021-05-06
+"Triadelphia - Gantzer Ridge Rd, WV",Triadelphia,WV,40.060289,-80.588981,8,250.0,2021-09-18
+"Triadelphia, WV",Triadelphia,WV,40.060757,-80.602874,4,150.0,2014-05-07
+"Trinidad, CO",Trinidad,CO,37.134228,-104.519962,9,250.0,2015-07-30
+"Troutdale, OR",Troutdale,OR,45.542901,-122.38935,8,250.0,2022-01-23
+"Troutman, NC",Troutman,NC,35.676176,-80.85699,12,250.0,
+"Truckee - Brockway Rd, CA",Truckee,CA,39.321865,-120.1621,8,150.0,2015-10-23
+"Truckee - Donner Pass, CA",Truckee,CA,39.327507,-120.207373,11,150.0,2014-08-26
+"Truckee - Soaring Way, CA",Truckee,CA,39.319501,-120.155831,16,250.0,2021-12-10
+"Truth or Consequences, NM",Truth or Consequences,NM,33.15524,-107.251642,8,150.0,2017-07-08
+"Tucson - E Skyline Dr, AZ",Tucson,AZ,32.32555,-110.930936,10,72.0,2018-04-29
+"Tucson - W River Rd, AZ",Tucson,AZ,32.321657,-111.044732,16,250.0,2022-02-10
+"Tucson, AZ",Tucson,AZ,32.083857,-110.803571,10,150.0,2017-10-15
+"Tucumcari - S 1st St, NM",Tucumcari,NM,35.154908,-103.72529,8,250.0,
+"Tucumcari, NM",Tucumcari,NM,35.153963,-103.722539,6,150.0,2015-04-21
+"Tukwila - Strander Blvd, WA",Tukwila,WA,47.455273,-122.256631,16,250.0,2022-11-09
+"Tully, NY",Tully,NY,42.800041,-76.121849,12,250.0,2023-02-15
+"Tulsa, OK",Tulsa,OK,36.054073,-96.004734,24,250.0,2023-03-23
+"Tumwater, WA",Tumwater,WA,46.952944,-122.935111,8,250.0,2020-03-19
+"Tupelo, MS",Tupelo,MS,34.311515,-88.700843,8,150.0,2017-05-11
+"Turkey Lake, FL",Turkey Lake,FL,28.514874,-81.500214,6,150.0,2014-11-21
+"Turlock, CA",Turlock,CA,37.508786,-120.876109,16,250.0,2022-08-23
+"Tusayan, AZ",Grand Canyon Village,AZ,35.969448,-112.127675,12,150.0,2019-10-23
+"Tustin - Flight Way, CA",Tustin,CA,33.704288,-117.836881,7,250.0,2022-12-20
+"Tustin - Franklin Ave, CA",Tustin,CA,33.716605,-117.810303,36,250.0,2023-05-26
+"Tustin - Irvine Blvd, CA",Tustin,CA,33.747336,-117.808773,16,250.0,
+"Tustin - Red Hill Ave, CA",Tustin,CA,33.727381,-117.821821,12,250.0,2022-09-20
+"Tustin, CA",Tustin,CA,33.7123,-117.8163,8,250.0,2021-11-16
+"Twentynine Palms, CA",Twentynine Palms,CA,34.12046,-116.050953,8,150.0,2016-12-09
+"Twin Falls, ID",Twin Falls,ID,42.597887,-114.455249,8,150.0,2015-10-28
+"Twinsburg, OH",Twinsburg,OH,41.311733,-81.449531,7,250.0,2022-02-07
+"Two Harbors, MN",Two Harbors,MN,47.028302,-91.6808,8,250.0,2022-12-21
+"Tyngsborough, MA",Tyngsborough,MA,42.697265,-71.43988,12,250.0,2022-08-24
+"Ukiah - N State St, CA",Ukiah,CA,39.168351,-123.210046,12,250.0,2022-09-13
+"Ukiah, CA",Ukiah,CA,39.1481,-123.208604,8,150.0,2016-01-13
+"Union City, CA",Union City,CA,37.587128,-122.020442,12,250.0,2022-02-14
+"Union, NJ",Union,NJ,40.695914,-74.254049,12,250.0,2023-03-21
+"Upper Chichester, PA",Upper Chichester,PA,39.849302,-75.437827,8,250.0,
+"Urbana, IL",Urbana,IL,40.115628,-88.182804,8,250.0,2022-08-19
+"Urbana, MD",Urbana,MD,39.327271,-77.34652,8,250.0,2022-03-09
+"Utica, NY",Utica,NY,43.113878,-75.206857,8,150.0,2015-02-11
+"Vacaville - Alamo Dr, CA",Vacaville,CA,38.347268,-121.999145,12,250.0,2023-04-18
+"Vacaville - Browns Valley Pkwy, CA",Vacaville,CA,38.365225,-121.967972,8,250.0,
+"Vacaville - Harbison Dr, CA",Vacaville,CA,38.362178,-121.963212,12,250.0,
+"Vacaville, CA",Vacaville,CA,38.366645,-121.958136,16,150.0,2013-12-19
+"Valdosta, GA",Valdosta,GA,30.81732,-83.320889,8,250.0,2020-10-11
+"Valencia, CA",Valencia,CA,34.4237,-118.5845,8,250.0,2022-12-15
+"Vallejo - Solano Ave, CA",Vallejo,CA,38.104444,-122.230234,20,250.0,2022-09-08
+"Vallejo, CA",Vallejo,CA,38.131215,-122.223369,18,150.0,2019-06-21
+"Valley Stream, NY",Valley Stream,NY,40.66402,-73.7251,16,72.0,2018-05-21
+"Van Buren, AR",Van Buren,AR,35.458391,-94.356308,6,250.0,2021-03-19
+"Van Horn - W Broadway St, TX",Van Horn,TX,31.037265,-104.854816,12,250.0,2023-05-18
+"Van Horn, TX",Van Horn,TX,31.03448,-104.861431,8,150.0,2017-02-20
+"Vancouver - NE Fourth Plain Blvd (SC), WA",Vancouver,WA,45.645661,-122.601249,12,250.0,2023-01-14
+"Vancouver - NE Vancouver Mall Dr, WA",Vancouver,WA,45.659872,-122.582467,8,250.0,2020-03-24
+"Vancouver, WA",Vancouver,WA,45.721663,-122.663461,12,150.0,2018-02-13
+"Vandalia, IL",Vandalia,IL,38.978055,-89.099219,8,250.0,
+"Veedersburg, IN",Veedersburg,IN,40.11273,-87.248021,8,250.0,2021-11-13
+"Venice, FL",Venice,FL,27.107859,-82.385275,8,250.0,2022-02-14
+"Ventura, CA",Ventura,CA,34.275162,-119.239734,12,250.0,
+"Vernon, CT",Vernon,CT,41.831054,-72.49581,8,250.0,
+"Vero Beach, FL",Vero Beach,FL,27.6400894,-80.5135068,8,250.0,2020-03-15
+"Verona, NY",Verona,NY,43.113201,-75.591176,12,250.0,2022-09-30
+"Vicksburg, MS",Vicksburg,MS,32.313976,-90.89987,12,250.0,2022-08-12
+"Victor, NY",Victor,NY,43.028655,-77.440128,8,150.0,2017-06-01
+"Victoria, TX",Victoria,TX,28.766853,-96.978988,6,150.0,2015-12-30
+"Victorville - Amargosa Rd, CA",Victorville,CA,34.463156,-117.354375,16,250.0,2023-01-26
+"Victorville, CA",Victorville,CA,34.517047,-117.313614,16,250.0,2022-12-20
+"Vienna, VA",Vienna,VA,38.895195,-77.273938,8,250.0,2020-07-16
+"Villa Park, IL",Villa Park,IL,41.906409,-87.9782135,16,250.0,2023-05-24
+"Virginia Beach - Lynnhaven Pkwy, VA",Virginia Beach,VA,36.795662,-76.102691,8,250.0,2023-04-28
+"Virginia Beach, VA",Virginia Beach,VA,36.840677,-76.055615,8,250.0,2021-05-21
+"Visalia - #2, CA",Visalia,CA,36.353167,-119.426384,20,250.0,
+"Visalia, CA",Visalia,CA,36.350804,-119.4247,19,250.0,2022-10-15
+"Vista, CA",Vista,CA,33.2008,-117.2455,20,250.0,2022-06-17
+"Waco, TX",Bellmead,TX,31.58224,-97.10915,22,250.0,2013-09-07
+"Wade, NC",Wade,NC,35.122319,-78.751481,8,250.0,
+"Walcott, IA",Walcott,IA,41.619789,-90.782433,8,250.0,2022-03-18
+"Waldorf, MD",Waldorf,MD,38.630127,-76.919032,8,250.0,2021-04-20
+"Walker, MI",Walker,MI,43.018501,-85.723629,4,150.0,2018-12-24
+"Wall, SD",Wall,SD,43.994145,-102.24214,8,150.0,2019-06-05
+"Wallace, NC",Island Creek,NC,34.756276,-77.948019,8,150.0,2018-06-16
+"Waller, TX",Waller,TX,30.070698,-95.930431,16,250.0,2022-05-26
+"Walnut Creek - Plaza Escuela, CA",Walnut Creek,CA,37.895277,-122.061828,24,72.0,2019-10-24
+"Walnut Creek, CA",Walnut Creek,CA,37.930078,-122.014812,12,250.0,2023-06-02
+"Walterboro, SC",Walterboro,SC,32.9333,-80.6925,12,250.0,2022-04-19
+"Wareham, MA",Wareham,MA,41.775093,-70.744321,12,150.0,2020-01-15
+"Warsaw - Hwy 24, NC",Warsaw,NC,34.994272,-78.136679,6,150.0,
+"Warsaw - NC-24, NC",Warsaw,NC,34.992695,-78.135604,12,250.0,2021-09-17
+"Warwick, RI",Warwick,RI,41.733158,-71.43585,8,250.0,2022-03-04
+"Washington - 3336 Wisconsin Ave NW, DC",Washington,DC,38.934341,-77.073771,8,250.0,
+"Washington - M St NE, DC",Washington,DC,38.90595,-77.005167,8,250.0,2023-02-01
+"Washington - Market St NE, DC",Washington,DC,38.92225,-76.953333,12,250.0,2020-11-26
+"Washington - Wisconsin Ave NW, DC",Washington,DC,38.91655,-77.066175,8,72.0,2020-03-06
+"Washington, IN",Washington,IN,38.65239,-87.133018,8,250.0,2022-11-24
+"Washington, PA",Washington,PA,40.1873056,-80.2293889,8,250.0,2020-08-05
+"Water Mill, NY",Water Mill,NY,40.912008,-72.352969,8,250.0,2020-11-08
+"Waterbury, CT",Waterbury,CT,41.53713,-73.005368,8,120.0,2018-12-19
+"Waterloo, IA",Waterloo,IA,42.459333,-92.328806,8,250.0,2021-05-18
+"Waterloo, NY",Waterloo,NY,42.970012,-76.846134,8,150.0,2017-03-12
+"Watertown, NY",Watertown,NY,43.979585,-75.954114,8,120.0,2016-06-24
+"Watertown, SD",Watertown,SD,44.889,-97.093,8,250.0,2021-08-23
+"Waterville, ME",Waterville,ME,44.569032,-69.639469,12,250.0,2022-09-29
+"Watsonville, CA",Watsonville,CA,36.916349,-121.773512,18,72.0,2019-07-24
+"Waukegan, IL",Waukegan,IL,42.343425,-87.900068,20,250.0,2023-02-15
+"Waukesha, WI",Waukesha,WI,43.022447,-88.202681,12,250.0,
+"Wausau, WI",Wausau,WI,44.931202,-89.662213,8,150.0,2017-10-06
+"Weatherford, OK",Weatherford,OK,35.53859,-98.66012,6,150.0,2015-03-11
+"Weaverville, CA",Weaverville,CA,40.720505,-122.928071,8,250.0,2022-02-10
+"Webster, TX",Webster,TX,29.519213,-95.121843,12,150.0,2019-09-18
+"Wells, ME",Wells,ME,43.32076,-70.5806,8,250.0,2023-05-26
+"Wells, NV",Wells,NV,41.101369,-114.956259,8,250.0,2021-01-02
+"West Chester Township, OH",West Chester,OH,39.35612,-84.374546,12,250.0,2023-03-28
+"West Chester, PA",West Chester,PA,39.967429,-75.576678,8,250.0,2023-03-04
+"West Cincinnati, OH",Dent,OH,39.193996,-84.65871,12,150.0,2018-04-14
+"West Covina - S Azusa Ave, CA",West Covina,CA,34.047758,-117.906879,16,250.0,
+"West Covina, CA",West Covina,CA,34.070663,-117.889053,16,250.0,2022-10-31
+"West Des Moines, IA",West Des Moines,IA,41.599019,-93.806336,8,150.0,2016-10-21
+"West Hartford, CT",West Hartford,CT,41.722672,-72.759717,8,150.0,2014-12-05
+"West Hollywood, CA",West Hollywood,CA,34.091635,-118.382241,8,250.0,2022-09-02
+"West Lake Hills, TX",West Lake Hills,TX,30.289722,-97.827417,8,250.0,2022-03-12
+"West Lebanon, NH",West Lebanon,NH,43.623536,-72.3258949,16,250.0,2015-07-17
+"West Melbourne, FL",West Melbourne,FL,28.037035,-80.664204,8,120.0,2017-12-16
+"West Nyack, NY",West Nyack,NY,41.094692,-73.955497,20,150.0,2019-07-16
+"West Palm Beach - 45th St, FL",West Palm Beach,FL,26.758121,-80.088922,8,250.0,
+"West Palm Beach - Florida Turnpike Service Plaza, FL",Wellington,FL,26.635504,-80.174903,8,250.0,2021-12-01
+"West Palm Beach - Garden Rd, FL",West Palm Beach,FL,26.782582,-80.092328,8,120.0,2018-12-21
+"West Palm Beach - Okeechobee Blvd, FL",West Palm Beach,FL,26.706474,-80.080072,12,250.0,
+"West Palm Beach - Palm Beach Outlets, FL",West Palm Beach,FL,26.72622,-80.0875,8,250.0,2021-07-21
+"West Springfield, MA",West Springfield,MA,42.130914,-72.621435,8,150.0,2015-02-14
+"West Springfield, VA",Springfield,VA,38.78044,-77.23179,12,250.0,
+"West Unity - Indian Meadow Service Plaza, OH",West Unity,OH,41.605252,-84.406468,8,250.0,2023-05-24
+"West Unity - Tiffin River Service Plaza, OH",West Unity,OH,41.603667,-84.408721,8,250.0,2023-05-24
+"West Wendover, NV",West Wendover,NV,40.738399,-114.058998,6,150.0,2015-01-22
+"West Yellowstone, MT",West Yellowstone,MT,44.656089,-111.099022,8,150.0,2016-05-25
+"Westampton - Rancocas Rd, NJ",Westampton,NJ,40.006811,-74.860835,8,250.0,2021-11-25
+"Westminster, CA",Westminster,CA,33.745288,-118.012279,24,72.0,2018-12-22
+"Westminster, CO",Westminster,CO,39.832103,-105.023901,8,250.0,2022-07-26
+"Westminster, MD",Westminster,MD,39.595992,-76.998508,8,250.0,
+"Weston, FL",Weston,FL,26.092018,-80.37112,12,250.0,
+"Weston, WV",Weston,WV,39.019353,-80.416993,8,150.0,2017-10-02
+"Wharton, TX",Wharton,TX,29.325098,-96.124308,8,250.0,2022-06-03
+"Wheatland, WY",Wheatland,WY,42.072497,-104.96271,8,150.0,2018-05-27
+"White Hills, AZ",Willow Beach,AZ,35.7,-114.476782,8,250.0,2020-05-13
+"White Marsh, MD",White Marsh,MD,39.373985,-76.443133,8,250.0,2020-06-26
+"White Plains, MD",White Plains,MD,38.5955,-76.9372,8,250.0,2022-08-18
+"White Plains, NY",White Plains,NY,41.042806,-73.800899,12,250.0,
+"Wichita, KS",Wichita,KS,37.60878,-97.33314,6,150.0,2015-01-21
+"Wickenburg, AZ",Wickenburg,AZ,33.9702333,-112.73165,8,150.0,2014-07-11
+"Wilkes-Barre Township, PA",Wilkes-Barre Township,PA,41.238923,-75.845562,12,250.0,
+"Willcox, AZ",Willcox,AZ,32.269811,-109.8457,8,150.0,2017-12-15
+"Williams, CA",Williams,CA,39.15608,-122.149408,12,250.0,2019-12-19
+"Williamsburg, VA",Williamsburg,VA,37.266487,-76.676613,8,250.0,2020-12-18
+"Williamsport, PA",Williamsport,PA,41.2328,-77.019865,8,250.0,2020-02-25
+"Williston, VT",Williston,VT,44.449659,-73.108963,8,250.0,2021-04-23
+"Willmar, MN",Willmar,MN,45.10196,-95.041742,8,250.0,
+"Willowick, OH",Willowick,OH,41.637135,-81.475471,12,250.0,
+"Wilmington - N College Rd, NC",Wilmington,NC,34.288493,-77.869352,12,250.0,
+"Wilmington, NC",Wilmington,NC,34.240825,-77.829189,10,150.0,2017-05-16
+"Wilson, NC",Wilson,NC,35.763439,-77.999889,20,250.0,
+"Winchester, VA",Winchester,VA,39.1881397,-78.1257883,8,250.0,2021-10-21
+"Windham, ME",Windham,ME,43.84163,-70.441768,8,250.0,2023-03-30
+"Windsor, CA",Windsor,CA,38.549856,-122.805465,12,250.0,2021-11-05
+"Winnemucca, NV",Winnemucca,NV,40.958847,-117.746497,8,250.0,2015-02-18
+"Winston-Salem, NC",Winston-Salem,NC,36.084444,-80.295348,12,250.0,2022-10-31
+"Winter Garden, FL",Winter Garden,FL,28.551646,-81.584416,8,250.0,2020-12-18
+"Winter Park, FL",Winter Park,FL,28.604988,-81.365915,12,250.0,2021-03-17
+"Woburn, MA",Woburn,MA,42.518385,-71.137254,12,250.0,2021-10-28
+"Woodbridge - Daniel Stuart Square, VA",Woodbridge,VA,38.633037,-77.276321,8,250.0,
+"Woodbridge - Minnieville Rd, VA",Woodbridge,VA,38.659258,-77.300076,8,250.0,
+"Woodbridge - Potomac Town Place, VA",Woodbridge,VA,38.629244,-77.289539,12,250.0,2022-03-27
+"Woodbridge - Richmond Hwy, VA",Woodbridge,VA,38.608853,-77.290304,8,250.0,
+"Woodbridge, NJ",Woodbridge,NJ,40.535862,-74.297271,16,250.0,2018-03-12
+"Woodbridge, VA",Woodbridge,VA,38.64082,-77.29633,10,150.0,2014-05-02
+"Woodburn, OR",Woodburn,OR,45.15313,-122.881254,12,250.0,2013-08-28
+"Woodcliff Lake, NJ",Woodcliff Lake,NJ,41.04175,-74.073701,8,250.0,2021-02-12
+"Woodland, CA",Woodland,CA,38.671368,-121.723893,8,250.0,2020-11-19
+"Woodstock, GA",Woodstock,GA,34.118729,-84.528502,12,250.0,2022-01-31
+"Woodstock, VA",Woodstock,VA,38.866754,-78.5192,8,250.0,2021-06-25
+"Worcester, MA",Worcester,MA,42.247236,-71.80293,8,250.0,
+"Worthington, MN",Worthington,MN,43.63385,-95.595647,6,120.0,2013-12-11
+"Wytheville, VA",Wytheville,VA,36.945795,-81.054406,6,150.0,2015-12-30
+"Yakima, WA",Yakima,WA,46.608814,-120.491244,8,250.0,2021-03-30
+"Yemassee, SC",Yemassee,SC,32.634231,-80.875183,8,250.0,2021-08-25
+"Yermo - Sunrise Canyon Rd, CA",Yermo,CA,34.919528,-116.769185,40,250.0,2023-05-24
+"Yermo, CA",Yermo,CA,34.907217,-116.835801,18,150.0,2017-11-23
+"Yonkers, NY",Yonkers,NY,40.963462,-73.855127,18,72.0,2018-07-02
+"Yorba Linda - Yorba Linda Blvd, CA",Yorba Linda,CA,33.887945,-117.816673,8,250.0,
+"Yorba Linda, CA",Yorba Linda,CA,33.889175,-117.808082,8,250.0,2023-05-25
+"York, PA",York,PA,39.9102501,-76.7015182,8,120.0,2018-08-01
+"Yorktown Heights, NY",Yorktown Heights,NY,41.29053,-73.832532,12,120.0,2019-06-13
+"Ypsilanti, MI",Ypsilanti,MI,42.232722,-83.678722,12,250.0,2022-11-03
+"Yreka, CA",Yreka,CA,41.701506,-122.645108,12,250.0,2021-05-26
+"Yuba City, CA",Yuba City,CA,39.147833,-121.647861,10,150.0,2019-02-05
+"Yucca Valley, CA",Yucca Valley,CA,34.12375,-116.415727,16,250.0,2022-09-24
+"Yulee, FL",Yulee,FL,30.623736,-81.638238,8,250.0,2021-04-02
+"Yuma - S Fortuna Rd, AZ",Yuma,AZ,32.668143,-114.443438,16,250.0,2022-10-24
+"Yuma, AZ",Yuma,AZ,32.726686,-114.619093,12,250.0,2014-02-04
+"Zionsville, IN",Zionsville,IN,39.950563,-86.343779,10,120.0,2019-05-10

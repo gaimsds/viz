@@ -13,3 +13,4 @@ umap-learn               # pulls numba and llvmlite, roughly 120 MB
 wordcloud
 folium                   # Leaflet maps; pulls branca, under 1 MB total
 mapclassify              # natural breaks (Jenks); 1.3 MB, deps already here
+streamlit-folium         # embeds a folium map in Streamlit; ~1 MB
