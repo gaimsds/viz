@@ -8,6 +8,9 @@ seaborn
 networkx
 pyvis
 pandas
+requests                 # already pulled in by streamlit, so it adds nothing
+                         # to the cold start; listed because
+                         # app_api_client_wk11.py imports it directly
 scikit-learn>=1.3        # 1.3 is where HDBSCAN joined sklearn.cluster
 umap-learn               # pulls numba and llvmlite, roughly 120 MB
 wordcloud
