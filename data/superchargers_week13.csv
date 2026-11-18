@@ -1,0 +1,2255 @@
+Supercharger,City,State,Stalls,lat,lon
+"Buellton, CA",Buellton,CA,10,34.61456,-120.188387
+"Corning, CA",Corning,CA,6,39.926454,-122.198393
+"Barstow, CA",Barstow,CA,16,34.849129,-117.085446
+"Tifton, GA",Tifton,GA,8,31.448847,-83.53221
+"Roseville, CA",Roseville,CA,7,38.771208,-121.266149
+"Oxnard, CA",Oxnard,CA,20,34.238654,-119.177398
+"Daytona Beach - Gateway North Dr, FL",Daytona Beach,FL,12,29.223265,-81.09972
+"Port St. Lucie, FL",Port St. Lucie,FL,16,27.313023,-80.406688
+"Dallas - Park Ln, TX",Dallas,TX,16,32.867639,-96.767245
+"El Centro, CA",El Centro,CA,12,32.760837,-115.532486
+"Rosemont, IL",Rosemont,IL,10,41.975091,-87.866501
+"Indio, CA",Indio,CA,46,33.741484,-116.215019
+"Savannah, GA",Savannah,GA,8,32.135507,-81.212767
+"Holbrook, AZ",Holbrook,AZ,12,34.922962,-110.145558
+"Mooresville, NC",Mooresville,NC,12,35.587472,-80.873
+"Buckeye, AZ",Buckeye,AZ,12,33.443011,-112.556876
+"Atascadero, CA",Atascadero,CA,8,35.48656,-120.66633
+"Gila Bend, AZ",Gila Bend,AZ,16,32.943969,-112.733506
+"Yuma, AZ",Yuma,AZ,12,32.726686,-114.619093
+"Greenwich - Northbound, CT",Greenwich,CT,4,41.041538,-73.671661
+"Milford - Northbound, CT",Milford,CT,2,41.245814,-73.008988
+"Port Orange, FL",Port Orange,FL,6,29.108566,-81.034569
+"Worthington, MN",Worthington,MN,6,43.63385,-95.595647
+"Burlington, NC",Burlington,NC,8,36.07079,-79.511211
+"Spearfish, SD",Spearfish,SD,6,44.520607,-103.890924
+"Santee, SC",Santee,SC,8,33.485858,-80.475763
+"Mishawaka, IN",Mishawaka,IN,6,41.7174,-86.1887
+"Angola, IN",Angola,IN,6,41.699048,-85.000326
+"Richmond, CA",Richmond,CA,12,37.919969,-122.348976
+"Farmington, NM",Farmington,NM,4,36.766371,-108.144047
+"Goodland, KS",Goodland,KS,6,39.326253,-101.725171
+"Somerset, PA",Somerset,PA,6,40.017383,-79.077117
+"Ossining, NY",Ossining,NY,12,41.144011,-73.861472
+"San Marcos, TX",San Marcos,TX,12,29.827692,-97.979677
+"Columbus, TX",Columbus,TX,6,29.690062,-96.537725
+"Mitchell, SD",Mitchell,SD,6,43.701129,-98.04449999999996
+"San Luis Obispo - Higuera St, CA",San Luis Obispo,CA,20,35.247841,-120.67193
+"East Greenwich, RI",East Greenwich,RI,8,41.660517,-71.497242
+"Maumee, OH",Maumee,OH,8,41.57835,-83.66465
+"Pleasant Prairie, WI",Pleasant Prairie,WI,8,42.518715,-87.950428
+"Cranberry Township, PA",Cranberry Township,PA,6,40.683982,-80.10839
+"Rapid City, SD",Rapid City,SD,4,44.105601,-103.212569
+"Lumberton, NC",Lumberton,NC,8,34.667629,-79.002343
+"Gallup, NM",Gallup,NM,8,35.505278,-108.828094
+"St. Augustine - World Commerce Pkwy, FL",St. Augustine,FL,12,29.983752,-81.464138
+"El Centro - Wake Ave, CA",El Centro,CA,8,32.7729,-115.5501
+"Madison - East Towne Mall, WI",Madison,WI,3,43.12669,-89.306896
+"Truckee - Donner Pass, CA",Truckee,CA,11,39.327507,-120.207373
+"St. George, UT",St. George,UT,8,37.12645,-113.601865
+"Ritzville, WA",Ritzville,WA,4,47.116294,-118.368328
+"Richfield, UT",Richfield,UT,4,38.787942,-112.085316
+"Hays, KS",Hays,KS,6,38.900543,-99.319142
+"Green River, UT",Green River,UT,8,38.993577,-110.140513
+"Mauston, WI",Mauston,WI,6,43.795551,-90.059358
+"La Crosse, WI",Onalaska,WI,6,43.879042,-91.188428
+"Eau Claire, WI",Eau Claire,WI,6,44.77083,-91.43711
+"Lusk, WY",Lusk,WY,4,42.75625,-104.45267
+"Casa Grande, AZ",Casa Grande,AZ,6,32.87888,-111.6817421
+"Limon, CO",Limon,CO,14,39.2688421,-103.708604
+"Vista, CA",Vista,CA,20,33.2008,-117.2455
+"Cordes Lakes, AZ",Mayer,AZ,8,34.327131,-112.118432
+"Billings, MT",Billings,MT,4,45.733716,-108.604573
+"Salina, KS",Salina,KS,6,38.877342,-97.618699
+"Dayton, OH",Dayton,OH,8,39.858702,-84.277027
+"Chattanooga, TN",Chattanooga,TN,6,35.038644,-85.19593
+"South Hill, VA",South Hill,VA,6,36.748445,-78.103764
+"DeFuniak Springs, FL",DeFuniak Springs,FL,5,30.720702,-86.116677
+"San Jose - Saratoga Ave, CA",San Jose,CA,12,37.3006,-121.9812
+"New Boston, TX",New Boston,TX,16,33.469659,-94.454696
+"Portland, OR",Portland,OR,16,45.572631,-122.554017
+"Sagamore Beach, MA",Sagamore Beach,MA,8,41.781242,-70.540271
+"Bozeman, MT",Bozeman,MT,4,45.700078,-111.062569
+"Brandon, FL",Brandon,FL,8,27.9408309,-82.3236485
+"Lake City, FL",Lake City,FL,6,30.181429,-82.679701
+"Charlotte, NC",Charlotte,NC,8,35.341213,-80.766023
+"Hallandale Beach, FL",Hallandale Beach,FL,8,25.993528,-80.143183
+"Turkey Lake, FL",Turkey Lake,FL,6,28.514874,-81.500214
+"Baton Rouge, LA",Baton Rouge,LA,6,30.423892,-91.154637
+"Phoenix - Agua Fria Fwy, AZ",Phoenix,AZ,16,33.667011,-112.120891
+"Soledad - Front St, CA",Soledad,CA,8,36.429889,-121.334477
+"Auburn, MA",Auburn,MA,8,42.203764,-71.832954
+"Ocala, FL",Ocala,FL,8,29.140985,-82.19395
+"Topeka, KS",Topeka,KS,8,39.044199,-95.76046
+"Big Timber, MT",Big Timber,MT,4,45.836201,-109.943317
+"Lake Charles, LA",Lake Charles,LA,6,30.199071,-93.248782
+"Deerfield Beach, FL",Deerfield Beach,FL,8,26.317736,-80.119643
+"Fort Drum, FL",Okeechobee,FL,10,27.601444,-80.822187
+"Country Club Hills, IL",Country Club Hills,IL,8,41.584927,-87.721062
+"Salamanca, NY",Salamanca,NY,8,42.153067,-78.747726
+"Lynnwood, WA",Lynnwood,WA,10,47.846712,-122.271391
+"Denver, CO",Denver,CO,10,39.775259,-104.794674
+"Denton, TX",Denton,TX,6,33.231403,-97.166419
+"Butte, MT",Butte,MT,6,45.981226,-112.507161
+"Dubuque, IA",Dubuque,IA,8,42.48773,-90.663624
+"Chula Vista - Telegraph Canyon Rd, CA",Chula Vista,CA,12,32.628946,-117.041103
+"Superior, MT",Superior,MT,4,47.192149,-114.888901
+"Hooksett (north), NH",Hooksett,NH,10,43.109587,-71.474575
+"West Wendover, NV",West Wendover,NV,6,40.738399,-114.058998
+"Fort Washington, PA",Fort Washington,PA,8,40.139399,-75.172384
+"Brooklyn - N 12th Street, NY",Brooklyn,NY,4,40.721861,-73.956629
+"Hooksett (south), NH",Hooksett,NH,12,43.108363,-71.477625
+"Marathon, FL",Marathon,FL,4,24.725916,-81.047519
+"Rocklin (SC), CA",Rocklin,CA,18,38.800537,-121.210485
+"Chicago - S Pulaski Rd, IL",Chicago,IL,12,41.8133,-87.72189
+"Tooele, UT",Tooele,UT,6,40.684486,-112.268818
+"Elko, NV",Elko,NV,6,40.836301,-115.790859
+"Lovelock, NV",Lovelock,NV,4,40.179476,-118.472135
+"Inyokern, CA",Inyokern,CA,4,35.646461,-117.812629
+"San Mateo - Bridgepointe Pkwy, CA",San Mateo,CA,12,37.558546,-122.284614
+"Dedham (SC), MA",Dedham,MA,8,42.236417,-71.17825
+"Auburn - S College St, AL",Auburn,AL,12,32.57645,-85.497641
+"Trinidad, CO",Trinidad,CO,9,37.134228,-104.519962
+"Effingham, IL",Effingham,IL,6,39.137048,-88.563736
+"Redondo Beach, CA",Redondo Beach,CA,8,33.894294,-118.367379
+"Shamrock, TX",Shamrock,TX,6,35.226765,-100.24836
+"Weatherford, OK",Weatherford,OK,6,35.53859,-98.66012
+"Tucumcari, NM",Tucumcari,NM,6,35.153963,-103.722539
+"Santa Rosa, NM",Santa Rosa,NM,6,34.947013,-104.647997
+"Wichita, KS",Wichita,KS,6,37.60878,-97.33314
+"St. Charles, MO",St. Charles,MO,5,38.782139,-90.532862
+"Council Bluffs, IA",Council Bluffs,IA,8,41.220935,-95.835622
+"Cupertino, CA",Cupertino,CA,10,37.324372,-122.009179
+"Albany, GA",Albany,GA,12,31.62396,-84.215788
+"Auburn, AL",Auburn,AL,6,32.627837,-85.445105
+"Mojave - 16940 Hwy 14, CA",Mojave,CA,12,35.068595,-118.174576
+"Lexington, KY",Lexington,KY,20,38.017955,-84.420664
+"Independence, MO",Independence,MO,6,39.040814,-94.369265
+"San Mateo, CA",San Mateo,CA,8,37.544632,-122.290188
+"Las Vegas, NM",Las Vegas,NM,6,35.622007,-105.20541
+"Albuquerque, NM",Albuquerque,NM,6,35.108962,-106.612794
+"Sheridan, WY",Sheridan,WY,4,44.804565,-106.956363
+"Norfolk, VA",Norfolk,VA,6,36.860525,-76.207467
+"Mountain View, CA",Mountain View,CA,12,37.415344,-122.076607
+"Sheboygan, WI",Sheboygan,WI,8,43.749912,-87.747073
+"Braintree, MA",Braintree,MA,8,42.222955,-71.021964
+"Newburgh, NY",Newburgh,NY,6,41.499775,-74.071261
+"Oklahoma City, OK",Oklahoma City,OK,8,35.461704,-97.651445
+"Virginia Beach - Lynnhaven Pkwy, VA",Virginia Beach,VA,8,36.795662,-76.102691
+"Duluth, MN",Duluth,MN,4,46.784467,-92.10232
+"Newark, CA",Newark,CA,16,37.525905,-122.006624
+"Houston, TX",Houston,TX,6,29.980741,-95.421697
+"Santa Ana, CA",Santa Ana,CA,12,33.776011,-117.872176
+"Pendleton, OR",Pendleton,OR,8,45.64655,-118.68198
+"Columbia, MO",Columbia,MO,8,38.957816,-92.252773
+"Asheville - 4 S Tunnel Rd, NC",Asheville,NC,8,35.581912,-82.523642
+"Fayetteville, NC",Fayetteville,NC,16,35.009527,-78.822416
+"Cadillac, MI",Cadillac,MI,8,44.282551,-85.403096
+"Kennewick, WA",Kennewick,WA,8,46.198085,-119.162734
+"Price, UT",Price,UT,8,39.600731,-110.831701
+"South Burlington, VT",South Burlington,VT,8,44.462814,-73.179316
+"Boise, ID",Boise,ID,8,43.592292,-116.279467
+"Fountain Valley, CA",Fountain Valley,CA,16,33.70278,-117.934127
+"Pecos, TX",Pecos,TX,8,31.400223,-103.486931
+"Tallahassee, FL",Tallahassee,FL,6,30.510935,-84.247838
+"Jarrell, TX",Jarrell,TX,8,30.814396,-97.610506
+"San Rafael, CA",San Rafael,CA,8,37.971375,-122.517193
+"Buttonwillow, CA",Buttonwillow,CA,10,35.400105,-119.397796
+"Sandy, OR",Sandy,OR,8,45.403531,-122.294242
+"Mammoth Lakes, CA",Mammoth Lakes,CA,8,37.644544,-118.965875
+"Beatty, NV",Beatty,NV,8,36.913718,-116.754371
+"Twin Falls, ID",Twin Falls,ID,8,42.597887,-114.455249
+"Allentown, PA",Allentown,PA,16,40.588102,-75.559904
+"Ukiah, CA",Ukiah,CA,8,39.1481,-123.208604
+"Fresno, CA",Fresno,CA,10,36.835455,-119.91058
+"Amarillo, TX",Amarillo,TX,8,35.189035,-101.931478
+"Binghamton, NY",Binghamton,NY,8,42.145553,-75.901755
+"Tannersville, PA",Tannersville,PA,8,41.045431,-75.312244
+"Hinckley, MN",Hinckley,MN,8,46.009592,-92.93155
+"Baxter, MN",Baxter,MN,8,46.378868,-94.256413
+"Kingsland, GA",Kingsland,GA,8,30.790764,-81.663729
+"Colorado Springs, CO",Colorado Springs,CO,8,38.837573,-104.824907
+"Tonopah, NV",Tonopah,NV,8,38.069801,-117.232243
+"Victoria, TX",Victoria,TX,6,28.766853,-96.978988
+"Slidell, LA",Slidell,LA,8,30.266552,-89.760156
+"Wytheville, VA",Wytheville,VA,6,36.945795,-81.054406
+"Rocky Mount, NC",Rocky Mount,NC,8,35.972874,-77.84687
+"Louisville, KY",Louisville,KY,8,38.211846,-85.673087
+"Charlotte - Toringdon Way, NC",Charlotte,NC,12,35.069252,-80.842291
+"Pearl, MS",Pearl,MS,8,32.274159,-90.151048
+"Temecula, CA",Temecula,CA,10,33.52421,-117.152568
+"Hawthorne, NV",Hawthorne,NV,8,38.533939,-118.62308
+"Lima, MT",Lima,MT,8,44.632745,-112.591203
+"Sweetwater, TX",Sweetwater,TX,8,32.450591,-100.392455
+"Cisco, TX",Cisco,TX,8,32.374263,-99.007197
+"Rolla, MO",Rolla,MO,8,37.940064,-91.801658
+"Lexington, VA",Lexington,VA,6,37.796979,-79.419007
+"Champaign, IL",Champaign,IL,8,40.146209,-88.259884
+"Red Bluff - S Main St, CA",Red Bluff,CA,12,40.163072,-122.228937
+"Columbus - Hilliard Rome Rd, OH",Columbus,OH,12,39.9831,-83.1529
+"Peru, IL",Peru,IL,20,41.348503,-89.126115
+"Terre Haute, IN",Terre Haute,IN,8,39.443345,-87.331737
+"West Yellowstone, MT",West Yellowstone,MT,8,44.656089,-111.099022
+"Lindale, TX",Lindale,TX,8,32.470885,-95.450473
+"Reno, NV",Reno,NV,6,39.489732,-119.794179
+"Pocatello, ID",Pocatello,ID,8,42.899615,-112.435248
+"Idaho Falls, ID",Idaho Falls,ID,8,43.485152,-112.05205
+"Bend, OR",Bend,OR,8,44.03563,-121.308473
+"Southampton, NY",Southampton,NY,8,40.891909,-72.426995
+"Meridian, MS",Meridian,MS,8,32.35778,-88.671246
+"Plattsburgh, NY",Plattsburgh,NY,8,44.704537,-73.491829
+"Egg Harbor Township, NJ",Egg Harbor Township,NJ,8,39.393663,-74.562619
+"Springfield, MO",Springfield,MO,8,37.251836,-93.265534
+"Miner, MO",Miner,MO,8,36.893583,-89.533986
+"Oakdale, MN",Oakdale,MN,8,44.96499,-92.96129
+"Shreveport, LA",Shreveport,LA,8,32.478594,-93.75437
+"West Des Moines, IA",West Des Moines,IA,8,41.599019,-93.806336
+"Memphis, TN",Memphis,TN,8,35.097801,-89.858957
+"Santa Barbara, CA",Santa Barbara,CA,16,34.440227,-119.753359
+"Catoosa, OK",Catoosa,OK,8,36.167631,-95.766044
+"Bowling Green, KY",Bowling Green,KY,8,36.955196,-86.438854
+"Lincoln City, OR",Lincoln City,OR,8,44.957751,-124.010966
+"Alexandria, LA",Alexandria,LA,8,31.312424,-92.446436
+"Folsom - Palladio Pkwy, CA",Folsom,CA,30,38.647199,-121.118344
+"Waller, TX",Waller,TX,16,30.070698,-95.930431
+"Goleta, CA",Goleta,CA,12,34.427015,-119.871768
+"Aberdeen, MD",Aberdeen,MD,8,39.498017,-76.231196
+"Port Huron, MI",Port Huron,MI,8,42.998817,-82.428935
+"Monroe, LA",Monroe,LA,8,32.496554,-92.055091
+"Three Rivers, TX",Three Rivers,TX,8,28.521614,-98.185829
+"Davenport, IA",Davenport,IA,8,41.575888,-90.513526
+"Columbus, OH",Columbus,OH,10,39.974472,-83.00092
+"National Harbor - Potomac Passage, MD",National Harbor,MD,12,38.785335,-77.014771
+"Lee, MA",Lee,MA,8,42.29571,-73.239245
+"Page, AZ",Page,AZ,8,36.924902,-111.468041
+"Lincoln, NE",Lincoln,NE,8,40.860817,-96.679723
+"Kingsville, TX",Kingsville,TX,8,27.493808,-97.844399
+"Brewer, ME",Brewer,ME,8,44.775909,-68.73432
+"Bloomsburg, PA",Bloomsburg,PA,8,41.016143,-76.492616
+"Berlin, VT",Berlin,VT,8,44.212532,-72.576462
+"Watertown, NY",Watertown,NY,8,43.979585,-75.954114
+"Queensbury, NY",Queensbury,NY,8,43.328388,-73.679992
+"Marina Del Rey, CA",Marina Del Rey,CA,8,33.980394,-118.445237
+"Gustine, CA",Gustine,CA,12,37.109305,-121.017565
+"Bakersfield, CA",Bakersfield,CA,10,35.354643,-119.331607
+"Ozona, TX",Ozona,TX,6,30.706696,-101.195962
+"Loveland, CO",Loveland,CO,10,40.44146,-104.991205
+"Ogallala, NE",Ogallala,NE,8,41.116493,-101.709415
+"Gothenburg, NE",Gothenburg,NE,8,40.917317,-100.169913
+"Channelview, TX",Channelview,TX,8,29.784665,-95.110612
+"Birmingham, AL",Birmingham,AL,8,33.525917,-86.806875
+"North Aurora, IL",North Aurora,IL,16,41.802949,-88.370249
+"Childress, TX",Childress,TX,8,34.432426,-100.218676
+"Twentynine Palms, CA",Twentynine Palms,CA,8,34.12046,-116.050953
+"Brush, CO",Brush,CO,8,40.270895,-103.62223
+"Oswego, IL",Oswego,IL,12,41.699456,-88.3123
+"Jackson, TN",Jackson,TN,8,35.660349,-88.855771
+"Jackson, WY",Jackson,WY,8,43.463995,-110.794875
+"Tarrytown, NY",Tarrytown,NY,12,41.061499,-73.836411
+"Las Vegas - Las Vegas Blvd S, NV",Las Vegas,NV,10,36.070633,-115.17295
+"Nephi - S Main St, UT",Nephi,UT,8,39.677755,-111.841252
+"Fort Stockton, TX",Fort Stockton,TX,8,30.905492,-102.88453
+"Knoxville, TN",Knoxville,TN,8,35.901319,-84.149634
+"Groveland, CA",Groveland,CA,7,37.838679,-120.23199
+"Midland, TX",Midland,TX,8,31.947361,-102.141289
+"Junction, TX",Junction,TX,8,30.509233,-99.77456
+"Fish Camp, CA",Fish Camp,CA,8,37.473828,-119.635893
+"Grand Island, NE",Grand Island,NE,8,40.829973,-98.379822
+"Clearwater, MN",Clearwater,MN,8,45.411899,-94.054852
+"Texarkana, TX",Texarkana,TX,8,33.459926,-94.077179
+"Mt. Gilead, OH",Mt. Gilead,OH,8,40.494024,-82.712896
+"Evanston, WY",Evanston,WY,8,41.263157,-110.985309
+"Arlington, TX",Arlington,TX,10,32.754659,-97.082823
+"Flatonia, TX",Flatonia,TX,8,29.697904,-97.099993
+"Howard, WI",Howard,WI,8,44.5354319,-88.0777788
+"Little Rock, AR",Little Rock,AR,10,34.6614,-92.41031
+"Bristol, TN",Bristol,TN,8,36.591697,-82.261339
+"San Jose - East Capitol Expressway, CA",San Jose,CA,20,37.300551,-121.825198
+"Paso Robles, CA",Paso Robles,CA,28,35.645482,-120.660047
+"Traverse City, MI",Traverse City,MI,10,44.744729,-85.644019
+"Myrtle Beach, SC",Myrtle Beach,SC,10,33.704388,-78.925172
+"Milford - Boston Post Rd, CT",Milford,CT,14,41.238035,-73.036156
+"Ardmore, OK",Ardmore,OK,8,34.179106,-97.165632
+"Florida City, FL",Florida City,FL,8,25.456825,-80.474341
+"Gardnerville, NV",Gardnerville,NV,6,38.696426,-119.548534
+"Van Horn, TX",Van Horn,TX,8,31.03448,-104.861431
+"Rock Springs, WY",Rock Springs,WY,8,41.580815,-109.262137
+"Klamath Falls, OR",Klamath Falls,OR,8,42.216906,-121.756218
+"Bolingbrook, IL",Bolingbrook,IL,16,41.722189,-88.037278
+"New Rochelle, NY",New Rochelle,NY,8,40.912298,-73.780132
+"North East, MD",North East,MD,10,39.612048,-76.009908
+"Dows, IA",Dows,IA,8,42.673838,-93.462294
+"Santa Fe, NM",Santa Fe,NM,8,35.611793,-106.032196
+"Summerton, SC",Summerton,SC,8,33.587091,-80.357191
+"Charlottesville, VA",Charlottesville,VA,8,38.067051,-78.492702
+"Charleston, WV",Charleston,WV,8,38.354712,-81.642845
+"Indianapolis - E Southport Rd, IN",Indianapolis,IN,12,39.664746,-86.076234
+"Chapel Hill, NC",Chapel Hill,NC,10,35.969846,-79.06356
+"Monroe, WA",Monroe,WA,12,47.86274,-121.97672
+"Corsicana, TX",Corsicana,TX,10,32.068577,-96.448229
+"Athens, AL",Athens,AL,8,34.785443,-86.942964
+"Madison - Northbound, CT",Madison,CT,10,41.2900852,-72.5803292
+"Madison - Southbound, CT",Madison,CT,10,41.2915926,-72.5790793
+"Moses Lake, WA",Moses Lake,WA,12,47.103505,-119.310203
+"Warwick, RI",Warwick,RI,8,41.733158,-71.43585
+"Waukegan, IL",Waukegan,IL,20,42.343425,-87.900068
+"Weston, WV",Weston,WV,8,39.019353,-80.416993
+"Vacaville, CA",Vacaville,CA,16,38.366645,-121.958136
+"Sacramento, CA",Sacramento,CA,10,38.637729,-121.49718
+"Arlington, WA",Arlington,WA,16,48.21237,-122.183551
+"Osage Beach, MO",Osage Beach,MO,8,38.162028,-92.605238
+"Ludington, MI",Ludington,MI,8,43.957103,-86.376093
+"Truth or Consequences, NM",Truth or Consequences,NM,8,33.15524,-107.251642
+"Chicago - North Columbus Drive, IL",Chicago,IL,10,41.886458,-87.620262
+"Salinas, CA",Salinas,CA,14,36.715699,-121.653992
+"Grenada, MS",Grenada,MS,8,33.787384,-89.849614
+"La Vale, MD",La Vale,MD,8,39.63626,-78.845748
+"Leominster, MA",Leominster,MA,8,42.529798,-71.744151
+"McAllen, TX",McAllen,TX,8,26.198443,-98.259839
+"South Toms River, NJ",Toms River,NJ,8,39.941683,-74.211995
+"North Huntingdon, PA",North Huntingdon,PA,8,40.314135,-79.671409
+"Frederick, MD",Frederick,MD,10,39.384693,-77.405494
+"Live Oak, FL",Live Oak,FL,12,30.331363,-82.961355
+"Cookeville, TN",Cookeville,TN,8,36.155848,-85.515211
+"Falls Creek, PA",Falls Creek,PA,8,41.14072,-78.784725
+"Sherburn, MN",Sherburn,MN,8,43.66182,-94.733012
+"Sioux Falls, SD",Sioux Falls,SD,8,43.527655,-96.790579
+"Sarasota, FL",Sarasota,FL,20,27.386306,-82.464377
+"Cambridge, OH",Cambridge,OH,8,40.003569,-81.574967
+"Kingman - W Andy Devine, AZ",Kingman,AZ,16,35.189032,-114.058384
+"Monterey, CA",Monterey,CA,14,36.585729,-121.898765
+"Baker, CA",Baker,CA,40,35.262495,-116.08079
+"Stateline, NV",Stateline,NV,14,38.963471,-119.940651
+"Altamonte Springs, FL",Altamonte Springs,FL,8,28.664414,-81.380274
+"Dickson, TN",Dickson,TN,8,36.018349,-87.332955
+"Fort Wayne, IN",Fort Wayne,IN,10,41.138806,-85.163548
+"Pinellas Park, FL",Pinellas Park,FL,8,27.8461,-82.678114
+"Southlake, TX",Southlake,TX,10,32.943488,-97.133843
+"Carlisle, PA",Carlisle,PA,8,40.233206,-77.119185
+"Gaithersburg, MD",Gaithersburg,MD,12,39.118151,-77.202271
+"Franklin Park, PA",Franklin Park Township,PA,8,40.613216,-80.100103
+"Burlington, NJ",Burlington,NJ,8,40.101525,-74.793172
+"Miami - Bird Rd, FL",Miami,FL,12,25.732331,-80.306178
+"Oak Creek, WI",Oak Creek,WI,10,42.900045,-87.913714
+"Willcox, AZ",Willcox,AZ,8,32.269811,-109.8457
+"Tucson, AZ",Tucson,AZ,10,32.083857,-110.803571
+"Westminster, CA",Westminster,CA,24,33.745288,-118.012279
+"Cheektowaga, NY",Buffalo,NY,8,42.90741,-78.762239
+"Nacogdoches, TX",Nacogdoches,TX,8,31.651793,-94.679625
+"Coeur d'Alene, ID",Coeur d'Alene,ID,14,47.708479,-116.794283
+"Martinsburg, WV",Martinsburg,WV,8,39.485531,-77.956783
+"Centralia, WA",Centralia,WA,20,46.729732,-122.977454
+"Lewes, DE",Lewes,DE,8,38.743725,-75.153394
+"Woodstock, GA",Woodstock,GA,12,34.118729,-84.528502
+"Auburn Hills, MI",Auburn Hills,MI,8,42.706969,-83.288941
+"White Hills, AZ",Willow Beach,AZ,8,35.7,-114.476782
+"Toledo, OH",Toledo,OH,10,41.721617,-83.509207
+"Salt Lake City - S 300 W, UT",Salt Lake City,UT,8,40.730089,-111.90178
+"Fort Lauderdale - Powerline Rd, FL",Fort Lauderdale,FL,8,26.202627,-80.156465
+"Concord, CA",Concord,CA,19,37.970453,-122.058384
+"Grants Pass, OR",Grants Pass,OR,8,42.460883,-123.324124
+"Deming, NM",Deming,NM,8,32.281357,-107.760281
+"Hickory, NC",Hickory,NC,8,35.706189,-81.294768
+"Santa Clarita, CA",Santa Clarita,CA,32,34.431041,-118.554319
+"Lone Tree, CO",Lone Tree,CO,10,39.562726,-104.873432
+"Oacoma, SD",Oacoma,SD,8,43.803188,-99.383442
+"Poncha Springs, CO",Poncha Springs,CO,8,38.51174,-106.076394
+"Cottonwood, CA",Cottonwood,CA,12,40.389145,-122.288208
+"Greensboro, NC",Greensboro,NC,8,36.059473,-79.908358
+"Cle Elum, WA",Cle Elum,WA,12,47.189278,-120.902553
+"Freeport, ME",Freeport,ME,8,43.8587942,-70.1041363
+"Gaylord, MI",Gaylord,MI,10,45.025577,-84.722201
+"Roseville, MI",Roseville,MI,8,42.522048,-82.906756
+"Fairfield, CA",Fairfield,CA,12,38.26175,-122.0524
+"Malaga, NJ",Malaga,NJ,8,39.572,-75.0528
+"Big Rapids, MI",Big Rapids,MI,10,43.689792,-85.515625
+"Lansing, MI",Lansing,MI,10,42.766555,-84.514724
+"Riverside, CA",Riverside,CA,24,33.981393,-117.37577
+"Kelso, WA",Kelso,WA,12,46.143403,-122.899225
+"Fremont, CA",Fremont,CA,12,37.492754,-121.944796
+"Clinton Corners, NY",Clinton Corners,NY,8,41.825464,-73.770719
+"Plano, TX",Plano,TX,12,33.07868,-96.819506
+"Wheatland, WY",Wheatland,WY,8,42.072497,-104.96271
+"Sunnyvale - W McKinley Ave, CA",Sunnyvale,CA,10,37.373421,-122.033114
+"Truckee - Soaring Way, CA",Truckee,CA,16,39.319501,-120.155831
+"Gilroy, CA",Gilroy,CA,16,37.02493,-121.56542
+"Cabazon, CA",Cabazon,CA,16,33.93129,-116.820041
+"Redding, CA",Redding,CA,8,40.590042,-122.378506
+"Kettleman City, CA",Kettleman City,CA,40,35.987651,-119.962336
+"Bellefonte, PA",Bellefonte,PA,8,40.913884,-77.738425
+"Clare, MI",Clare,MI,8,43.820359,-84.76675
+"Hadley, MA",Hadley,MA,12,42.338922,-72.611239
+"Yermo, CA",Yermo,CA,18,34.907217,-116.835801
+"Anaheim - Santa Ana Canyon Rd, CA",Anaheim,CA,20,33.866724,-117.747373
+"Ephrata, PA",Ephrata,PA,8,40.1633,-76.1535
+"Scottsdale, AZ",Scottsdale,AZ,16,33.623139,-111.922451
+"Burbank - North Third St, CA",Burbank,CA,20,34.18487,-118.311672
+"Sacramento - Arden Way, CA",Sacramento,CA,20,38.603327,-121.42853
+"Scottsdale - N Kierland Blvd, AZ",Scottsdale,AZ,8,33.623205,-111.930338
+"Colby, KS",Colby,KS,10,39.361357,-101.054063
+"Bethel, ME",Bethel,ME,6,44.424871,-70.796608
+"Riverview, FL",Riverview,FL,10,27.7915,-82.332833
+"Harris Ranch, CA",Coalinga,CA,18,36.25415,-120.237896
+"Lexington, NC",Lexington,NC,8,35.800189,-80.288565
+"Yuba City, CA",Yuba City,CA,10,39.147833,-121.647861
+"Austin, TX",Austin,TX,8,30.329175,-97.706339
+"Strongsville, OH",Strongsville,OH,8,41.34336,-81.824924
+"San Diego - Camino Del Sur, CA",San Diego,CA,16,33.020052,-117.126278
+"Centerville, TX",Centerville,TX,12,31.259556,-95.985289
+"Miami - Mary Brickell Village, FL",Miami,FL,4,25.764706,-80.194629
+"Glendale - Cooper Ave, NY",Glendale,NY,10,40.707962,-73.867167
+"Lithonia, GA",Lithonia,GA,12,33.69893,-84.173181
+"Mt. Jackson, VA",Mt. Jackson,VA,8,38.760227,-78.63121
+"Orleans, MA",Orleans,MA,12,41.796653,-69.985961
+"Brooklyn - Atlantic Ave, NY",Brooklyn,NY,12,40.683738,-73.974953
+"San Ramon - Diablo Plaza, CA",San Ramon,CA,20,37.774766,-121.979789
+"Mount Vernon, IL",Mt. Vernon,IL,8,38.316292,-88.955923
+"Montauk, NY",Montauk,NY,8,41.035822,-71.943868
+"Springfield, OR",Springfield,OR,14,44.082605,-123.037471
+"Sheffield, OH",Sheffield,OH,8,41.426963,-82.076273
+"Laredo, TX",Laredo,TX,8,27.555003,-99.49424
+"East Brunswick - State Route 18, NJ",East Brunswick,NJ,16,40.424107,-74.380069
+"Marlton, NJ",Marlton,NJ,12,39.877547,-74.918491
+"Menifee, CA",Menifee,CA,20,33.679646,-117.174095
+"Windsor, CA",Windsor,CA,12,38.549856,-122.805465
+"Robbinsdale, MN",Robbinsdale,MN,8,45.018928,-93.32583
+"Orlando - N Alafaya Trail, FL",Orlando,FL,14,28.555278,-81.198944
+"Alvarado, TX",Burleson,TX,10,32.464312,-97.264718
+"Flagstaff, AZ",Flagstaff,AZ,12,35.174272,-111.66328
+"Oshkosh, WI",Oshkosh,WI,6,44.028779,-88.592508
+"Riverhead, NY",Riverhead,NY,8,40.923322,-72.702788
+"Lake Elsinore, CA",Lake Elsinore,CA,21,33.698437,-117.349113
+"Parkersburg, WV",Parkersburg,WV,6,39.2633181,-81.5446371
+"Woodbridge, VA",Woodbridge,VA,10,38.64082,-77.29633
+"Seekonk, MA",Seekonk,MA,8,41.799157,-71.331026
+"Napa, CA",Napa,CA,12,38.2356,-122.264
+"San Luis Obispo, CA",San Luis Obispo,CA,18,35.265182,-120.676288
+"Cranberry Township - US 19, PA",Cranberry Twp,PA,12,40.6821667,-80.1018333
+"Augusta - Belair Frontage Rd, GA",Augusta,GA,10,33.481657,-82.130253
+"San Jose - Blossom Hill Rd, CA",San Jose,CA,18,37.244638,-121.891141
+"Katy - Katy Fwy, TX",Katy,TX,24,29.779001,-95.848797
+"Rancho Cucamonga, CA",Rancho Cucamonga,CA,12,34.113592,-117.529406
+"Missoula, MT",Missoula,MT,6,46.914375,-114.031924
+"Austin - Research Blvd, TX",Austin,TX,18,30.389333,-97.73975
+"Yonkers, NY",Yonkers,NY,18,40.963462,-73.855127
+"Richmond, VA",Richmond,VA,20,37.529855,-77.353819
+"Skokie, IL",Skokie,IL,20,42.009459,-87.766164
+"Concord, NH",Concord,NH,12,43.289094,-71.579011
+"Manchester, CT",Manchester,CT,16,41.80455,-72.562267
+"Woburn, MA",Woburn,MA,12,42.518385,-71.137254
+"Wall, SD",Wall,SD,8,43.994145,-102.24214
+"Mashpee, MA",Mashpee,MA,10,41.6175,-70.488528
+"Madison - E Washington Ave, WI",Madison,WI,8,43.119137,-89.319052
+"Chicago - North Broadway, IL",Chicago,IL,8,41.937338,-87.644666
+"Evergreen, AL",Evergreen,AL,12,31.457228,-86.961555
+"Crescent City, CA",Crescent City,CA,6,41.752393,-124.1944
+"Rochester, NH",Rochester,NH,8,43.310917,-70.993265
+"San Jose - Santana Row, CA",San Jose,CA,26,37.322234,-121.949226
+"El Paso, TX",El Paso,TX,8,31.8839,-106.58379
+"Thousand Oaks - East Thousand Oaks Blvd, CA",Thousand Oaks,CA,24,34.158291,-118.82363
+"Irvine - Michelson Dr, CA",Irvine,CA,12,33.673394,-117.844666
+"Idaho Springs, CO",Idaho Springs,CO,8,39.741549,-105.518358
+"Manhattan Beach, CA",Manhattan Beach,CA,24,33.901472,-118.393833
+"Tampa, FL",Tampa,FL,8,27.965757,-82.402577
+"Lamar, CO",Lamar,CO,8,38.089378,-102.618303
+"Phoenix - E Camelback Rd, AZ",Phoenix,AZ,16,33.511555,-112.026392
+"Morgan Hill, CA",Morgan Hill,CA,14,37.156827,-121.653693
+"Philadelphia - Center City, PA",Philadelphia,PA,6,39.951276,-75.158667
+"Los Angeles - W Olympic Blvd, CA",Los Angeles,CA,16,34.03818,-118.443301
+"Freehold, NJ",Freehold,NJ,8,40.238319,-74.228021
+"San Antonio, TX",San Antonio,TX,10,29.549585,-98.582722
+"Washington - Wisconsin Ave NW, DC",Washington,DC,8,38.91655,-77.066175
+"Bandon, OR",Bandon,OR,8,43.121854,-124.398942
+"Coralville, IA",Coralville,IA,8,41.680372,-91.591467
+"Sulphur Springs, TX",Sulphur Springs,TX,8,33.137172,-95.603239
+"Macon - Tom Hill Sr Rd, GA",Macon,GA,10,32.897259,-83.689432
+"Plantation, FL",Plantation,FL,16,26.108614,-80.252268
+"Fairfield - Southbound, CT",Fairfield,CT,8,41.148076,-73.255582
+"Watsonville, CA",Watsonville,CA,18,36.916349,-121.773512
+"Custer, SD",Custer,SD,8,43.767498,-103.594306
+"Montecito, CA",Santa Barbara,CA,8,34.420561,-119.627239
+"Henrietta, TX",Henrietta,TX,12,33.80051,-98.196588
+"Sedona, AZ",Sedona,AZ,14,34.775559,-111.764099
+"Philadelphia - North 20th St, PA",Philadelphia,PA,10,39.962023,-75.172049
+"Carlsbad, CA",Carlsbad,CA,26,33.084189,-117.266384
+"Chicago - North Halsted, IL",Chicago,IL,10,41.908043,-87.647839
+"Salisbury - N Salisbury Blvd, MD",Salisbury,MD,8,38.420772,-75.56579
+"Chicago - South Canal Street, IL",Chicago,IL,14,41.869126,-87.639971
+"Indianapolis - Capitol Avenue, IN",Indianapolis,IN,12,39.765443,-86.161222
+"Fishers, IN",Fishers,IN,10,39.957683,-86.016131
+"Los Gatos, CA",Los Gatos,CA,20,37.229926,-121.979384
+"Downey - Lakewood Blvd, CA",Downey,CA,12,33.953335,-118.112914
+"Sanford, FL",Sanford,FL,12,28.799264,-81.338224
+"Henderson, NC",Henderson,NC,8,36.329537,-78.447534
+"Pasadena, CA",Pasadena,CA,24,34.144835,-118.146609
+"Copiague, NY",Copiague,NY,8,40.688444,-73.4055
+"Zionsville, IN",Zionsville,IN,10,39.950563,-86.343779
+"Rohnert Park, CA",Rohnert Park,CA,12,38.3475,-122.720944
+"Barnegat, NJ",Barnegat,NJ,8,39.759418,-74.253461
+"Tucson - E Skyline Dr, AZ",Tucson,AZ,10,32.32555,-110.930936
+"Parsippany, NJ",Parsippany,NJ,8,40.850095,-74.350835
+"North Bergen - John F Kennedy Blvd, NJ",North Bergen,NJ,8,40.77386,-74.03814
+"Corona, CA",Corona,CA,20,33.826338,-117.515411
+"Fontana, CA",Fontana,CA,24,34.151177,-117.471412
+"Pleasanton, CA",Pleasanton,CA,10,37.700508,-121.908364
+"Milpitas, CA",Milpitas,CA,16,37.434536,-121.891387
+"Los Angeles - Francisco St, CA",Los Angeles,CA,10,34.047424,-118.264589
+"Ojai, CA",Ojai,CA,12,34.441994,-119.258898
+"Bismarck, ND",Bismarck,ND,8,46.832972,-100.807222
+"Wickenburg, AZ",Wickenburg,AZ,8,33.9702333,-112.73165
+"Stamford, CT",Stamford,CT,12,41.067836,-73.545266
+"Hanover, MD",Hanover,MD,8,39.153272,-76.743717
+"Blaine, WA",Blaine,WA,14,48.937851,-122.667679
+"Riverdale Park, MD",Riverdale,MD,8,38.970361,-76.937333
+"Robbinsville, NJ",Robbinsville Twp,NJ,8,40.1941978,-74.5953015
+"Bethany, MO",Bethany,MO,6,40.265916,-94.015705
+"Paulsboro, NJ",Paulsboro,NJ,8,39.822355,-75.240447
+"Thornton, CO",Thornton,CO,8,39.914711,-104.986758
+"Glenview, IL",Glenview,IL,10,42.077128,-87.860788
+"Arcadia, FL",Arcadia,FL,8,27.209511,-81.837752
+"Manchester, TN",Manchester,TN,10,35.458583,-86.057316
+"El Cerrito, CA",El Cerrito,CA,14,37.898575,-122.30073
+"Williams, CA",Williams,CA,12,39.15608,-122.149408
+"Hyannis, MA",Hyannis,MA,12,41.676619,-70.307049
+"Novato, CA",Novato,CA,20,38.089447,-122.551755
+"San Francisco - Letterman Drive, CA",San Francisco,CA,6,37.798513,-122.449846
+"Glendale, CA",Glendale,CA,20,34.145099,-118.256433
+"Miami - SW 7th St, FL",Miami,FL,13,25.76768,-80.192467
+"Cary, NC",Cary,NC,12,35.843605,-78.886448
+"Basking Ridge, NJ",Basking Ridge,NJ,8,40.655361,-74.529919
+"San Ramon, CA",San Ramon,CA,16,37.76292,-121.963662
+"Santa Rosa, CA",Santa Rosa,CA,20,38.459554,-122.73023
+"North Stamford, CT",Stamford,CT,8,41.107885,-73.5469602
+"Evergreen Park, IL",Evergreen Park,IL,10,41.725315,-87.683693
+"Merrillville, IN",Merrillville,IN,10,41.468444,-87.343613
+"Everett, WA",Everett,WA,12,47.90934,-122.225824
+"Dickinson, ND",Dickinson,ND,8,46.901222,-102.790822
+"Henderson, NV",Henderson,NV,12,35.97141,-114.911332
+"Tigard, OR",Tigard,OR,10,45.451608,-122.782599
+"Springfield, VA",Springfield,VA,18,38.774412,-77.177566
+"Kansas City, MO",Kansas City,MO,8,39.24629,-94.644943
+"Fort Worth - Whitmore St, TX",Fort Worth,TX,16,32.758293,-97.353585
+"Mehlville, MO",Mehlville,MO,10,38.508172,-90.331113
+"Tampa - West Swann Ave, FL",Tampa,FL,10,27.937057,-82.481113
+"Estes Park, CO",Estes Park,CO,7,40.383833,-105.519783
+"Petaluma, CA",Petaluma,CA,20,38.242693,-122.625049
+"Incline Village, NV",Incline Village,NV,10,39.250765,-119.948927
+"Payson, AZ",Payson,AZ,12,34.242065,-111.322538
+"Escanaba, MI",Escanaba,MI,8,45.750542,-87.085129
+"San Carlos, CA",San Carlos,CA,19,37.502912,-122.245569
+"Marietta - Dallas Hwy, GA",Marietta,GA,12,33.953257,-84.657297
+"Reading, PA",Reading,PA,8,40.301734,-75.853085
+"Brooklyn, OH",Brooklyn,OH,8,41.422533,-81.7584885
+"Chestnut Hill, MA",Chestnut Hill,MA,8,42.322031,-71.172395
+"Milpitas - Great Mall, CA",Milpitas,CA,20,37.413353,-121.897995
+"McComb, MS",McComb,MS,8,31.248479,-90.471779
+"Webster, TX",Webster,TX,12,29.519213,-95.121843
+"Kuttawa, KY",Kuttawa,KY,8,37.073405,-88.124752
+"Livermore, CA",Livermore,CA,20,37.700349,-121.841063
+"Schertz, TX",Schertz,TX,8,29.598455,-98.276067
+"Newport News, VA",Newport News,VA,12,37.114233,-76.494498
+"Mission, KS",Mission,KS,8,39.02,-94.661182
+"Seaford, DE",Seaford,DE,8,38.658528,-75.592966
+"Beltsville, MD",Beltsville,MD,12,39.027391,-76.917328
+"Erie - Perry Hwy, PA",Erie,PA,8,42.065634,-80.037239
+"Fairfield - Holiday Lane, CA",Fairfield,CA,12,38.256667,-122.065139
+"Santa Monica - Santa Monica Place, CA",Santa Monica,CA,14,34.013087,-118.493843
+"Laytonville, CA",Laytonville,CA,8,39.689269,-123.483443
+"Kill Devil Hills, NC",Kill Devil Hills,NC,8,35.993328,-75.651124
+"La Mesa, CA",La Mesa,CA,12,32.7808724,-117.0135593
+"Boonton, NJ",Boonton,NJ,10,40.907627,-74.3976
+"Tejon Ranch, CA",Lebec,CA,24,34.98734,-118.94623
+"Celebration, FL",Kissimmee,FL,8,28.331356,-81.532453
+"Polaris, OH",Columbus,OH,10,40.141056,-82.988972
+"Palo Alto - Stanford Shopping Center, CA",Palo Alto,CA,20,37.441722,-122.170271
+"West Cincinnati, OH",Dent,OH,12,39.193996,-84.65871
+"Tusayan, AZ",Grand Canyon Village,AZ,12,35.969448,-112.127675
+"Miami - SW 8th St, FL",Miami,FL,10,25.766875,-80.194524
+"Seattle - NE Northgate Way, WA",Seattle,WA,16,47.705956,-122.327133
+"Hayward, CA",Hayward,CA,16,37.667227,-122.120338
+"Shelby, IA",Shelby,IA,8,41.500575,-95.451663
+"Elkhart - George Craig Travel Plaza, IN",Elkhart,IN,8,41.731702,-86.005057
+"West Melbourne, FL",West Melbourne,FL,8,28.037035,-80.664204
+"Manteca, CA",Manteca,CA,20,37.782622,-121.228683
+"Leavenworth, WA",Leavenworth,WA,16,47.598608,-120.655636
+"Baileyville, ME",Baileyville,ME,8,45.123159,-67.348144
+"Delray Beach, FL",Delray Beach,FL,18,26.455815,-80.190072
+"Elkhart - Henry Schricker Travel Plaza, IN",Elkhart,IN,8,41.732798,-86.004993
+"York, PA",York,PA,8,39.9102501,-76.7015182
+"Mansfield, MA",Mansfield,MA,8,42.013729,-71.231754
+"Sandusky, OH",Sandusky,OH,10,41.410173,-82.662914
+"Jamestown, ND",Jamestown,ND,8,46.884658,-98.719555
+"Jacksonville - Gate Parkway, FL",Jacksonville,FL,8,30.254019,-81.536459
+"Huntsville, TX",Huntsville,TX,6,30.716158,-95.565944
+"Normal, IL",Normal,IL,8,40.508497,-88.985575
+"Sisseton, SD",Sisseton,SD,8,45.65847,-97.017933
+"Nashville, TN",Nashville,TN,24,36.110444,-86.723917
+"Miami - NE 41st Street, FL",Miami,FL,14,25.813933,-80.194551
+"Houston - Northwest Fwy, TX",Houston,TX,8,29.867259,-95.538125
+"Aspen, CO",Aspen,CO,8,39.204837,-106.858507
+"Portage - John T McCutcheon Travel Plaza, IN",Portage,IN,8,41.588366,-87.216556
+"New London, CT",New London,CT,8,41.370726,-72.119398
+"Chester Springs, PA",Chester Springs,PA,12,40.075235,-75.686034
+"Napa - Factory Stores Drive, CA",Napa,CA,20,38.297635,-122.302617
+"Austin - S Congress Ave, TX",Austin,TX,8,30.247661,-97.750105
+"Monroe Township, NJ",Monroe Township,NJ,8,40.267115,-74.471887
+"North Bethesda, MD",North Bethesda,MD,8,39.050339,-77.11657
+"Corte Madera, CA",Corte Madera,CA,10,37.928278,-122.514823
+"Altoona, IA",Altoona,IA,6,41.663503,-93.465484
+"Lynchburg, VA",Lynchburg,VA,8,37.32486,-79.190523
+"Portland, ME",Portland,ME,12,43.664423,-70.269631
+"Big Sur, CA",Big Sur,CA,8,36.226876,-121.761506
+"Dover, DE",Dover,DE,8,39.19477,-75.54729
+"Cape May Court House, NJ",Cape May,NJ,12,39.088417,-74.8215
+"Lake Geneva, WI",Lake Geneva,WI,6,42.60901,-88.407819
+"Olathe, KS",Olathe,KS,8,38.912194,-94.795583
+"Middletown, NY",Middletown,NY,8,41.442449,-74.376565
+"Walker, MI",Walker,MI,4,43.018501,-85.723629
+"Ukiah - N State St, CA",Ukiah,CA,12,39.168351,-123.210046
+"Arlington, VA",Arlington,VA,18,38.887481,-77.092956
+"Fairfield - Northbound, CT",Fairfield,CT,12,41.146266,-73.257157
+"Sault Ste. Marie, MI",Sault Ste. Marie,MI,8,46.463553,-84.386795
+"Sturbridge, MA",Sturbridge,MA,12,42.098547,-72.072596
+"Hudson, MA",Hudson,MA,8,42.395775,-71.594724
+"Ithaca, NY",Ithaca,NY,8,42.428639,-76.509111
+"Antioch, CA",Antioch,CA,10,37.963695,-121.737262
+"Mt Airy, NC",Mt Airy,NC,8,36.458847,-80.636683
+"Rancho Mirage, CA",Rancho Mirage,CA,24,33.741311,-116.409258
+"Hudsonville, MI",Hudsonville,MI,10,42.843659,-85.862462
+"Skowhegan, ME",Skowhegan,ME,8,44.780304,-69.727027
+"Las Vegas - Grand Central Parkway, NV",Las Vegas,NV,8,36.165908,-115.158343
+"Acworth, GA",Acworth,GA,12,34.075443,-84.652009
+"Williamsport, PA",Williamsport,PA,8,41.2328,-77.019865
+"Framingham, MA",Framingham,MA,12,42.303637,-71.394171
+"Staunton, VA",Staunton,VA,8,38.1334859,-79.0434692
+"San Jose - Coleman Ave, CA",San Jose,CA,12,37.339661,-121.905085
+"Chico, CA",Chico,CA,18,39.726633,-121.802538
+"Palm Springs, CA",Palm Springs,CA,24,33.824931,-116.548824
+"Yorktown Heights, NY",Yorktown Heights,NY,12,41.29053,-73.832532
+"Albert Lea - Happy Trails Lane, MN",Albert Lea,MN,8,43.657608,-93.318547
+"Haymarket, VA",Haymarket,VA,8,38.815129,-77.642614
+"Alameda, CA",Alameda,CA,12,37.756265,-122.249306
+"Katy, TX",Katy,TX,12,29.774658,-95.821859
+"Marin City, CA",Sausalito,CA,16,37.872835,-122.510499
+"Altoona, PA",Altoona,PA,8,40.499647,-78.391352
+"Richmond, TX",Richmond,TX,8,29.561504,-95.695242
+"Waterbury, CT",Waterbury,CT,8,41.53713,-73.005368
+"St. Joseph, MO",St. Joseph,MO,8,39.768966,-94.801118
+"Seattle - Union St, WA",Seattle,WA,10,47.609686,-122.332152
+"Raleigh, NC",Raleigh,NC,24,35.835623,-78.642569
+"Kearny, NJ",Kearny,NJ,8,40.749156,-74.136392
+"Rockaway, NJ",Rockaway,NJ,12,40.908225,-74.557405
+"Madison, VA",Madison,VA,8,38.34664,-78.286103
+"Lynnfield, MA",Lynnfield,MA,12,42.516609,-71.032521
+"Queens - Queens Center, NY",Queens,NY,10,40.735082,-73.87067
+"Centennial, CO",Englewood,CO,12,39.567218,-104.877928
+"Flushing, NY",Flushing,NY,4,40.760821,-73.829676
+"Lowell, AR",Lowell,AR,8,36.255329,-94.152637
+"Lafayette, LA",Lafayette,LA,8,30.265264,-91.994232
+"Roscoe, NY",Roscoe,NY,8,41.93056,-74.908742
+"St. Joseph, MI",St. Joseph,MI,8,42.056357,-86.456352
+"Oneonta, NY",Oneonta,NY,8,42.447575,-75.048622
+"Bay City, MI",Bay City,MI,8,43.622061,-83.932241
+"Vero Beach, FL",Vero Beach,FL,8,27.6400894,-80.5135068
+"Collinsville, IL",Collinsville,IL,8,38.67344,-90.013486
+"Mount Pleasant, IA",Mount Pleasant,IA,8,40.961378,-91.528249
+"Reston, VA",Reston,VA,8,38.949021,-77.339711
+"St. Louis Park, MN",St. Louis Park,MN,8,44.935964,-93.347857
+"Jackman, ME",Jackman,ME,4,45.624071,-70.25201
+"Superior, CO",Superior,CO,16,39.9548017,-105.1646291
+"North Bend, WA",North Bend,WA,8,47.468107,-121.716454
+"Tremonton, UT",Tremonton,UT,10,41.70995,-112.198576
+"Spokane, WA",Spokane,WA,8,47.590359,-117.56168
+"Meriden, CT",Meriden,CT,8,41.527018,-72.773982
+"Flossmoor, IL",Flossmoor,IL,8,41.529391,-87.709287
+"Vancouver - NE Vancouver Mall Dr, WA",Vancouver,WA,8,45.659872,-122.582467
+"Placerville - Broadway, CA",Placerville,CA,12,38.730606,-120.788085
+"Ontario, OR",Ontario,OR,8,44.025597,-116.942114
+"Boulder, CO",Boulder,CO,10,40.020306,-105.257028
+"Fort Lauderdale, FL",Fort Lauderdale,FL,8,26.120885,-80.177098
+"Clearwater, FL",Clearwater,FL,8,28.013295,-82.736244
+"Hattiesburg, MS",Hattiesburg,MS,8,31.322701,-89.38188
+"San Diego - A Street, CA",San Diego,CA,16,32.719384,-117.159567
+"Los Altos, CA",Los Altos,CA,16,37.398894,-122.110682
+"Washington, PA",Washington,PA,8,40.1873056,-80.2293889
+"Mission Viejo, CA",Mission Viejo,CA,10,33.557279,-117.668035
+"North Canaan, CT",Canaan,CT,8,42.024331,-73.322684
+"Lakewood, CO",Lakewood,CO,16,39.733697,-105.154154
+"Easton, MD",Easton,MD,8,38.759257,-76.061405
+"Ocean City, MD",West Ocean City,MD,8,38.335586,-75.104509
+"Lancaster, PA",Lancaster,PA,8,40.052622,-76.254776
+"Greenville, NC",Greenville,NC,8,35.6055,-77.4
+"Glendive, MT",Glendive,MT,8,47.127042,-104.694456
+"Walnut Creek - Plaza Escuela, CA",Walnut Creek,CA,24,37.895277,-122.061828
+"Elk Grove - Elk Grove Blvd, CA",Elk Grove,CA,16,38.409389,-121.391028
+"Kremmling, CO",Kremmling,CO,8,40.059575,-106.387881
+"Milford - Southbound, CT",Milford,CT,2,41.246232,-73.010529
+"Ashland, NH",Ashland,NH,8,43.698101,-71.640119
+"San Diego - Friars Rd, CA",San Diego,CA,48,32.769144,-117.166271
+"Mackinaw City, MI",Mackinaw City,MI,8,45.77225,-84.7265
+"Maple Shade, NJ",Maple Shade,NJ,8,39.937134,-74.970511
+"Brentwood - Old Hickory Blvd, TN",Brentwood,TN,12,36.042377,-86.777844
+"Manteca - Spreckels Ave, CA",Manteca,CA,12,37.795975,-121.19771
+"Metter, GA",Metter,GA,8,32.378566,-82.062539
+"Tumwater, WA",Tumwater,WA,8,46.952944,-122.935111
+"Wareham, MA",Wareham,MA,12,41.775093,-70.744321
+"Madison, FL",Madison,FL,8,30.43387,-83.4535
+"Emporia, KS",Emporia,KS,8,38.414266,-96.216714
+"Minneapolis, MN",Minneapolis,MN,10,45.004609,-93.229542
+"Bloomington, IN",Bloomington,IN,8,39.166222,-86.579116
+"Rockford, IL",Rockford,IL,8,42.243896,-88.978877
+"Miami - SW 24th Street, FL",Miami,FL,8,25.7485018,-80.3084064
+"Lincoln - Groveland Lane, CA",Lincoln,CA,8,38.869969,-121.303187
+"Sacramento - Freeport Blvd, CA",Sacramento,CA,8,38.533691,-121.4961
+"Darien - Southbound, CT",Darien,CT,12,41.067299,-73.504926
+"Reno - N Sierra St, NV",Reno,NV,16,39.529389,-119.815667
+"Great Falls, MT",Great Falls,MT,8,47.48295,-111.337681
+"Miles City, MT",Miles City,MT,8,46.390475,-105.823359
+"Alpharetta, GA",Alpharetta,GA,10,34.071582,-84.275404
+"Northbrook, IL",Northbrook,IL,8,42.107745,-87.802496
+"Revere, MA",Revere,MA,8,42.398547,-71.00021
+"Mojave - Sierra Hwy, CA",Mojave,CA,12,35.056876,-118.174706
+"Auburn, WA",Auburn,WA,12,47.297976,-122.248274
+"Riverside - Canyon Springs Pkwy, CA",Riverside,CA,16,33.939957,-117.282508
+"Anaheim - E Katella Ave, CA",Anaheim,CA,16,33.805168,-117.882173
+"Staten Island - Veterans Rd W, NY",Staten Island,NY,12,40.527562,-74.231359
+"Helena, MT",Helena,MT,8,46.618173,-112.007628
+"Kokomo, IN",Kokomo,IN,8,40.475169,-86.101306
+"Miami - South Dixie Highway, FL",Miami,FL,12,25.693198,-80.304898
+"Ashburn, VA",Ashburn,VA,8,39.008466,-77.504972
+"Richmond, IN",Richmond,IN,8,39.868255,-84.886326
+"Ehrenberg, AZ",Ehrenberg,AZ,8,33.601666,-114.522376
+"South Padre Island, TX",South Padre Island,TX,2,26.081436,-97.16109
+"White Marsh, MD",White Marsh,MD,8,39.373985,-76.443133
+"Forks, WA",Forks,WA,8,47.942522,-124.384748
+"Woodcliff Lake, NJ",Woodcliff Lake,NJ,8,41.04175,-74.073701
+"Conifer, CO",Conifer,CO,8,39.544083,-105.289972
+"Fargo, ND",Fargo,ND,8,46.843601,-96.882492
+"North Wales, PA",North Wales,PA,8,40.219356,-75.247211
+"Gilman, IL",Gilman,IL,8,40.752202,-87.996464
+"Panama City Beach, FL",Panama City Beach,FL,8,30.211432,-85.849367
+"Madera - Ave 7, CA",Madera,CA,16,36.851569,-119.950611
+"Miami - SW 124th Ave, FL",Miami,FL,12,25.689099,-80.393365
+"Bakersfield - S Enos Ln, CA",Bakersfield,CA,12,35.266688,-119.253836
+"Kissimmee, FL",Kissimmee,FL,8,28.34551,-81.604567
+"New River, AZ",New River,AZ,10,33.91578,-112.14417
+"San Bernardino, CA",San Bernardino,CA,14,34.08407,-117.299314
+"San Jose - Cherry Avenue, CA",San Jose,CA,24,37.258506,-121.871476
+"Thousand Oaks - West Hillcrest Drive, CA",Thousand Oaks,CA,20,34.18445,-118.890747
+"New Haven, CT",New Haven,CT,12,41.297348,-72.917804
+"Rockville, MD",Rockville,MD,8,39.085997,-77.149696
+"Leon Springs, TX",San Antonio,TX,10,29.665289,-98.633387
+"Rutland, VT",Rutland,VT,6,43.617562,-72.957208
+"Salem, OR",Salem,OR,12,44.93894,-122.987919
+"Tahoe City, CA",Tahoe City,CA,6,39.167793,-120.14453
+"Gainesville, FL",Gainesville,FL,10,29.624756,-82.376597
+"Veedersburg, IN",Veedersburg,IN,8,40.11273,-87.248021
+"Cerritos - Los Cerritos Center, CA",Cerritos,CA,20,33.8643904,-118.0915723
+"Tacna, AZ",Tacna,AZ,8,32.6900433,-113.9535836
+"Manhattan - Vesey St, NY",New York,NY,4,40.714062,-74.015837
+"Wallace, NC",Island Creek,NC,8,34.756276,-77.948019
+"Florence, SC",Florence,SC,18,34.190371,-79.832575
+"Marshall, MI",Marshall,MI,8,42.292009,-84.964122
+"Grand Rapids, MI",Grand Rapids,MI,8,42.914231,-85.533057
+"Mobile, AL",Mobile,AL,8,30.671556,-88.118644
+"Alexandria, MN",Alexandria,MN,8,45.850405,-95.388969
+"Livonia, MI",Livonia,MI,10,42.379485,-83.32954
+"Pittsburgh, PA",Pittsburgh,PA,8,40.456432,-79.934125
+"Hawthorne - El Segundo Blvd, CA",Hawthorne,CA,12,33.918036,-118.353197
+"Florence - Houston Rd, KY",Florence,KY,12,39.011489,-84.640279
+"Greenville, SC",Greenville,SC,8,34.825895,-82.306973
+"Marquette, MI",Marquette,MI,8,46.551944,-87.470222
+"Palmdale, CA",Palmdale,CA,20,34.606207,-118.151386
+"East Templeton, MA",Templeton,MA,8,42.561164,-72.040773
+"Roseville - Galleria Boulevard, CA",Roseville,CA,20,38.767949,-121.263356
+"Lincoln, NH",Lincoln,NH,6,44.042314,-71.668127
+"Red Bluff, CA",Red Bluff,CA,8,40.182152,-122.227452
+"Fishkill, NY",Fishkill,NY,12,41.52727858284335,-73.893152475357
+"Chestertown, NY",Chestertown,NY,6,43.665802,-73.784266
+"Louisville - Towne Center Drive, KY",Louisville,KY,8,38.299,-85.556056
+"Pismo Beach, CA",Pismo Beach,CA,12,35.136408,-120.628662
+"Deltona, FL",Deltona,FL,8,28.9498974,-81.2508045
+"Minnetonka, MN",Minnetonka,MN,8,44.9698145,-93.4478659
+"Baltimore - Boston Street, MD",Baltimore,MD,12,39.274972,-76.563528
+"Big Sky, MT",Gallatin Gateway,MT,8,45.2606761,-111.3062058
+"Miami Beach - Pennsylvania Ave, FL",Miami Beach,FL,10,25.79169,-80.134014
+"Hermosa Beach, CA",Hermosa Beach,CA,20,33.864955,-118.394819
+"Lake Placid, NY",Lake Placid,NY,8,44.294797,-74.010526
+"Hardeeville, SC",Hardeeville,SC,8,32.27012485,-81.08084499
+"Estero, FL",Estero,FL,16,26.43604,-81.773048
+"Waterloo, NY",Waterloo,NY,8,42.970012,-76.846134
+"Miami Beach - West Avenue, FL",Miami Beach,FL,18,25.780227,-80.141787
+"Highland Park - Skokie Valley Rd, IL",Highland Park,IL,12,42.191936,-87.826741
+"Hines, OR",Hines,OR,8,43.572694,-119.074556
+"Fresno - North Blackstone Ave, CA",Fresno,CA,8,36.85085698,-119.79142427
+"Beaumont, CA",Beaumont,CA,20,33.922543,-116.949167
+"Chicago - O’Hare, IL",Chicago,IL,14,41.99870660096533,-87.888457775115
+"Marianna, FL",Marianna,FL,8,30.716016,-85.184269
+"Great Barrington, MA",Great Barrington,MA,8,42.180663,-73.364632
+"Quartzsite, AZ",Quartzsite,AZ,36,33.661314,-114.242174
+"Santa Clara, CA",Santa Clara,CA,16,37.394816,-121.945157
+"San Francisco, CA",San Francisco,CA,12,37.781296,-122.421394
+"Lacey, WA",Lacey,WA,12,47.0427557461906,-122.836407423019
+"Smithfield, NC",Smithfield,NC,8,35.505,-78.325583
+"Vienna, VA",Vienna,VA,8,38.895195,-77.273938
+"Chillicothe, OH",Chillicothe,OH,8,39.35835,-82.977277
+"Santa Cruz, CA",Santa Cruz,CA,16,36.978635,-122.013968
+"Clayton, NM",Clayton,NM,8,36.449444,-103.182028
+"Bothell, WA",Bothell,WA,10,47.767606,-122.191712
+"Brunswick, GA",Brunswick,GA,24,31.245874,-81.501667
+"Burley, ID",Heyburn,ID,8,42.56159,-113.790261
+"Modesto - Sisk Rd, CA",Modesto,CA,12,37.694343,-121.064215
+"Farmville, VA",Farmville,VA,8,37.271854,-78.401442
+"Springfield - Cleveland Place, NJ",Springfield,NJ,8,40.717706,-74.329462
+"Deptford, NJ",Deptford,NJ,12,39.833413,-75.097737
+"Montrose, CO",Montrose,CO,8,38.481242,-107.876472
+"Greenbrae, CA",Greenbrae,CA,14,37.944776,-122.522706
+"Tappahannock, VA",Tappahannock,VA,8,37.903836,-76.865734
+"Lakeland, FL",Lakeland,FL,7,28.0979989,-81.9746033
+"Grand Forks, ND",Grand Forks,ND,8,47.888156,-97.081142
+"Traver, CA",Traver,CA,16,36.44881,-119.486404
+"Menlo Park, CA",Menlo Park,CA,18,37.423372,-122.198189
+"Torrance, CA",Torrance,CA,20,33.834811,-118.349039
+"Gettysburg, PA",Gettysburg,PA,8,39.844127,-77.19905
+"Chula Vista, CA",Chula Vista,CA,16,32.649168,-116.9676
+"Big Pine Key, FL",Big Pine Key,FL,8,24.673431,-81.356383
+"Brooksville, FL",Brooksville,FL,12,28.522692,-82.229948
+"Elverson, PA",Elverson,PA,8,40.121588,-75.775761
+"Gloucester, MA",Gloucester,MA,8,42.623417,-70.6545
+"Petersburg - Wagner Rd, VA",Petersburg,VA,8,37.1906,-77.3663
+"Seattle - NW Ballard Way, WA",Seattle,WA,8,47.662639,-122.374975
+"Malibu - Whole Foods and the Park, CA",Malibu,CA,5,34.037043,-118.685809
+"Rehoboth Beach, DE",Rehoboth Beach,DE,8,38.712542,-75.10381
+"Williamsburg, VA",Williamsburg,VA,8,37.266487,-76.676613
+"Perry, OK",Perry,OK,6,36.289315,-97.325935
+"Malibu, CA",Malibu,CA,8,34.036024,-118.684095
+"Greenfield, CA",Greenfield,CA,12,36.32925,-121.245444
+"Lady Lake, FL",Lady Lake,FL,8,28.917179,-81.923031
+"Winter Garden, FL",Winter Garden,FL,8,28.551646,-81.584416
+"San Mateo - Hillsdale Boulevard, CA",San Mateo,CA,12,37.533306,-122.327472
+"Sand City, CA",Sand City,CA,12,36.621976,-121.844208
+"Trenton - Richard Stockton, NJ",Trenton,NJ,8,40.176935,-74.631786
+"Georgetown, TX",Georgetown,TX,16,30.632093,-97.694003
+"Davenport, FL",Davenport,FL,12,28.258509,-81.590088
+"Grove City, PA",Grove City,PA,6,41.143778,-80.157055
+"Mt. Shasta - 134 Morgan Way, CA",Mt. Shasta,CA,16,41.310348,-122.316039
+"Baker City, OR",Baker City,OR,8,44.782849,-117.812422
+"San Diego - Qualcomm, CA",San Diego,CA,12,32.902137,-117.193489
+"The Dalles, OR",The Dalles,OR,5,45.611964,-121.208526
+"Valdosta, GA",Valdosta,GA,8,30.81732,-83.320889
+"Ozark, AR",Ozark,AR,8,35.5238,-93.8636
+"Cupertino - Stevens Creek Blvd, CA",Cupertino,CA,28,37.324722,-122.03684
+"Elizabeth, NJ",Elizabeth,NJ,16,40.662806,-74.173611
+"Newark - Old Baltimore Pike, DE",Newark,DE,8,39.642686,-75.729226
+"San Clemente - Av. Vista Hermosa, CA",San Clemente,CA,16,33.463091,-117.60783
+"St. Johnsbury, VT",St. Johnsbury,VT,8,44.460841,-72.014819
+"Placerville, CA",Placerville,CA,8,38.709815,-120.842293
+"Patterson - Speno Dr, CA",Patterson,CA,8,37.466496,-121.174403
+"Goldsboro, NC",Goldsboro,NC,8,35.386452,-77.948309
+"San Diego - Balboa Mesa, CA",San Diego,CA,16,32.818922,-117.179792
+"Flemington, NJ",Flemington,NJ,8,40.505245,-74.851828
+"Crystal River, FL",Crystal River,FL,8,28.899556,-82.586778
+"Jacksonville - Philips Hwy, FL",Jacksonville,FL,12,30.265516,-81.617034
+"Baltimore - McHenry Row, MD",Baltimore,MD,8,39.268454,-76.59925
+"Granada Hills, CA",Granada Hills,CA,20,34.266172,-118.524155
+"Canoe Creek, FL",Canoe Creek,FL,8,28.094603,-81.27413
+"Wells, NV",Wells,NV,8,41.101369,-114.956259
+"Hermitage, PA",Hermitage,PA,8,41.201068,-80.455205
+"Cedar City, UT",Cedar City,UT,16,37.606299,-113.161244
+"Van Buren, AR",Van Buren,AR,6,35.458391,-94.356308
+"Yakima, WA",Yakima,WA,8,46.608814,-120.491244
+"Loomis, CA",Loomis,CA,8,38.817444,-121.189472
+"Salem, VA",Salem,VA,8,37.289384,-80.079866
+"Naples - Tarpon Bay Blvd, FL",Naples,FL,8,26.271106,-81.739504
+"Dublin - Dublin Blvd, CA",Dublin,CA,10,37.703993,-121.852249
+"Newark - Chestnut Hill Rd, DE",Newark,DE,8,39.662049,-75.73563
+"Kingman, AZ",Kingman,AZ,10,35.191331,-114.065592
+"Kinston, NC",Kinston,NC,8,35.26079,-77.649666
+"Simi Valley - Tierra Rejada Rd, CA",Simi Valley,CA,16,34.272167,-118.797139
+"Jacksonville - Chaffee Rd, FL",Jacksonville,FL,8,30.307077,-81.847887
+"Bell, CA",Bell,CA,8,33.977915,-118.188681
+"Towson, MD",Towson,MD,8,39.396234,-76.575626
+"San Fernando - Celis St, CA",San Fernando,CA,12,34.281483,-118.44167
+"Pasadena - E Glenarm St, CA",Pasadena,CA,20,34.12699,-118.147727
+"San Diego - Camino De La Plaza, CA",San Ysidro,CA,8,32.54462,-117.042305
+"Fort Pierce, FL",Fort Pierce,FL,8,27.416538,-80.381845
+"Watertown, SD",Watertown,SD,8,44.889,-97.093
+"Hamburg, PA",Hamburg,PA,8,40.564621,-76.007412
+"Moosic, PA",Moosic,PA,8,41.361979,-75.676596
+"Orlando - W Sand Lake Rd, FL",Orlando,FL,8,28.449767,-81.466734
+"Bear, DE",Bear,DE,8,39.632175,-75.660374
+"Brighton, CO",Brighton,CO,8,39.971722,-104.748972
+"Titusville, FL",Titusville,FL,16,28.552782,-80.840594
+"Clovis, CA",Clovis,CA,12,36.836939,-119.6982
+"Yulee, FL",Yulee,FL,8,30.623736,-81.638238
+"Madison - Whitney Way, WI",Madison,WI,8,43.050266,-89.472382
+"Stoughton, MA",Stoughton,MA,12,42.152917,-71.073528
+"Louisville - Preston Hwy, KY",Louisville,KY,12,38.111814,-85.677355
+"Port Saint Lucie - Florida's Turnpike, FL",Port St. Lucie,FL,16,27.300086,-80.372074
+"Glen Mills, PA",Glen Mills,PA,8,39.883186,-75.534198
+"Asheville - S Tunnel Rd, NC",Asheville,NC,8,35.584234,-82.523932
+"Williston, VT",Williston,VT,8,44.449659,-73.108963
+"Concord - Diamond Blvd, CA",Concord,CA,16,37.969947,-122.058491
+"Joplin, MO",Joplin,MO,8,37.033192,-94.515724
+"Silverthorne, CO",Silverthorne,CO,12,39.631457,-106.070816
+"Beavercreek, OH",Fairborn,OH,12,39.776163,-84.074435
+"Elwood, NJ",Hammonton,NJ,8,39.550487,-74.735734
+"Erie, PA",Erie,PA,8,42.049602,-80.086345
+"San Ramon - San Ramon Valley Blvd, CA",San Ramon,CA,16,37.723081,-121.944252
+"California, MD",California,MD,8,38.302946,-76.522367
+"Newnan, GA",Newnan,GA,12,33.393341,-84.759097
+"Brinkley, AR",Brinkley,AR,8,34.904944,-91.200056
+"Norfolk - N Military Hwy, VA",Norfolk,VA,8,36.897383,-76.226511
+"Palm Beach Gardens, FL",Palm Beach Gardens,FL,16,26.840149,-80.103969
+"Florence - N Williston Rd, SC",Florence,SC,16,34.272134,-79.703346
+"Yreka, CA",Yreka,CA,12,41.701506,-122.645108
+"Fort Bragg, CA",Fort Bragg,CA,12,39.421063,-123.807299
+"Evanston, IL",Evanston,IL,12,42.050353,-87.685491
+"Inyokern - Locust Ave, CA",Inyokern,CA,12,35.646509,-117.81326
+"Aurora - IL-59, IL",Aurora,IL,12,41.769119,-88.208105
+"North Charleston, SC",North Charleston,SC,8,32.872626,-80.015535
+"Entiat, WA",Entiat,WA,8,47.684662,-120.206959
+"Daytona Beach, FL",Daytona Beach,FL,12,29.183314,-81.07889
+"Medford, OR",Medford,OR,12,42.347992,-122.878882
+"Buffalo Grove, IL",Buffalo Grove,IL,12,42.168699,-87.923841
+"Hartford - Leibert Rd, CT",Hartford,CT,12,41.788236,-72.65582
+"Baton Rouge - Highland Rd, LA",Baton Rouge,LA,8,30.348888,-91.028019
+"Claymont - Philadelphia Pike, DE",Claymont,DE,8,39.794717,-75.469534
+"Jackson, CA",Jackson,CA,8,38.347998,-120.7766
+"Stockton, CA",Stockton,CA,12,37.984978,-121.335924
+"Firebaugh, CA",Firebaugh,CA,56,36.639287,-120.625451
+"Palm Coast, FL",Palm Coast,FL,8,29.475857,-81.206442
+"Bishop, CA",Bishop,CA,12,37.360397,-118.396963
+"Water Mill, NY",Water Mill,NY,8,40.912008,-72.352969
+"Hillsboro, OR",Hillsboro,OR,12,45.538579,-122.866166
+"Rowland Heights, CA",Rowland Heights,CA,8,33.991811,-117.92803
+"Playa Vista, CA",Playa Vista,CA,14,33.977104,-118.417167
+"San Jose - Holger Way, CA",San Jose,CA,14,37.417281,-121.956897
+"Austin - Century Oaks Terrace, TX",Austin,TX,16,30.4023,-97.7247
+"Hesperia, CA",Hesperia,CA,20,34.424864,-117.385861
+"Falls Church, VA",Falls Church,VA,8,38.902472,-77.203588
+"Emeryville - Christie Ave, CA",Emeryville,CA,12,37.837506,-122.295407
+"Santa Ana - E 5th St, CA",Santa Ana,CA,20,33.748796,-117.866115
+"Woodland, CA",Woodland,CA,8,38.671368,-121.723893
+"Land O’ Lakes, FL",Land O’ Lakes,FL,8,28.189347,-82.40032
+"Sunnyvale - S Bernardo Ave, CA",Sunnyvale,CA,16,37.372668,-122.057332
+"Waldorf, MD",Waldorf,MD,8,38.630127,-76.919032
+"Hilton Head Island, SC",Hilton Head Island,SC,8,32.15369,-80.767933
+"Sacramento - J St, CA",Sacramento,CA,20,38.580186,-121.499476
+"Fremont - Pacific Commons, CA",Fremont,CA,16,37.502482,-121.968927
+"Pasco, WA",Pasco,WA,8,46.272437,-119.182456
+"Emeryville - Shellmound St, CA",Emeryville,CA,12,37.840449,-122.293936
+"Davis, CA",Davis,CA,16,38.542553,-121.725827
+"Crestview, FL",Crestview,FL,8,30.733386,-86.566733
+"Waco, TX",Bellmead,TX,22,31.58224,-97.10915
+"Washington - Market St NE, DC",Washington,DC,12,38.92225,-76.953333
+"Denton - S I-35 E, TX",Denton,TX,8,33.178819,-97.101846
+"Gilroy - Camino Arroyo, CA",Gilroy,CA,12,37.000817,-121.554338
+"Hilton Head - William Hilton Pkwy, SC",Hilton Head Island,SC,8,32.21475,-80.703411
+"Bethesda - Elm St, MD",Bethesda,MD,12,38.981159,-77.097958
+"Oakland - 2nd St, CA",Oakland,CA,12,37.794153,-122.272578
+"Hagerstown - Venture Dr, MD",Hagerstown,MD,8,39.608895,-77.750802
+"Rockledge, FL",Rockledge,FL,12,28.26721,-80.71842
+"Tilton, NH",Tilton,NH,8,43.455263,-71.564612
+"Metairie, LA",Metairie,LA,12,30.001862,-90.124675
+"Charlotte - Northlake Centre Pkwy, NC",North Charlotte,NC,12,35.34726,-80.85921
+"Dobbs Ferry, NY",Dobbs Ferry,NY,12,41.003783,-73.85642
+"Fairfax - Fairfax Blvd, VA",Fairfax,VA,12,38.864685,-77.280101
+"San Luis Obispo - Los Osos Valley Rd, CA",San Luis Obispo,CA,16,35.253753,-120.684317
+"Lisbon, CT",Lisbon,CT,8,41.58569,-71.991059
+"Seattle - 1201 2nd Avenue, WA",Seattle,WA,4,47.6066581,-122.3371498
+"Westampton - Rancocas Rd, NJ",Westampton,NJ,8,40.006811,-74.860835
+"Burlington, MA",Burlington,MA,12,42.4836,-71.2164
+"Eastvale - Limonite Ave, CA",Eastvale,CA,16,33.976911,-117.55442
+"Littleton, MA",Littleton,MA,12,42.553135,-71.473819
+"Santa Ysabel, CA",Santa Ysabel,CA,8,33.109253,-116.674419
+"New Milford, CT",New Milford,CT,8,41.538744,-73.421791
+"Archdale, NC",Archdale,NC,8,35.899472,-79.946472
+"Brewster, NY",Brewster,NY,8,41.39169,-73.595175
+"Irvine - Walnut Ave, CA",Irvine,CA,8,33.689853,-117.768924
+"Fountain Valley - Warner Ave, CA",Fountain Valley,CA,12,33.715666,-117.964945
+"Sterling, VA",Sterling,VA,8,38.977853,-77.41201
+"Lexington (NB), MA",Lexington,MA,8,42.439697,-71.257982
+"Philadelphia - Penrose Ave, PA",Philadelphia,PA,20,39.905116,-75.19437
+"Charlton - Westbound, MA",Charlton,MA,8,42.156788,-71.962909
+"Newton, MA",Newton,MA,8,42.330663,-71.255062
+"Pembroke Pines - S Hiatus Rd, FL",Pembroke Pines,FL,8,25.994288,-80.296384
+"Terrell, TX",Terrell,TX,24,32.717529,-96.323024
+"Stafford, VA",Stafford,VA,8,38.467411,-77.412069
+"Douglasville, GA",Douglasville,GA,12,33.726907,-84.735784
+"Baytown, TX",Baytown,TX,12,29.801587,-94.997897
+"Columbia, SC",Columbia,SC,8,34.106319,-80.950723
+"Plymouth, NC",Plymouth,NC,8,35.850587,-76.756116
+"Merced - Martin Luther King Junior Way, CA",Merced,CA,12,37.297988,-120.483354
+"Brownsville, TX",Brownsville,TX,8,25.950115,-97.488512
+"Blanding, UT",Blanding,UT,4,37.625553,-109.473841
+"Draper, UT",Draper,UT,12,40.526531,-111.88591
+"Haubstadt - Ruffian Way, IN",Haubstadt,IN,8,38.159762,-87.551955
+"Glendale - Harvey Dr, CA",Glendale,CA,16,34.148107,-118.227151
+"Grinnell, IA",Grinnell,IA,8,41.700046,-92.726636
+"Chicago - N Elston Ave, IL",Chicago,IL,12,41.928,-87.685478
+"San Diego - Clairemont Mesa Blvd, CA",San Diego,CA,12,32.831963,-117.159547
+"Bowie, MD",Bowie,MD,8,38.956171,-76.826008
+"San Bruno - San Bruno Ave, CA",San Bruno,CA,12,37.618905,-122.440524
+"Denver, PA",Bowmansville,PA,8,40.202902,-76.015953
+"East Point, GA",East Point,GA,12,33.658708,-84.50122
+"New Stanton, PA",New Stanton,PA,8,40.218355,-79.613656
+"Bridgewater, NJ",Bridgewater Township,NJ,8,40.56757,-74.563865
+"Fredericksburg, VA",Fredericksburg,VA,8,38.225974,-77.506136
+"Redlands - W Stuart Ave, CA",Redlands,CA,20,34.059384,-117.185405
+"San Francisco - Geary Blvd, CA",San Francisco,CA,34,37.781806,-122.446146
+"Peoria - N Sheridan Rd, IL",Peoria,IL,8,40.739208,-89.606721
+"St. Petersburg, FL",St. Petersburg,FL,8,27.734808,-82.680101
+"Edgewater, MD",Edgewater,MD,8,38.936193,-76.56776
+"Copperopolis, CA",Copperopolis,CA,12,37.972864,-120.653276
+"Tupelo, MS",Tupelo,MS,8,34.311515,-88.700843
+"Urbana, MD",Urbana,MD,8,39.327271,-77.34652
+"Glenwood Springs, CO",Glenwood Springs,CO,6,39.55268,-107.340168
+"Colfax, NC",Colfax,NC,8,36.095012,-79.994674
+"West Palm Beach - Garden Rd, FL",West Palm Beach,FL,8,26.782582,-80.092328
+"Marietta, GA",Marietta,GA,12,33.90375,-84.465778
+"Chester, VA",Chester,VA,8,37.367323,-77.416947
+"Baltimore - South Caton Avenue, MD",Halethorpe,MD,5,39.268888,-76.668933
+"Monument, CO",Monument,CO,8,39.092296,-104.852544
+"Winter Park, FL",Winter Park,FL,12,28.604988,-81.365915
+"Mt. Hope, WV",Mount Hope,WV,8,37.847683,-81.196272
+"Bastrop, TX",Bastrop,TX,12,30.10603,-97.305318
+"Okahumpka, FL",Wildwood,FL,8,28.787015,-81.982383
+"Monterey-Seaside, CA",Seaside,CA,6,36.616759,-121.844014
+"Gillette, WY",Gillette,WY,4,44.29301,-105.526628
+"San Juan Capistrano, CA",San Juan Capistrano,CA,7,33.498458,-117.6632
+"West Hartford, CT",West Hartford,CT,8,41.722672,-72.759717
+"Greenville, AL",Greenville,AL,12,31.855989,-86.635765
+"Virginia Beach, VA",Virginia Beach,VA,8,36.840677,-76.055615
+"Ellensburg, WA",Ellensburg,WA,5,46.976918,-120.54162
+"Truckee - Brockway Rd, CA",Truckee,CA,8,39.321865,-120.1621
+"Macedonia, OH",Macedonia,OH,6,41.313663,-81.517018
+"State College, PA",State College,PA,8,40.815605,-77.901757
+"Springfield, IL",Springfield,IL,8,39.748868,-89.67119
+"Silverthorne - Ruby Ranch Rd, CO",Silverthorne,CO,8,39.645998,-106.079617
+"Cherry Hill - Haddonfield Rd, NJ",Cherry Hill,NJ,8,39.925886,-75.032423
+"San Jose - 925 Blossom Hill Rd, CA",San Jose,CA,24,37.250854,-121.860731
+"Lima, OH",Lima,OH,8,40.726668,-84.071932
+"Seabrook, NH",Seabrook,NH,8,42.895182,-70.869351
+"Tinton Falls, NJ",Tinton Falls,NJ,8,40.226272,-74.093538
+"Murdo, SD",Murdo,SD,4,43.886915,-100.716887
+"Strasburg, VA",Strasburg,VA,6,39.00496,-78.337836
+"Triadelphia, WV",Triadelphia,WV,4,40.060757,-80.602874
+"Lone Pine, CA",Lone Pine,CA,16,36.60059,-118.061916
+"Leesburg - California Dr NE, VA",Leesburg,VA,8,39.1029426,-77.525479
+"Cameron Park, CA",Cameron Park,CA,12,38.655825,-120.965651
+"Atlanta, GA",Atlanta,GA,30,33.793808,-84.397203
+"West Springfield, MA",West Springfield,MA,8,42.130914,-72.621435
+"Eureka, CA",Eureka,CA,8,40.778885,-124.188383
+"Laurel, MD",Laurel,MD,8,39.095382,-76.858319
+"Culver City, CA",Culver City,CA,16,33.986779,-118.390213
+"Naples, FL",Naples,FL,8,26.14462,-81.788849
+"Harrisburg, PA",Harrisburg,PA,8,40.277134,-76.823255
+"Victor, NY",Victor,NY,8,43.028655,-77.440128
+"Syracuse, NY",Liverpool,NY,8,43.102516,-76.187475
+"Darien - Northbound, CT",Darien,CT,10,41.080321,-73.461365
+"Grove City, OH",Grove City,OH,8,39.877253,-83.063448
+"Utica, NY",Utica,NY,8,43.113878,-75.206857
+"Brattleboro, VT",Brattleboro,VT,16,42.838443,-72.565798
+"New York JFK, NY",Queens,NY,12,40.66319,-73.793192
+"Princeton, WV",Princeton,WV,8,37.364002,-81.052394
+"Grand Junction, CO",Grand Junction,CO,6,39.090758,-108.604325
+"Hagerstown, MD",Hagerstown,MD,6,39.605859,-77.733324
+"Cheyenne, WY",Cheyenne,WY,4,41.161085,-104.804955
+"Edison, NJ",Edison,NJ,8,40.5448144,-74.333248
+"Albany, NY",Albany,NY,6,42.710356,-73.819109
+"Buffalo, NY",Buffalo,NY,8,42.968673,-78.696128
+"Elk Grove - 7119 Elk Grove Blvd, CA",Elk Grove,CA,12,38.4099,-121.4181
+"West Lebanon, NH",West Lebanon,NH,16,43.623536,-72.3258949
+"Jim Thorpe - Northbound, PA",Jim Thorpe,PA,8,40.971484,-75.63068
+"Dublin - Amador Plaza, CA",Dublin,CA,16,37.703183,-121.925327
+"Plant City, FL",Plant City,FL,8,28.026083,-82.151705
+"Breezewood, PA",Breezewood,PA,8,39.999842,-78.238697
+"Hamilton Township, NJ",Hamilton,NJ,6,40.195539,-74.641375
+"Grasonville, MD",Grasonville,MD,12,38.965706,-76.220905
+"Jim Thorpe - Southbound, PA",Jim Thorpe,PA,8,40.969331,-75.631379
+"Boston - Allstate Road, MA",Boston,MA,10,42.325662,-71.063013
+"San Diego - Mira Mesa Blvd, CA",San Diego,CA,16,32.911707,-117.145653
+"Madison - S Livingston, WI",Madison,WI,8,43.080622,-89.375068
+"Erwin, NY",Painted Post,NY,10,42.170919,-77.107728
+"Menomonee Falls, WI",Menomonee Falls,WI,8,43.16438,-88.065848
+"Glen Allen, VA",Glen Allen,VA,20,37.669832,-77.461419
+"Somerset - Eastbound Service Plaza, PA",Somerset,PA,8,39.9995422,-79.0474265
+"Bensalem, PA",Bensalem,PA,8,40.124944,-74.963908
+"Clarksburg, NJ",Millstone,NJ,8,40.15767,-74.430151
+"Guilderland, NY",Guilderland,NY,20,42.688932,-73.853554
+"Odessa, FL",Odessa,FL,8,28.190073,-82.616178
+"Harrisonburg, VA",Harrisonburg,VA,8,38.429826,-78.856029
+"Lake Grove, NY",Lake Grove,NY,8,40.862269,-73.129075
+"Dublin, OH",Dublin,OH,10,40.0930008,-83.0936558
+"Hollister, CA",Hollister,CA,20,36.989869,-121.380535
+"King George - Owens Drive, VA",King George,VA,8,38.353581,-77.048857
+"Hamden - Dixwell Avenue, CT",Hamden,CT,12,41.369666,-72.919942
+"Cedar Rapids, IA",Cedar Rapids,IA,8,41.9564935,-91.6579808
+"Mechanicsville, VA",Mechanicsville,VA,8,37.613437,-77.328344
+"Montgomery, AL",Montgomery,AL,12,32.361192,-86.161314
+"Kernersville, NC",Kernersville,NC,8,36.069842,-80.112057
+"San Jose - Santana Row (Valet), CA",San Jose,CA,10,37.321459,-121.948969
+"Sioux City - Southern Hills Dr, IA",Sioux City,IA,8,42.440787,-96.346112
+"Tustin, CA",Tustin,CA,8,33.7123,-117.8163
+"Philadelphia - Church St, PA",Philadelphia,PA,8,40.001987,-75.081547
+"Brooklyn - Brooklyn Museum, NY",Brooklyn,NY,10,40.670085,-73.962826
+"Fresno - North Riverside Drive, CA",Fresno,CA,12,36.832164,-119.908341
+"Rolling Meadows, IL",Rolling Meadows,IL,22,42.049702,-87.994915
+"Laramie, WY",Laramie,WY,8,41.32512,-105.618117
+"Irvine - Culver Drive, CA",Irvine,CA,16,33.706784,-117.785164
+"Leeds, AL",Leeds,AL,16,33.543942,-86.588636
+"Exmore, VA",Exmore,VA,4,37.516011,-75.831544
+"Nashville - Charlotte Pike, TN",Nashville,TN,12,36.133938,-86.891832
+"Madison, GA",Madison,GA,8,33.558083,-83.473861
+"Apopka, FL",Apopka,FL,8,28.6541,-81.4686
+"Monticello, MN",Monticello,MN,8,45.3008,-93.7995
+"Medway, ME",Medway,ME,6,45.609675,-68.522956
+"Swartz Creek, MI",Swartz Creek,MI,10,42.96744,-83.828794
+"Plainview, NY",Plainview,NY,6,40.779989,-73.450258
+"Valley Stream, NY",Valley Stream,NY,16,40.66402,-73.7251
+"Vancouver, WA",Vancouver,WA,12,45.721663,-122.663461
+"Wausau, WI",Wausau,WI,8,44.931202,-89.662213
+"Boston - Boylston Street, MA",Boston,MA,8,42.34717,-71.081003
+"Muskegon, MI",Muskegon,MI,10,43.155333,-86.202939
+"St. Charles - Beale St, MO",St. Charles,MO,12,38.765655,-90.493552
+"New York - E 47th Street, NY",New York,NY,4,40.753356,-73.971685
+"New York - Mott Street, NY",New York,NY,2,40.717522,-73.997302
+"New York - W 75th Street, NY",New York,NY,4,40.780976,-73.980414
+"Detroit Lake, OR",Detroit,OR,6,44.737025,-122.152108
+"Giddings, TX",Giddings,TX,8,30.178912,-96.907004
+"Aberdeen, WA",Aberdeen,WA,8,46.976679,-123.813485
+"Sequim, WA",Sequim,WA,8,48.071232,-123.074527
+"Huntington, WV",Huntington,WV,8,38.410941,-82.487122
+"Rawlins, WY",Rawlins,WY,8,41.79082,-107.210272
+"Danbury, CT",Danbury,CT,10,41.379222,-73.477689
+"Somerset - Westbound Service Plaza, PA",Somerset,PA,8,39.999603,-79.043673
+"Fremont - 39201 Fremont Blvd, CA",Fremont,CA,12,37.544506,-121.983822
+"Chino Hills, CA",Chino Hills,CA,16,34.002163,-117.731326
+"Vallejo - Solano Ave, CA",Vallejo,CA,20,38.104444,-122.230234
+"New York - 59 Allen Street, NY",Lower Manhattan,NY,4,40.717153,-73.991869
+"Jersey City, NJ",Jersey City,NJ,6,40.721595,-74.040469
+"Claymont, DE",Claymont,DE,8,39.817478,-75.457282
+"Athens, GA",Athens,GA,10,33.916675,-83.452965
+"Carmel, IN",Carmel,IN,10,39.97193,-86.152619
+"Daly City, CA",Daly City,CA,40,37.673998,-122.472257
+"Issaquah, WA",Issaquah,WA,8,47.548026,-122.040026
+"Buford, GA",Buford,GA,10,34.061572,-83.994606
+"Pembroke Pines, FL",Pembroke Pines,FL,16,26.006948,-80.348953
+"Aventura, FL",Aventura,FL,35,25.956403,-80.143001
+"Fort Myers - Gulf Coast Main St, FL",Fort Myers,FL,12,26.488531,-81.787028
+"Piedmont, SC",Piedmont,SC,8,34.757187,-82.474101
+"Hialeah, FL",Miami Gardens,FL,12,25.942859,-80.344869
+"Downey - Stonewood St, CA",Downey,CA,12,33.934643,-118.12117
+"Kennebunk - Northbound, ME",Kennebunk,ME,8,43.409493,-70.558551
+"Kennebunk - Southbound, ME",Kennebunk,ME,8,43.410693,-70.560923
+"East Palo Alto, CA",East Palo Alto,CA,20,37.459659,-122.137651
+"Oxford, AL",Oxford,AL,12,33.610651,-85.782355
+"Islandia, NY",Islandia,NY,10,40.805079,-73.180528
+"North Brunswick, NJ",North Brunswick,NJ,10,40.439373,-74.504769
+"King of Prussia - South Henderson Rd, PA",King of Prussia,PA,16,40.092333,-75.359222
+"Federal Way, WA",Federal Way,WA,12,47.314917,-122.315972
+"Brentwood, CA",Brentwood,CA,16,37.9466789,-121.7409128
+"Fort Myers, FL",Fort Myers,FL,14,26.608585,-81.809444
+"Bellevue, WA",Bellevue,WA,8,47.610717,-122.202226
+"Hannibal, MO",Hannibal,MO,8,39.718198,-91.392441
+"Augusta, GA",Augusta,GA,8,33.515004,-82.044443
+"Fairmont, WV",Fairmont,WV,8,39.471945,-80.153302
+"Hartford, CT",Hartford,CT,6,41.766116,-72.673977
+"Steele, AL",Steele,AL,8,33.933824,-86.191611
+"Doylestown, PA",Doylestown,PA,8,40.300112,-75.127537
+"St. Augustine, FL",St. Augustine,FL,6,29.924286,-81.416018
+"Augusta, ME",Augusta,ME,8,44.34787,-69.786088
+"Cabazon - Morongo Trail, CA",Cabazon,CA,12,33.923726,-116.803246
+"Waterloo, IA",Waterloo,IA,8,42.459333,-92.328806
+"Marion, IL",Marion,IL,8,37.744427,-88.962303
+"St. Louis, MO",St. Louis,MO,12,38.620823,-90.260954
+"Tracy - West Grant Line Rd, CA",Tracy,CA,12,37.753054,-121.467549
+"Shelbyville, IN",Shelbyville,IN,8,39.5539,-85.7745
+"Langhorne, PA",Langhorne,PA,8,40.163345,-74.904428
+"Rochester, MN",Rochester,MN,8,44.006329,-92.470902
+"Wilmington, NC",Wilmington,NC,10,34.240825,-77.829189
+"Sidney, NE",Sidney,NE,8,41.115424,-102.949694
+"Jersey City - Mall Drive West, NJ",Jersey City,NJ,20,40.727327,-74.039344
+"West Nyack, NY",West Nyack,NY,20,41.094692,-73.955497
+"Seaside, OR",Seaside,OR,8,46.00101,-123.91683
+"Chantilly, VA",South Riding,VA,8,38.9137222,-77.4869722
+"Italy, TX",Italy,TX,10,32.194947,-96.89875
+"Pedricktown - John Fenwick, NJ",Pedricktown,NJ,8,39.696093,-75.395823
+"West Hollywood, CA",West Hollywood,CA,8,34.091635,-118.382241
+"Bay Shore, NY",Bay Shore,NY,12,40.727358,-73.276843
+"Cambridge, MA",Cambridge,MA,8,42.368483,-71.076189
+"Ann Arbor, MI",Ann Arbor,MI,8,42.240687,-83.766265
+"Arroyo Grande - W Branch Rd, CA",Arroyo Grande,CA,8,35.126833,-120.595972
+"Santa Maria, CA",Santa Maria,CA,20,34.952928,-120.434555
+"Indianapolis, IN",Indianapolis,IN,8,39.702444,-86.079687
+"Columbus, GA",Columbus,GA,12,32.533485,-84.971362
+"D'Iberville, MS",D'Iberville,MS,12,30.459066,-88.893288
+"Sherman Oaks - Ventura Blvd, CA",Sherman Oaks,CA,40,34.156902,-118.467539
+"Union, NJ",Union,NJ,12,40.695914,-74.254049
+"Pedricktown - Clara Barton, NJ",Pedricktown,NJ,8,39.697702,-75.39773
+"Oakhurst, CA",Oakhurst,CA,8,37.333611,-119.645191
+"Moab, UT",Moab,UT,4,38.573122,-109.552368
+"Venice, FL",Venice,FL,8,27.107859,-82.385275
+"Walcott, IA",Walcott,IA,8,41.619789,-90.782433
+"Hamilton - Woodrow Wilson, NJ",Hamilton Township,NJ,8,40.175932,-74.630183
+"Chipley, FL",Chipley,FL,8,30.751833,-85.551682
+"Cottondale, AL",Cottondale,AL,8,33.175259,-87.449694
+"Lexington - E Nelson St, VA",Lexington,VA,8,37.778564,-79.434062
+"Kearney, NE",Kearney,NE,8,40.6822,-99.0834
+"Ruston, LA",Ruston,LA,8,32.542727,-92.62574
+"Chattanooga - Hamilton Place Blvd, TN",Chattanooga,TN,12,35.036667,-85.16009
+"Pasadena - 3363 E Foothill Blvd, CA",Pasadena,CA,20,34.153571,-118.081718
+"Covington, LA",Covington,LA,12,30.443505,-90.141137
+"Morgantown, WV",Morgantown,WV,8,39.579175,-79.953493
+"Red Hook, NY",Red Hook,NY,8,41.979518,-73.88216
+"Pacific Palisades, CA",Pacific Palisades,CA,8,34.047878,-118.524987
+"Fort Mill, SC",Fort Mill,SC,12,35.0964,-80.9359
+"Westminster, CO",Westminster,CO,8,39.832103,-105.023901
+"San Gabriel, CA",San Gabriel,CA,20,34.077694,-118.100109
+"Lodi, NJ",Lodi,NJ,8,40.89146,-74.07267
+"San Marcos, CA",San Marcos,CA,20,33.13658,-117.176119
+"Speedway, IN",Indianapolis,IN,8,39.80066,-86.270482
+"Middletown, DE",Middletown,DE,8,39.47951,-75.722099
+"Dwight, IL",Dwight,IL,8,41.093395,-88.442109
+"Cranford, NJ",Cranford,NJ,12,40.658207,-74.287872
+"Charlton - Eastbound, MA",Charlton,MA,8,42.139201,-72.025772
+"Diamond Bar, CA",Diamond Bar,CA,24,33.97577,-117.838484
+"Columbia - W Broadway, MO",Columbia,MO,12,38.954387,-92.383074
+"Auburn, CA",Auburn,CA,12,38.926253,-121.058008
+"Doral, FL",Doral,FL,8,25.80622,-80.337826
+"Tampa - N Dale Mabry Hwy, FL",Tampa,FL,8,27.949242,-82.504944
+"San Bruno - El Camino Real, CA",San Bruno,CA,28,37.636105,-122.420515
+"Malta, NY",Ballston Spa,NY,8,43.0262,-73.792
+"Alturas, CA",Alturas,CA,8,41.495424,-120.55978
+"Rolling Prairie - S Knute Rockne Plaza, IN",Rolling Prairie,IN,8,41.705116,-86.621519
+"Rolling Prairie - Wilbur Shaw Travel Plaza, IN",Rolling Prairie,IN,8,41.707691,-86.623162
+"Liberty, MO",Liberty,MO,8,39.245809,-94.448108
+"West Palm Beach - Palm Beach Outlets, FL",West Palm Beach,FL,8,26.72622,-80.0875
+"Benton Harbor, MI",Benton Harbor,MI,12,42.082115,-86.423841
+"New Paltz, NY",New Paltz,NY,8,41.743731,-74.070122
+"Sonoma, CA",Sonoma,CA,8,38.29179,-122.452126
+"Houston - Hempstead Rd (SC), TX",Houston,TX,16,29.912978,-95.615944
+"Topeka - Topeka Service Area, KS",Topeka,KS,8,39.0195,-95.508
+"Lawrence - Lawrence Service Plaza, KS",Lawrence,KS,12,39.0205,-95.1348
+"Howe - Gene Stratton Travel Plaza, IN",Howe,IN,8,41.744917,-85.330167
+"Howe - Ernie Pyle Travel Plaza, IN",Howe,IN,8,41.747139,-85.32775
+"Durham, NC",Durham,NC,12,35.953056,-78.991056
+"Commerce, CA",Commerce,CA,20,34.006382,-118.148878
+"Jacksonville, NC",Jacksonville,NC,8,34.776774,-77.414566
+"Orland Park, IL",Orland Park,IL,12,41.632333,-87.850228
+"Crossville - Genesis Rd, TN",Crossville,TN,16,35.979515,-85.015308
+"Madisonville, TX",Madisonville,TX,24,30.966229,-95.880841
+"Chevy Chase, MD",Chevy Chase,MD,12,38.996112,-77.075633
+"El Dorado - Towanda Service Plaza, KS",Towanda,KS,8,37.765506,-96.982618
+"North Branch, MN",North Branch,MN,8,45.510887,-92.990596
+"Salt Lake City - S State St, UT",South Salt Lake City,UT,10,40.720353,-111.888706
+"Benson, NC",Benson,NC,8,35.374508,-78.541871
+"Salt Lake City (SC), UT",Salt Lake City,UT,4,40.746393,-111.900534
+"Syosset - Jericho Tpke, NY",Syosset,NY,8,40.8109,-73.5054
+"San Diego - Truxtun Rd, CA",San Diego,CA,12,32.737743,-117.217061
+"Amarillo - E Interstate 40, TX",Amarillo,TX,12,35.194253,-101.743828
+"Harrisburg, OR",Harrisburg,OR,8,44.27972,-123.063083
+"Robertsdale, AL",Robertsdale,AL,16,30.633696,-87.677561
+"Mill Hall, PA",Mill Hall,PA,12,41.0251,-77.5243
+"Soledad - H Dela Rosa St, CA",Soledad,CA,7,36.4162019,-121.320846
+"Harlingen, TX",Harlingen,TX,12,26.1877,-97.7563
+"Marinette, WI",Marinette,WI,8,45.0801,-87.6621
+"Pigeon Forge, TN",Pigeon Forge,TN,12,35.806348,-83.572721
+"Asheville, NC",Asheville,NC,12,35.531391,-82.604487
+"Fair Play, SC",Fair Play,SC,12,34.504955,-82.965706
+"Turlock, CA",Turlock,CA,16,37.508786,-120.876109
+"Twinsburg, OH",Twinsburg,OH,7,41.311733,-81.449531
+"Houston - W Alabama St, TX",Houston,TX,8,29.736538,-95.402318
+"Abingdon - Woodsdale Rd, MD",Abingdon,MD,8,39.46561,-76.311042
+"Temecula - Temecula Pkwy, CA",Temecula,CA,8,33.475122,-117.129563
+"City of Industry - Gale Ave, CA",City of Industry,CA,20,33.994605,-117.899677
+"Concordia, MO",Concordia,MO,8,38.989771,-93.566975
+"Kyle, TX",Kyle,TX,16,30.013004,-97.862665
+"Susanville, CA",Susanville,CA,8,40.430902,-120.657897
+"Brentwood, MO",Brentwood,MO,12,38.626722,-90.344139
+"San Leandro, CA",San Leandro,CA,12,37.709813,-122.164607
+"Austin - Frontage Rd, TX",Austin,TX,12,30.16287,-97.792063
+"Craig, CO",Craig,CO,8,40.513995,-107.538785
+"Chowchilla, CA",Chowchilla,CA,12,37.126287,-120.247428
+"Kettleman City - Bernard Dr, CA",Kettleman City,CA,55,35.9861622,-119.957565
+"East Hampton, NY",East Hampton,NY,12,40.965501,-72.189633
+"San Diego - Carmel Mountain Rd, CA",San Diego,CA,24,32.920824,-117.21491
+"San Diego - Mission Center Rd, CA",San Diego,CA,10,32.776392,-117.155136
+"Oxford, NC",Oxford,NC,12,36.2803,-78.6047
+"Mt. Shasta - 111 Morgan Way, CA",Mt. Shasta,CA,4,41.310233,-122.317278
+"Bristol, VA",Bristol,VA,8,36.628538,-82.148888
+"Siler City, NC",Siler City,NC,8,35.73499,-79.442016
+"South Boston - Philpott Rd, VA",South Boston,VA,4,36.68665,-78.900855
+"Perry, FL",Perry,FL,8,30.086266,-83.571338
+"Brea, CA",Brea,CA,20,33.914491,-117.883662
+"Columbia, NJ",Columbia,NJ,8,40.933846,-75.100997
+"Elgin, IL",Elgin,IL,12,42.012497,-88.335638
+"Morrow, GA",Morrow,GA,24,33.5769,-84.354123
+"Tyngsborough, MA",Tyngsborough,MA,12,42.697265,-71.43988
+"Buena Park - Beach Blvd, CA",Buena Park,CA,24,33.86044,-117.996347
+"Bel Air, MD",Bel Air,MD,8,39.568667,-76.353746
+"Punta Gorda, FL",Punta Gorda,FL,8,26.89569,-82.011268
+"Carlton, MN",Carlton,MN,8,46.664849,-92.477676
+"Old Bridge, NJ",Old Bridge,NJ,8,40.39113,-74.340201
+"Woodstock, VA",Woodstock,VA,8,38.866754,-78.5192
+"South Barrington, IL",South Barrington,IL,12,42.0748,-88.1868
+"Bloomington, MN",Bloomington,MN,16,44.861,-93.3124
+"Maple Grove, MN",Maple Grove,MN,12,45.135263,-93.474392
+"San Diego - University Center Lane, CA",San Diego,CA,7,32.870556,-117.224664
+"Cape Girardeau, MO",Cape Girardeau,MO,8,37.348729,-89.598272
+"McDonough, GA",McDonough,GA,12,33.425818,-84.18787
+"Carlsbad - Paseo Del Norte, CA",Carlsbad,CA,16,33.124351,-117.31912
+"Kingston, NY",Kingston,NY,8,41.941916,-74.027208
+"Beaumont - Walden Rd, TX",Beaumont,TX,12,30.039029,-94.160606
+"Central Valley, NY",Central Valley,NY,12,41.313222,-74.125034
+"Round Rock, TX",Round Rock,TX,16,30.509711,-97.687749
+"Dublin, GA",Dublin,GA,12,32.490203,-82.93261
+"Farmington - Hannaford Dr, ME",Farmington,ME,8,44.65037,-70.150196
+"Winchester, VA",Winchester,VA,8,39.1881397,-78.1257883
+"Triadelphia - Gantzer Ridge Rd, WV",Triadelphia,WV,8,40.060289,-80.588981
+"Sarasota - Clark Rd, FL",Sarasota,FL,8,27.270298,-82.462865
+"Nevada, MO",Nevada,MO,8,37.83677,-94.351404
+"Bemidji, MN",Bemidji,MN,8,47.492201,-94.907057
+"Bartonsville, PA",Bartonsville,PA,8,41.001772,-75.273151
+"Crossville, TN",Crossville,TN,8,35.985369,-85.010956
+"West Palm Beach - Florida Turnpike Service Plaza, FL",Wellington,FL,8,26.635504,-80.174903
+"Portage - Westnedge Ave, MI",Portage,MI,8,42.244,-85.587575
+"Cedar Park, TX",Cedar Park,TX,12,30.525402,-97.819337
+"Laurel - Van Dusen Rd, MD",Laurel,MD,6,39.081527,-76.888961
+"Cincinnati, OH",Cincinnati,OH,10,39.162833,-84.426528
+"Los Angeles - Alameda St, CA",Los Angeles,CA,16,34.033502,-118.240852
+"Hauppauge - Motor Pkwy, NY",Hauppauge,NY,8,40.806913,-73.238313
+"Pompano Beach - Florida Turnpike Service Plaza, FL",Pompano Beach,FL,8,26.226546,-80.182431
+"Mountain Village - Mountain Village Blvd, CO",Mountain Village,CO,8,37.933428,-107.854146
+"Mountain Brook, AL",Mountain Brook,AL,8,33.486691,-86.772681
+"New Castle, DE",New Castle,DE,8,39.709271,-75.562365
+"Meredith, NH",Meredith,NH,6,43.66114,-71.493944
+"Union City, CA",Union City,CA,12,37.587128,-122.020442
+"Austin - FM 969, TX",Austin,TX,12,30.254984,-97.605605
+"Rancho Cucamonga - Foothill Blvd, CA",Rancho Cucamonga,CA,8,34.106627,-117.527064
+"Roslyn Heights - Willis Ave, NY",Roslyn Heights,NY,8,40.77956,-73.651063
+"Liberty Lake (SC), WA",Liberty Lake,WA,12,47.673313,-117.113505
+"Culver City - 11924 Washington Blvd, CA",Los Angeles,CA,8,33.997487,-118.421155
+"Orlando - Palm Pkwy, FL",Orlando,FL,8,28.3848995,-81.5011005
+"Jacksonville - Wilson Blvd, FL",Jacksonville,FL,8,30.270331,-81.756107
+"Hudson, NY",Hudson,NY,8,42.22314,-73.826845
+"Yuma - S Fortuna Rd, AZ",Yuma,AZ,16,32.668143,-114.443438
+"Denver - Pontiac St, CO",Denver,CO,16,39.717869,-104.9057064
+"Boca Raton, FL",Boca Raton,FL,12,26.36496,-80.133209
+"Cordele, GA",Cordele,GA,11,31.963626,-83.766165
+"Austin - 5601 Brodie Ln, TX",Austin,TX,8,30.226235,-97.821991
+"Menomonie, WI",Menomonie,WI,8,44.901325,-91.933569
+"Marina, CA",Marina,CA,12,36.666436,-121.810168
+"Cutler Bay, FL",Cutler Bay,FL,8,25.598305,-80.37199
+"Mansfield, PA",Mansfield,PA,4,41.8049603,-77.08515356
+"Chicopee, MA",Chicopee,MA,12,42.174804,-72.578159
+"Franklin, MA",Franklin,MA,12,42.090329,-71.424835
+"Adairsville, GA",Adairsville,GA,8,34.377883,-84.915729
+"Knoxville - Brookview Centre Way, TN",Knoxville,TN,8,35.935852,-84.004146
+"Beaver Dam, KY",Beaver Dam,KY,8,37.377254,-86.82612
+"Morgantown - Earl L Core Rd, WV",Morgantown,WV,8,39.62,-79.9234
+"Aberdeen - Churchville Rd, MD",Aberdeen,MD,8,39.529653,-76.194605
+"Tomah, WI",Tomah,WI,8,44.018885,-90.507493
+"Yorba Linda, CA",Yorba Linda,CA,8,33.889175,-117.808082
+"Richmond, KY",Richmond,KY,12,37.67173,-84.308365
+"Bee Cave, TX",Bee Cave,TX,8,30.303714,-97.941726
+"Yemassee, SC",Yemassee,SC,8,32.634231,-80.875183
+"Two Harbors, MN",Two Harbors,MN,8,47.028302,-91.6808
+"Tillamook, OR",Tillamook,OR,12,45.481359,-123.843893
+"Hanover, MA",Hanover,MA,12,42.1474,-70.8432
+"San Diego - Scripps Poway Pkwy, CA",San Diego,CA,12,32.9362,-117.098848
+"Sutherlin, OR",Sutherlin,OR,51,43.386902,-123.341367
+"Millen, GA",Millen,GA,8,32.8032,-81.9486
+"Joppatowne, MD",Joppatowne,MD,8,39.440207,-76.345305
+"Janesville, WI",Janesville,WI,8,42.7176917,-88.9947624
+"Culver City - Washington Blvd, CA",Culver City,CA,8,34.027046,-118.388416
+"Las Vegas - Bridger Ave, NV",Las Vegas,NV,6,36.165906,-115.138655
+"Las Vegas - High Roller at LINQ, NV",Las Vegas,NV,24,36.11671,-115.168258
+"Alachua, FL",Alachua,FL,12,29.796918,-82.500844
+"Rocky Hill, CT",Rocky Hill,CT,12,41.653283,-72.679252
+"Leland, NC",Leland,NC,12,34.2173,-78.0185
+"Appleton, WI",Appleton,WI,8,44.301045,-88.416975
+"Natchitoches, LA",Natchitoches,LA,8,31.724944,-93.162309
+"Warsaw - NC-24, NC",Warsaw,NC,12,34.992695,-78.135604
+"Ypsilanti, MI",Ypsilanti,MI,12,42.232722,-83.678722
+"Ellensburg - Canyon Rd, WA",Ellensburg,WA,12,46.978013,-120.542423
+"Allen, TX",Allen,TX,12,33.129609,-96.673894
+"Freetown, MA",Freetown,MA,8,41.7628,-71.0955
+"Baton Rouge - Airline Hwy, LA",Baton Rouge,LA,12,30.432893,-91.081966
+"Scottsdale - E Shea Blvd, AZ",Scottsdale,AZ,16,33.5835,-111.894
+"Syracuse - Destiny USA Dr, NY",Syracuse,NY,12,43.0674,-76.1753
+"Verona, NY",Verona,NY,12,43.113201,-75.591176
+"Glendale, WI",Glendale,WI,12,43.121,-87.916222
+"Carle Place, NY",Carle Place,NY,12,40.744718,-73.61626
+"Fort Lauderdale - East Sunrise Blvd, FL",Fort Lauderdale,FL,16,26.136936,-80.113134
+"Abbott, TX",Abbott,TX,8,31.898651,-97.091114
+"Lake Arrowhead, CA",Lake Arrowhead,CA,8,34.250676,-117.189756
+"Stockton - E Morada Ln, CA",Stockton,CA,12,38.039095,-121.260928
+"Myrtle Creek, OR",Myrtle Creek,OR,8,42.97264,-123.339021
+"Del Valle, TX",Del Valle,TX,8,30.172397,-97.630394
+"Troutdale, OR",Troutdale,OR,8,45.542901,-122.38935
+"Bronx - Bay Plaza, NY",Bronx,NY,12,40.86368,-73.82916
+"Beaver - 525 W, UT",Beaver,UT,24,38.2484296,-112.6531868
+"New Bern, NC",New Bern,NC,8,35.104124,-77.080448
+"Fair Oaks, IN",Fair Oaks,IN,12,41.010608,-87.276583
+"Massapequa, NY",Massapequa,NY,8,40.701916,-73.432817
+"St. George, SC",St. George,SC,12,33.195556,-80.599395
+"Garner, NC",Garner,NC,8,35.608443,-78.563054
+"Edwards, CO",Edwards,CO,8,39.648581,-106.587182
+"Lexington, SC",Lexington,SC,12,33.9521519,-81.2326944
+"Garden City, NY",Garden City,NY,12,40.7416044,-73.6129391
+"North Miami Beach, FL",North Miami Beac,FL,12,25.906606,-80.157279
+"Chesapeake, VA",Chesapeake,VA,8,36.657929,-76.224462
+"Halifax, NC",Halifax,NC,12,36.366063,-77.674315
+"Annapolis - Buschs Frontage Rd, MD",Annapolis,MD,8,39.027063,-76.455758
+"Bethel Park, PA",Bethel Park,PA,8,40.346018,-80.047168
+"Burr Ridge, IL",Burr Ridge,IL,16,41.7523,-87.9137
+"Hutto, TX",Hutto,TX,12,30.502813,-97.580947
+"Falmouth, ME",Falmouth,ME,8,43.734299,-70.293547
+"Algonquin, IL",Algonquin,IL,12,42.171166,-88.336632
+"Waterville, ME",Waterville,ME,12,44.569032,-69.639469
+"Red Oak, TX",Red Oak,TX,16,32.517,-96.8214
+"Huntsville, AL",Huntsville,AL,12,34.739127,-86.666295
+"Fort Wayne - Illinois Rd, IN",Fort Wayne,IN,12,41.07321,-85.21819
+"Calabasas - Commons Way, CA",Calabasas,CA,20,34.154607,-118.645367
+"Saco, ME",Saco,ME,8,43.5112,-70.4348
+"Scappoose, OR",Scappoose,OR,4,45.7562,-122.8764
+"Highland, CA",Highland,CA,8,34.135136,-117.195193
+"Shenandoah, TX",Shenandoah,TX,8,30.188746,-95.452171
+"Genoa - Wyandot Service Plaza, OH",Genoa,OH,8,41.489964,-83.37048
+"Mystic, CT",Mystic,CT,12,41.372386,-71.956586
+"Lubbock (SC), TX",Lubbock,TX,4,33.520954,-101.961588
+"Dallas - The Hill, TX",Dallas,TX,12,32.881155,-96.769519
+"Bad Axe, MI",Bad Axe,MI,6,43.82471,-83.00583
+"Danvers, MA",Danvers,MA,12,42.585318,-70.96587
+"Tempe, AZ",Tempe,AZ,14,33.381,-111.963
+"North Babylon, NY",North Babylon,NY,12,40.739557,-73.319465
+"Tampa - E Hillsborough Ave, FL",Tampa,FL,8,27.996805,-82.372668
+"Tampa - East Bearss Ave, FL",Tampa,FL,8,28.088551,-82.4521
+"Chula Vista - Showroom Pl, CA",Chula Vista,CA,16,32.651478,-116.954543
+"Somerville, MA",Somerville,MA,8,42.390558,-71.086016
+"Genoa - Blue Heron Service Plaza, OH",Genoa,OH,8,41.490708,-83.366736
+"Hood River - Cascade Ave, OR",Hood River,OR,8,45.709603,-121.534581
+"St. Paul, MN",St. Paul,MN,12,44.954518,-93.15492
+"Glendale, AZ",Glendale,AZ,16,33.535965,-112.262776
+"North Bergen, NJ",North Bergen,NJ,12,40.775375,-74.034666
+"Needles - W Broadway St, CA",Needles,CA,12,34.850856,-114.622865
+"Melville, NY",Melville,NY,10,40.798738,-73.41226
+"Perry Hall, MD",Perry Hall,MD,8,39.4189,-76.4558
+"Needles - E Broadway St, CA",Needles,CA,12,34.825734,-114.594896
+"Socorro, NM",Socorro,NM,8,34.071707,-106.892957
+"Salisbury, MD",Salisbury,MD,6,38.401648,-75.564818
+"Needles, CA",Needles,CA,4,34.850835,-114.624329
+"Ontario, CA",Ontario,CA,8,34.066162,-117.65027
+"Iowa City, IA",Iowa City,IA,8,41.675785,-91.520803
+"Palmer, MA",Palmer,MA,12,42.173452,-72.324767
+"Winston-Salem, NC",Winston-Salem,NC,12,36.084444,-80.295348
+"Creswell, OR",Creswell,OR,8,43.916972,-123.013799
+"Mokena, IL",Mokena,IL,12,41.49984,-87.88864
+"Pueblo, CO",Pueblo,CO,12,38.266591,-104.609086
+"Aventura - Biscayne Blvd, FL",Aventura,FL,8,25.970508,-80.141165
+"Ocala - W. Silver Springs Blvd, FL",Ocala,FL,8,29.1853376,-82.1773968
+"Detroit, MI",Detroit,MI,12,42.445534,-83.11792
+"Girard, OH",Girard,OH,8,41.1493,-80.7
+"Boardman, OR",Boardman,OR,8,45.841463,-119.684207
+"Melville - Walt Whitman Rd, NY",Melville,NY,12,40.782905,-73.42252
+"Memphis - North Germantown Pkwy, TN",Memphis,TN,12,35.202146,-89.794496
+"White Plains, MD",White Plains,MD,8,38.5955,-76.9372
+"Sturgeon Bay, WI",Sturgeon Bay,WI,8,44.822043,-87.402726
+"Hickory - NC-127, NC",Hickory,NC,12,35.692297,-81.357075
+"Weaverville, CA",Weaverville,CA,8,40.720505,-122.928071
+"Chehalis, WA",Chehalis,WA,8,46.679783,-122.977105
+"Las Vegas - E Sahara Ave (SC), NV",Las Vegas,NV,9,36.145327,-115.102898
+"Mount Juliet, TN",Mount Juliet,TN,11,36.173769,-86.513564
+"San Diego - Genesee Ave, CA",San Diego,CA,8,32.821662,-117.184317
+"Boone, NC",Boone,NC,12,36.196087,-81.653014
+"Kissimmee - W Osceola Pkwy, FL",Kissimmee,FL,16,28.341509,-81.411159
+"Bakersfield - Copus Rd, CA",Kern County,CA,20,35.094874,-119.040158
+"Orlando - S Orange Blossom Trl, FL",Orlando,FL,16,28.448461,-81.394583
+"Mesquite, NV",Mesquite,NV,12,36.802978,-114.099928
+"Lenox, MA",Lenox,MA,8,42.377028,-73.277352
+"Jasper, FL",Jasper,FL,8,30.446647,-82.933586
+"Jonesboro, AR",Jonesboro,AR,7,35.7966,-90.7307
+"Thomasville, NC",Thomasville,NC,8,35.855555,-80.072156
+"Sprague, WA",Sprague,WA,8,47.209072,-118.22589
+"Urbana, IL",Urbana,IL,8,40.115628,-88.182804
+"Selma, CA",Selma,CA,16,36.574434,-119.629402
+"Rockingham, NC",Rockingham,NC,12,34.921509,-79.74772
+"Kenosha, WI",Kenosha,WI,12,42.56911,-87.947466
+"Findlay, OH",Findlay,OH,8,41.059623,-83.671058
+"Denison, TX",Denison,TX,8,33.793806,-96.554709
+"Normal - E College Ave, IL",Normal,IL,12,40.511235,-88.947814
+"Kimball, TN",Kimball,TN,12,35.039825,-85.685066
+"Johnson City - US-281, TX",Johnson City,TX,8,30.269934,-98.398065
+"Madras, OR",Madras,OR,8,44.614312,-121.134674
+"Barstow - E Main St, CA",Barstow,CA,4,34.8881,-116.9955
+"Woodbridge, NJ",Woodbridge,NJ,16,40.535862,-74.297271
+"St. Peter, MN",St. Peter,MN,8,44.336448,-93.950131
+"Llano, TX",Llano,TX,8,30.750554,-98.67491
+"Woodbridge - Potomac Town Place, VA",Woodbridge,VA,12,38.629244,-77.289539
+"Rochelle, IL",Rochelle,IL,8,41.916936,-89.069076
+"Wharton, TX",Wharton,TX,8,29.325098,-96.124308
+"Folsom - Iron Point Rd, CA",Folsom,CA,4,38.64258,-121.18806
+"Clyde, TX",Clyde,TX,20,32.417468,-99.526532
+"Riverview - Hwy 301 S, FL",Riverview,FL,8,27.858153,-82.327561
+"Orlando - 7826 W Sand Lake Rd, FL",Orlando,FL,12,28.449537,-81.490195
+"Atlanta - Peachtree Rd, GA",Atlanta,GA,5,33.848756,-84.36434
+"Charlottesville - Proffit Rd, VA",Charlottesville,VA,8,38.132266,-78.434391
+"Laguna Seca, CA",Salinas,CA,8,36.586463,-121.756108
+"West Lake Hills, TX",West Lake Hills,TX,8,30.289722,-97.827417
+"New Braunfels, TX",New Braunfels,TX,24,29.726598,-98.078702
+"Evansville, WY",Evansville,WY,8,42.846691,-106.214485
+"Mocksville, NC",Mocksville,NC,8,35.9189,-80.5856
+"Mesa, AZ",Mesa,AZ,12,33.3803,-111.8056
+"Orlando - Millenia Plaza Way, FL",Orlando,FL,12,28.492365,-81.429161
+"Ashland, VA",Ashland,VA,8,37.745769,-77.472412
+"Alice, TX",Alice,TX,11,27.749045,-98.06881
+"Jacksonville - County Road, FL",St. Johns,FL,10,30.060278,-81.513861
+"North Platte, NE",North Platte,NE,8,41.120588,-100.762642
+"Hancock, NY",Hancock,NY,8,41.956228,-75.294742
+"Boynton Beach, FL",Boynton Beach,FL,16,26.533567,-80.089394
+"Easton, PA",Easton,PA,8,40.739349,-75.263529
+"Oakland - Hegenberger Rd, CA",Oakland,CA,16,37.746403,-122.195614
+"Corpus Christi, TX",Corpus Christi,TX,12,27.709319,-97.368357
+"Paramus - NJ-17, NJ",Paramus,NJ,8,40.955391,-74.07467
+"Elizabethtown, KY",Elizabethtown,KY,8,37.671622,-85.845453
+"Sebring, FL",Sebring,FL,8,27.465749,-81.434147
+"Hood River - Anchor Way, OR",Hood River,OR,16,45.714111,-121.515793
+"Old Fort, NC",Old Fort,NC,12,35.638228,-82.143169
+"Tucson - W River Rd, AZ",Tucson,AZ,16,32.321657,-111.044732
+"Pooler, GA",Parker,GA,8,32.079619,-81.281224
+"Asheville - Thetford St, NC",Asheville,NC,12,35.484012,-82.557638
+"Manassas, VA",Manassas,VA,8,38.793019,-77.515512
+"Melbourne, FL",Melbourne,FL,8,28.119865,-80.699588
+"Stuart, FL",Stuart,FL,8,27.175517,-80.252532
+"Davie, FL",Davie,FL,8,26.0923282,-80.2496536
+"Castaic, CA",Castaic,CA,12,34.452312,-118.61614
+"Burbank - N San Fernando Blvd, CA",Burbank,CA,8,34.187565,-118.318197
+"St. Augustine - Inman Rd, FL",St. Augustine,FL,12,29.916415,-81.403632
+"Ridgefield, WA",Ridgefield,WA,12,45.8177,-122.6828
+"Oak Brook, IL",Oak Brook,IL,8,41.854435,-87.958496
+"Portage - George Ade Travel Plaza, IN",Portage,IN,8,41.5874,-87.2176
+"Ellsworth, ME",Ellsworth,ME,8,44.532641,-68.411381
+"Newhall, CA",Santa Clarita,CA,16,34.3683,-118.5092
+"Richmond, RI",Richmond,RI,8,41.513891,-71.698256
+"Duluth, GA",Duluth,GA,12,34.0004,-84.169
+"Northville, MI",Northville,MI,12,42.4372,-83.4381
+"Manorville, NY",Manorville,NY,12,40.871424,-72.798971
+"Breezewood - Lincoln Hwy, PA",Breezewood,PA,12,39.998748,-78.236263
+"Boston - Richard B. Ross Way, MA",Boston,MA,8,42.344691,-71.099322
+"Leesburg, VA",Leesburg,VA,10,39.089677,-77.526324
+"Colonial Heights, VA",Colonial Heights,VA,8,37.305593,-77.409675
+"Richmond - S Providence Rd, VA",Richmond,VA,8,37.495848,-77.547664
+"Fairfax, VA",Fairfax,VA,12,38.859305,-77.357542
+"Newark, DE",Newark,DE,12,39.6635,-75.69017
+"Avenel, NJ",Avenel,NJ,12,40.576793,-74.287572
+"Grapevine, TX",Grapevine,TX,12,32.941942,-97.065861
+"Des Moines, IA",Des Moines,IA,8,41.652488,-93.620937
+"Frederick - Buckeystown Pike, MD",Frederick,MD,8,39.3867,-77.4077
+"Albuquerque - Louisiana Blvd NE, NM",Albuquerque,NM,16,35.104333,-106.566029
+"Walterboro, SC",Walterboro,SC,12,32.9333,-80.6925
+"Lake Delton, WI",Lake Delton,WI,12,43.576852,-89.77949
+"Augusta, NJ",Augusta,NJ,8,41.11941,-74.71296
+"New Orleans, LA",New Orleans,LA,12,29.957061,-90.076684
+"Addison, TX",Addison,TX,16,32.950179,-96.81853
+"Allentown - Schantz Rd, PA",Allentown,PA,12,40.57163,-75.616759
+"Laurel - Fort Meade Rd, MD",Laurel,MD,8,39.095839,-76.841533
+"Martinez, CA",Martinez,CA,16,37.99316,-122.12137
+"Euless, TX",Euless,TX,12,32.880879,-97.074504
+"Madison Heights, VA",Madison Heights,VA,8,37.466222,-79.117738
+"Orangeburg, SC",Orangeburg,SC,8,33.552408,-80.828133
+"Gainesville - NW 39th Ave, FL",Gainesville,FL,7,29.688578,-82.443183
+"Las Vegas - South Eastern Ave, NV",Las Vegas,NV,12,36.082221,-115.121054
+"Washington - M St NE, DC",Washington,DC,8,38.90595,-77.005167
+"Rockford - McFarland Rd, IL",Rockford,IL,12,42.306111,-88.976472
+"Pasadena - E Colorado Blvd, CA",Pasadena,CA,16,34.145015,-118.078417
+"Long Beach, CA",Long Beach,CA,20,33.7574,-118.1074
+"Tustin - Red Hill Ave, CA",Tustin,CA,12,33.727381,-117.821821
+"Ennis, TX",Ennis,TX,24,32.324308,-96.606375
+"Buttonwillow - Cal Club Rd, CA",Buttonwillow,CA,16,35.497199,-119.554591
+"Cranbury, NJ",Cranbury,NJ,8,40.32244,-74.4869
+"East Rutherford, NJ",East Rutherford,NJ,16,40.811556,-74.064862
+"Minocqua, WI",Minocqua,WI,8,45.887409,-89.720831
+"Van Horn - W Broadway St, TX",Van Horn,TX,12,31.037265,-104.854816
+"Columbia - Harbison Blvd, SC",Columbia,SC,16,34.0729,-81.155649
+"Fort Valley, GA",Fort Valley,GA,16,32.58434,-83.740022
+"Victorville, CA",Victorville,CA,16,34.517047,-117.313614
+"Tulsa, OK",Tulsa,OK,24,36.054073,-96.004734
+"Wells, ME",Wells,ME,8,43.32076,-70.5806
+"Perth Amboy, NJ",Perth Amboy,NJ,8,40.516738,-74.285902
+"Overland Park, KS",Overland Park,KS,12,38.95535,-94.685593
+"Quincy, WA",Quincy,WA,8,47.103877,-119.833007
+"Cayce, SC",Cayce,SC,12,33.928112,-81.078255
+"West Unity - Tiffin River Service Plaza, OH",West Unity,OH,8,41.603667,-84.408721
+"West Unity - Indian Meadow Service Plaza, OH",West Unity,OH,8,41.605252,-84.406468
+"Melissa, TX",Melissa,TX,8,33.270374,-96.592973
+"Matthews, NC",Matthews,NC,12,35.12847,-80.700301
+"Tacoma, WA",Tacoma,WA,12,47.209113,-122.462621
+"Fernley, NV",Fernley,NV,12,39.609596,-119.220483
+"Dunnigan, CA",Dunnigan,CA,8,38.862861,-121.951538
+"Charlotte - Providence Rd, NC",Charlotte,NC,12,35.062335,-80.770842
+"Vacaville - Alamo Dr, CA",Vacaville,CA,12,38.347268,-121.999145
+"Valencia, CA",Valencia,CA,8,34.4237,-118.5845
+"Fairfield - 3001 Travis Blvd, CA",Fairfield,CA,12,38.257435,-122.065449
+"Anaheim - W Lincoln Ave, CA",Anaheim,CA,16,33.8321991,-117.9293952
+"Lake Forest - Muirlands Blvd, CA",Lake Forest,CA,24,33.629413,-117.705886
+"Mission Viejo - Crown Valley Pkwy, CA",Mission Viejo,CA,8,33.5607,-117.672028
+"Grass Valley, CA",Grass Valley,CA,12,39.199798,-121.064216
+"Palo Alto - Bryant St, CA",Palo Alto,CA,19,37.446507,-122.162028
+"Walnut Creek, CA",Walnut Creek,CA,12,37.930078,-122.014812
+"Santa Monica - Cloverfield Blvd, CA",Santa Monica,CA,16,34.025098,-118.469543
+"College Station - Texas Ave S, TX",College Station,TX,8,30.612968,-96.31709
+"Lake Elsinore - Grape Street, CA",Lake Elsinore,CA,16,33.65937259957883,-117.29450572076
+"Coalinga, CA",Coalinga,CA,80,36.253519,-120.240461
+"Little Ferry, NJ",Little Ferry,NJ,12,40.855059,-74.0333262
+"New Port Richey, FL",New Port Richey,FL,8,28.218029,-82.736177
+"Shenandoah - Metropark Dr, TX",Shenandoah,TX,8,30.194964,-95.452548
+"Austin - S Lamar Blvd, TX",Austin,TX,12,30.233293,-97.793053
+"Tully, NY",Tully,NY,12,42.800041,-76.121849
+"Vancouver - NE Fourth Plain Blvd (SC), WA",Vancouver,WA,12,45.645661,-122.601249
+"Spring, TX",Spring,TX,8,30.050304,-95.438361
+"Moab - N Main St, UT",Moab,UT,8,38.585988,-109.5566
+"Vicksburg, MS",Vicksburg,MS,12,32.313976,-90.89987
+"Spring - Spring Stuebner Rd, TX",Spring,TX,15,30.085513,-95.449924
+"Big Spring, TX",Big Spring,TX,16,32.258114,-101.453323
+"Adairsville - Union Grove Rd, GA",Adairsville,GA,12,34.440386,-84.91532
+"Cary - Bass Pro Ln, NC",Cary,NC,12,35.831585,-78.769044
+"Mariposa, CA",Mariposa,CA,12,37.488952,-119.972428
+"Plano - Windhaven Pkwy, TX",Plano,TX,12,33.05595,-96.8308638
+"Cleveland - Euclid Ave, OH",Cleveland,OH,12,41.504182,-81.63245
+"East Haven, CT",East Haven,CT,12,41.286296,-72.877392
+"Quanah, TX",Quanah,TX,8,34.291728,-99.755215
+"West Chester, PA",West Chester,PA,8,39.967429,-75.576678
+"Temple, TX",Temple,TX,48,31.13776,-97.329332
+"Gulf Breeze, FL",Gulf Breeze,FL,12,30.389314,-87.062227
+"Peachtree City, GA",Peachtree City,GA,8,33.396462,-84.593126
+"San Clemente, CA",San Clemente,CA,49,33.437177,-117.62712
+"Grapevine - E Northwest Hwy, TX",Grapevine,TX,8,32.941334,-97.073611
+"Charleston, SC",Charleston,SC,12,32.798239,-80.029175
+"Pompano Beach - N Federal Hwy, FL",Pompano Beach,FL,7,26.276244,-80.098192
+"Denver - E 45th Ave, CO",Denver,CO,8,39.778341,-104.848415
+"Atkins, VA",Atkins,VA,8,36.86455,-81.433527
+"Beaumont - Oak Valley Village Cir, CA",Beaumont,CA,24,33.946913,-117.00056
+"Clemmons, NC",Clemmons,NC,12,36.030526,-80.381435
+"Houston - Louetta Rd, TX",Houston,TX,14,29.997117,-95.575736
+"Costa Mesa - Hyland Ave, CA",Costa Mesa,CA,8,33.692874,-117.92514
+"Yermo - Sunrise Canyon Rd, CA",Yermo,CA,40,34.919528,-116.769185
+"West Covina, CA",West Covina,CA,16,34.070663,-117.889053
+"Fullerton, CA",Fullerton,CA,16,33.859694,-117.921706
+"Royse City, TX",Royse City,TX,8,32.979184,-96.296371
+"Blakeslee, PA",Blakeslee,PA,12,41.092297,-75.591828
+"Lakewood, CA",Lakewood,CA,20,33.858572,-118.116389
+"Miramar - Miramar Pkwy, FL",Miramar,FL,16,25.976412,-80.310779
+"Fairfield, OH",Fairfield,OH,12,39.303803,-84.525312
+"Rotterdam, NY",Rotterdam,NY,8,42.793371,-74.004721
+"West Chester Township, OH",West Chester,OH,12,39.35612,-84.374546
+"Michigan City, IN",Michigan City,IN,20,41.673833,-86.891234
+"Providence, RI",Providence,RI,8,41.828441,-71.42697
+"Carlsbad - Van Allen Way, CA",Carlsbad,CA,8,33.13507,-117.288012
+"Long Beach - Long Beach Blvd, CA",Long Beach,CA,8,33.87396,-118.202413
+"Chesterton, IN",Chesterton,IN,12,41.617607,-87.044702
+"Holland, MI",Holland,MI,12,42.781417,-86.077194
+"North Richland Hills, TX",North Richland Hills,TX,8,32.906757,-97.187269
+"Dallas - S Riverfront Blvd, TX",Dallas,TX,10,32.767263,-96.807846
+"Primm, NV",Primm,NV,42,35.610687,-115.388028
+"Potsdam, NY",Potsdam,NY,4,44.667002,-74.990238
+"El Portal, CA",El Portal,CA,8,37.679047,-119.763477
+"Visalia, CA",Visalia,CA,19,36.350804,-119.4247
+"Las Vegas - W Tropical Pkwy, NV",Las Vegas,NV,8,36.271532,-115.265931
+"Sanford, NC",Sanford,NC,12,35.488112,-79.193398
+"McLeansville, NC",McLeansville,NC,8,36.056164,-79.660102
+"Portsmouth, VA",Portsmouth,VA,8,36.837402,-76.306478
+"Tustin - Flight Way, CA",Tustin,CA,7,33.704288,-117.836881
+"Malvern, PA",Malvern,PA,8,40.050647,-75.525104
+"Downingtown, PA",Downingtown,PA,8,40.012206,-75.721504
+"Las Vegas - Cambridge St, NV",Las Vegas,NV,8,36.12875,-115.143823
+"Sebastian, FL",Sebastian,FL,8,27.767877,-80.549569
+"Parachute, CO",Parachute,CO,12,39.45242,-108.04582
+"Dateland, AZ",Dateland,AZ,40,32.798797,-113.540003
+"Lansing - S Pennsylvania Ave, MI",Lansing,MI,12,42.66705,-84.54091
+"Greenwich - Southbound, CT",Greenwich,CT,4,41.040555,-73.673445
+"Sutton, WV",Sutton,WV,8,38.700389,-80.664472
+"Mt Airy - Graceland Ln, NC",Mt Airy,NC,8,36.485545,-80.744773
+"Crawfordville, FL",Crawfordville,FL,8,30.106972,-84.379597
+"Lathrop, CA",Lathrop,CA,11,37.826148,-121.285965
+"District Heights, MD",District Heights,MD,8,38.861631,-76.918594
+"Las Vegas - Tivoli Village (Urban), NV",Las Vegas,NV,6,36.168897,-115.286579
+"Las Vegas - Tivoli Village, NV",Las Vegas,NV,2,36.168474,-115.286829
+"Tukwila - Strander Blvd, WA",Tukwila,WA,16,47.455273,-122.256631
+"Howell Township, NJ",Howell Township,NJ,12,40.137212,-74.225678
+"Paramus, NJ",Paramus,NJ,8,40.957429,-74.07408
+"Greenville - Haywood Rd, SC",Greenville,SC,12,34.848232,-82.339496
+"Ellenton, FL",Ellenton,FL,16,27.537933,-82.507363
+"Pooler - US 80, GA",Pooler,GA,11,32.110766,-81.235803
+"Vallejo, CA",Vallejo,CA,18,38.131215,-122.223369
+"Ochopee, FL",Ochopee,FL,12,26.174361,-80.855694
+"Lafayette, IN",Lafayette,IN,24,40.416187,-86.814084
+"North East - Pulaski Hwy, MD",North East,MD,12,39.612899,-75.930972
+"Richmond - Pierce St, CA",Richmond,CA,16,37.898736,-122.308672
+"Plano - W Spring Creek Pkwy, TX",Plano,TX,8,33.08204,-96.850233
+"Houston - Piping Rock Ln, TX",Houston,TX,8,29.740638,-95.645831
+"Nephi, UT",Nephi,UT,8,39.678083,-111.840906
+"Sparks, NV",Sparks,NV,8,39.538137,-119.733926
+"Hawthorne - W 120th St, CA",Hawthorne,CA,20,33.923198,-118.322218
+"South River, NJ",South River,NJ,8,40.461954,-74.400916
+"Houston - 9633 Westheimer Rd (SC), TX",Houston,TX,16,29.735982,-95.538575
+"Tustin - Franklin Ave, CA",Tustin,CA,36,33.716605,-117.810303
+"Yucca Valley, CA",Yucca Valley,CA,16,34.12375,-116.415727
+"Atlanta - Lenox Rd, GA",Atlanta,GA,16,33.846445,-84.360194
+"McKinney, TX",McKinney,TX,8,33.151713,-96.717299
+"Phoenix - E Mayo Blvd, AZ",Phoenix,AZ,20,33.657,-111.9298
+"Dartmouth, MA",Dartmouth,MA,12,41.642293,-70.99753
+"Iowa - Henry's Travel Plaza, LA",Iowa,LA,16,30.241331,-92.927732
+"Columbia - Town Center Place, SC",Columbia,SC,12,34.126889,-80.8779862
+"Renton - SW 41st St, WA",Renton,WA,16,47.443115,-122.225157
+"Windham, ME",Windham,ME,8,43.84163,-70.441768
+"McKinney - University Dr, TX",McKinney,TX,8,33.21747,-96.65721
+"Ashburn, GA",Ashburn,GA,16,31.712344,-83.638266
+"Roswell, GA",Roswell,GA,12,34.019005,-84.312888
+"London, KY",London,KY,14,37.14916,-84.11385
+"Northridge, CA",Northridge,CA,24,34.23471,-118.55287
+"Beaverton, OR",Beaverton,OR,12,45.5010128,-122.8096413
+"Pottstown, PA",Pottstown,PA,12,40.2330528,-75.657935
+"Flagstaff - Hwy 89, AZ",Flagstaff,AZ,24,35.2328,-111.5756
+"Parish, NY",Parish,NY,8,43.408589,-76.114268
+"Houston - Westheimer Rd, TX",Houston,TX,16,29.7377385,-95.4639171
+"Burlington, WA",Burlington,WA,10,48.509772,-122.338625
+"Lamont, FL",Lamont,FL,8,30.472366,-83.892265
+"Bristol, PA",Bristol,PA,8,40.118187,-74.844438
+"Woodburn, OR",Woodburn,OR,12,45.15313,-122.881254
+"Mechanicsburg, PA",Mechanicsburg,PA,8,40.194428,-76.992163
+"Batavia, NY",Batavia,NY,12,43.017313,-78.201531
+"Manchester, NH",Manchester,NH,8,42.961287,-71.439058
+"Claysburg, PA",Claysburg,PA,8,40.273656,-78.459913
+"Dothan, AL",Dothan,AL,12,31.212985,-85.361437
+"Fredonia, NY",Fredonia,NY,12,42.454125,-79.30869
+"Washington, IN",Washington,IN,8,38.65239,-87.133018
+"Barstow - E Virginia Way, CA",Barstow,CA,10,34.8864348,-117.0198947
+"Brea - S Madrona Ave, CA",Brea,CA,24,33.919492,-117.902014
+"Bealeton, VA",Bealeton,VA,8,38.619784,-77.799832
+"Abilene, KS",Abilene,KS,12,38.935417,-97.215371
+"Phoenix - N 19th Ave, AZ",Phoenix,AZ,12,33.521819,-112.098656
+"San Antonio - N Loop 1604 E, TX",San Antonio,TX,15,29.610486,-98.488594
+"Santa Monica, CA",Santa Monica,CA,62,34.024585,-118.485771
+"Victorville - Amargosa Rd, CA",Victorville,CA,16,34.463156,-117.354375
+"Houston - 12523 Westheimer Rd, TX",Houston,TX,16,29.734364,-95.605596
+"Orlando - Central Florida Pkwy, FL",Orlando,FL,8,28.405944,-81.457879
+"Mesquite - Mesa Blvd, NV",Mesquite,NV,8,36.815991,-114.064751
+"Eloy, AZ",Eloy,AZ,28,32.78255,-111.61868
+"North Myrtle Beach, SC",North Myrtle Beach,SC,8,33.79857,-78.746356
+"Decatur - E Ponce de Leon Ave, GA",Decatur,GA,16,33.776189,-84.295612
+"Colorado Springs - Forest Bluffs, CO",Colorado Springs,CO,16,38.965808,-104.785785
+"North Conway, NH",North Conway,NH,8,44.020271,-71.113742
+"Marysville, CA",Marysville,CA,8,39.111142,-121.55662
+"Gaithersburg - Watkins Mill Rd, MD",Gaithersburg,MD,7,39.158124,-77.222372
+"Frisco - Preston Road, TX",Frisco,TX,12,33.102512,-96.808762
+"Fredericksburg - Jefferson Davis Hwy, VA",Fredericksburg,VA,7,38.194184,-77.50741
+"Tarpon Springs, FL",Tarpon Springs,FL,12,28.136633,-82.756734
+"Las Vegas - S Rampart Blvd, NV",Las Vegas,NV,12,36.1680334,-115.2848652
+"Palmdale - 10th St W, CA",Palmdale,CA,24,34.602239,-118.146111
+"Portland - SW Broadway, OR",Portland,OR,4,45.5184429,-122.6804502
+"Edgewater, CO",Edgewater,CO,8,39.748186,-105.057756
+"Suwanee, GA",Suwanee,GA,12,34.03393,-84.052624
+"Ocean City - 12502 Ocean Gateway, MD",Ocean City,MD,11,38.339024,-75.119033
+"Mebane, NC",Mebane,NC,8,36.070176,-79.270532
+"Lebanon, IN",Lebanon,IN,11,40.035056,-86.469586
+"Arlington - E Bardin Rd, TX",Arlington,TX,8,32.67022,-97.114009
+"Irvine - Main St, CA",Irvine,CA,24,33.684357,-117.851746
+"Lewisburg, WV",Lewisburg,WV,8,37.810341,-80.431295
+"Los Angeles - Venice Blvd, CA",Los Angeles,CA,44,34.027942,-118.393968
+"Southaven, MS",Southaven,MS,8,34.963441,-89.99184
+"Bettendorf, IA",Bettendorf,IA,12,41.591965,-90.462753
+"Winnemucca, NV",Winnemucca,NV,8,40.958847,-117.746497
+"Commerce - Telegraph Rd, CA",Commerce,CA,40,33.998539,-118.146359
+"Conshohocken, PA",Conshohocken,PA,12,40.094384,-75.308501
+"Pompton Lakes, NJ",Pompton Lakes,NJ,12,41.008153,-74.293688
+"North Huntingdon - Ronda Ct, PA",North Huntingdon,PA,8,40.316709,-79.683832
+"Cumberland, MD",Cumberland,MD,4,39.649685,-78.770171
+"Fenton, MO",Fenton,MO,8,38.544304,-90.465508
+"Villa Park, IL",Villa Park,IL,16,41.906409,-87.9782135
+"Tejon Ranch - Outlets at Tejon Pkwy, CA",Arvin,CA,76,34.985959,-118.94385
+"Plainview, TX",Plainview,TX,8,34.188839,-101.749148
+"Monteagle, TN",Monteagle,TN,12,35.237478,-85.850734
+"Gardendale, AL",Gardendale,AL,8,33.652452,-86.809625
+"Barstow - Tanger Way, CA",Barstow,CA,20,34.8446,-117.0862
+"Cypress, CA",Cypress,CA,16,33.804336,-118.044231
+"Effingham - Avenue of Mid-America, IL",Effingham,IL,12,39.138944,-88.562009
+"Santa Nella, CA",Santa Nella,CA,48,37.100209,-121.012011
+"St. George - S Convention Center Dr, UT",St. George,UT,12,37.077559,-113.5843
+"Chattanooga - Manufacturers Rd, TN",Chattanooga,TN,12,35.063323,-85.314938
+"Guin, AL",Guin,AL,12,34.00972,-87.8349
+"Edison - Route 1, NJ",Edison,NJ,8,40.5062,-74.3936
+"Scotts Valley, CA",Scotts Valley,CA,16,37.047608,-122.027743
+"Shirley, NY",Shirley,NY,12,40.804373,-72.860362
+"Raphine, VA",Raphine,VA,8,37.930083,-79.234611
+"Normal - W Raab Rd, IL",Normal,IL,12,40.532717,-88.997291
+"King City, CA",King City,CA,16,36.202218,-121.12983
+"Burbank - N Victory Blvd, CA",Burbank,CA,24,34.179384,-118.320974
+"Gonzales, LA",Gonzales,LA,8,30.210412,-90.944365
+"Upper Chichester, PA",Upper Chichester,PA,8,39.849302,-75.437827
+"South Jordan, UT",South Jordan,UT,12,40.561525,-111.930221
+"Wilmington - N College Rd, NC",Wilmington,NC,12,34.288493,-77.869352
+"Bishop - Rocking W Dr, CA",Bishop,CA,24,37.377287,-118.4226
+"Orangeburg, NY",Orangeburg,NY,12,41.044821,-73.954058
+"Wilkes-Barre Township, PA",Wilkes-Barre Township,PA,12,41.238923,-75.845562
+"Cocoa, FL",Cocoa,FL,12,28.355525,-80.741754
+"Dixon, CA",Dixon,CA,12,38.457893,-121.839806
+"San Mateo - 2940 S Norfolk St, CA",San Mateo,CA,12,37.543787,-122.285551
+"Leesburg - Compass Point Plaza, VA",Leesburg,VA,8,39.082459,-77.563051
+"Washington - 3336 Wisconsin Ave NW, DC",Washington,DC,8,38.934341,-77.073771
+"El Dorado Hills, CA",El Dorado Hills,CA,12,38.656461,-121.070673
+"San Mateo - 1876 S Norfolk St, CA",San Mateo,CA,16,37.55453,-122.293228
+"Egg Harbor Township - E Black Horse Pike, NJ",Egg Harbor Township,NJ,12,39.398471,-74.555401
+"Naples - Pine Ridge Rd, FL",Naples,FL,16,26.209987,-81.769531
+"East Greenwich - Division St, RI",Warwick,RI,8,41.664068,-71.492369
+"Eagan, MN",Eagan,MN,12,44.795144,-93.205603
+"Redding - Hilltop Dr, CA",Redding,CA,44,40.578643,-122.359162
+"Boulder - 28th St, CO",Boulder,CO,8,40.031566,-105.257368
+"Napa - Bel Aire Plaza, CA",Napa,CA,8,38.321869,-122.307381
+"Olema, CA",Olema,CA,6,38.040224,-122.788345
+"San Francisco - 16th St, CA",San Francisco,CA,12,37.766033,-122.408981
+"Vacaville - Harbison Dr, CA",Vacaville,CA,12,38.362178,-121.963212
+"Roseville - Douglas Blvd, CA",Roseville,CA,16,38.745316,-121.253384
+"Baltimore - 4901 Boston St, MD",Baltimore,MD,8,39.276357,-76.553927
+"Pomona, CA",Pomona,CA,12,34.027034,-117.762195
+"Lincoln - West O St, NE",Lincoln,NE,8,40.814225,-96.727836
+"Omaha, NE",Omaha,NE,12,41.233578,-96.051488
+"Blaine, MN",Blaine,MN,8,45.125839,-93.258032
+"Columbus - E Campus View Blvd, OH",Columbus,OH,16,40.117451,-83.010743
+"San Mateo - El Camino Real, CA",San Mateo,CA,12,37.542,-122.3016
+"Lost Hills, CA",Lost Hills,CA,20,35.616874,-119.656098
+"Ashland, OR",Ashland,OR,24,42.182661,-122.662635
+"Charlotte - Metropolitan Ave, NC",Charlotte,NC,16,35.2123,-80.8351
+"Pasadena - S Lake Ave, CA",Pasadena,CA,12,34.139,-118.1312
+"Ripon, CA",Ripon,CA,12,37.747311,-121.141219
+"Sammamish, WA",Sammamish,WA,8,47.616291,-122.032922
+"Livermore - Jack London Blvd, CA",Livermore,CA,16,37.696535,-121.844176
+"Reno - Rancharrah Pkwy, NV",Reno,NV,24,39.468528,-119.794333
+"Greenfield, WI",Greenfield,WI,12,42.960238,-87.986788
+"Brandywine, MD",Brandywine,MD,8,38.664311,-76.876223
+"Azusa, CA",Azusa,CA,16,34.1367,-117.9082
+"Southington, CT",Southington,CT,12,41.612429,-72.901215
+"Jessup, MD",Jessup,MD,12,39.174251,-76.776827
+"North Brunswick - Shoppes Blvd, NJ",North Brunswick,NJ,12,40.459873,-74.455582
+"Hendersonville, TN",Hendersonville,TN,12,36.321,-86.601
+"Reno - Element Ln, NV",Reno,NV,16,39.503749,-119.801198
+"Dublin - Amador Valley Blvd, CA",Dublin,CA,12,37.7066,-121.9348
+"San Ardo, CA",San Ardo,CA,12,35.97477,-120.900203
+"Fort Worth - Bucees Blvd, TX",Fort Worth,TX,20,33.023133,-97.279033
+"Sun City Center, FL",Sun City Center,FL,8,27.7136,-82.3756
+"Reston - Sunset Hills Rd, VA",Reston,VA,12,38.956,-77.3654
+"Baker (Expansion), CA",Baker,CA,56,35.262741,-116.081057
+"Mojave - 16870 Hwy 14, CA",Mojave,CA,20,35.067855,-118.175439
+"Vacaville - Browns Valley Pkwy, CA",Vacaville,CA,8,38.365225,-121.967972
+"New Springfield - Mahoning Valley Service Plaza, OH",New Springfield,OH,8,40.940129,-80.585293
+"New Springfield - Glacier Hills Service Plaza, OH",New Springfield,OH,8,40.939077,-80.587852
+"Broadview Heights - Great Lakes Service Plaza, OH",Broadview Heights,OH,8,41.291801,-81.670915
+"Broadview Heights - Towpath Service Plaza, OH",Broadview Heights,OH,8,41.292244,-81.676134
+"Framingham - Old Path Village, MA",Framingham,MA,12,42.30519,-71.403475
+"Fairfield - Fairfield Centre, CT",Fairfield,CT,12,41.149854,-73.247068
+"Fitchburg, WI",Fitchburg,WI,16,43.014476,-89.479453
+"Modesto - Joyce Ave, CA",Modesto,CA,8,37.61061,-120.976745
+"Roseville - Freedom Way, CA",Roseville,CA,24,38.792458,-121.298228
+"Ventura, CA",Ventura,CA,12,34.275162,-119.239734
+"Clearwater - Largo, FL",Clearwater,FL,8,27.915528,-82.728291
+"East Windsor, NJ",East Windsor,NJ,16,40.345495,-74.483726
+"Gastonia, NC",Gastonia,NC,12,35.260057,-81.123368
+"Dallas - Mountain Creek Pkwy, TX",Dallas,TX,8,32.672295,-96.968805
+"Bend - SW Industrial Way, OR",Bend,OR,8,44.049486,-121.315537
+"Las Cruces, NM",Las Cruces,NM,15,32.296716,-106.812414
+"Rossford, OH",Rossford,OH,12,41.546791,-83.590402
+"Visalia - #2, CA",Visalia,CA,20,36.353167,-119.426384
+"San Juan Capistrano - Verdugo St, CA",San Juan Capistrano,CA,12,33.503662,-117.6642
+"Las Vegas - W Charleston Blvd, NV",Las Vegas,NV,16,36.158002,-115.333822
+"Milpitas - S Abbott Ave, CA",Milpitas,CA,12,37.42537,-121.914559
+"Denver - 5940 Tower Rd, CO",Denver,CO,16,39.80408,-104.770869
+"San Antonio - E Basse Rd, TX",San Antonio,TX,12,29.497048,-98.482185
+"Sulphur, LA",Sulphur,LA,12,30.21422,-93.374795
+"Lynnwood - 148th St SW, WA",Lynnwood,WA,12,47.865456,-122.282856
+"Clackamas, OR",Clackamas,OR,12,45.431963,-122.572314
+"McHenry, MD",McHenry,MD,8,39.549893,-79.35164
+"Albuquerque - Lang Ave NE, NM",Albuquerque,NM,8,35.171811,-106.586584
+"Salem (SC), OR",Salem,OR,12,44.92155,-123.006624
+"Los Altos - Loucks Ave, CA",Los Altos,CA,20,37.399922,-122.114897
+"San Mateo - 230 De Anza Blvd, CA",San Mateo,CA,8,37.5215,-122.3377
+"Waukesha, WI",Waukesha,WI,12,43.022447,-88.202681
+"Portland - Jantzen Beach Center, OR",Portland,OR,8,45.611854,-122.684919
+"Quartzsite - Main Event Ln, AZ",Quartzsite,AZ,88,33.66288,-114.240091
+"Rehoboth Beach - Coastal Hwy, DE",Rehoboth Beach,DE,8,38.716616,-75.109997
+"Pleasanton - Santa Rita Rd, CA",Pleasanton,CA,12,37.69989,-121.871035
+"Staten Island - Richmond Ave, NY",Staten Island,NY,12,40.612043,-74.156647
+"Salisbury, NC","Salisbury, NC",NC,12,35.645142,-80.486013
+"Houston - Yale St, TX",Houston,TX,32,29.774428,-95.400631
+"Henderson - Las Vegas Blvd S, NV",Henderson,NV,24,35.964283,-115.167124
+"Newport, OR",Newport,OR,8,44.653043,-124.052788
+"Rosedale, MD",Rosedale,MD,8,39.311994,-76.525368
+"Spartanburg, SC",Spartanburg,SC,8,34.936515,-81.982822
+"Battle Creek, MI",Battle Creek,MI,12,42.26246,-85.17463
+"Springfield - W Jefferson St, IL",Springfield,IL,12,39.807044,-89.681966
+"San Anselmo, CA",San Anselmo,CA,8,37.980562,-122.565755
+"McLean, VA",McLean,VA,20,38.9153758,-77.225194
+"Irving, TX",Irving,TX,12,32.925559,-96.991554
+"Las Vegas - 7400 S Las Vegas Blvd, NV",Las Vegas,NV,28,36.056634,-115.170356
+"Chandler, AZ",Chandler,AZ,12,33.319309,-111.896576
+"Brick Township, NJ",Brick Township,NJ,8,40.056372,-74.15166
+"Framingham - 130 Worcester Rd, MA",Framingham,MA,12,42.297652,-71.399414
+"St. Louis - Riverview Dr, MO",St. Louis,MO,8,38.768852,-90.182684
+"Swedesboro, NJ",Swedesboro,NJ,11,39.759041,-75.360179
+"Laguna Hills, CA",Laguna Hills,CA,16,33.595554,-117.675507
+"Doral - NW 25th St, FL",Doral,FL,8,25.796437,-80.35376
+"Anderson, CA",Anderson,CA,8,40.433579,-122.288611
+"Prairie du Chien, WI",Prairie du Chien,WI,8,43.045703,-91.141403
+"Sugar Land, TX",Sugar Land,TX,12,29.586968,-95.634899
+"Vernon, CT",Vernon,CT,8,41.831054,-72.49581
+"Cary - Tryon Rd, NC",Cary,NC,12,35.745074,-78.762269
+"Russell, KS",Russell,KS,8,38.8679258,-98.8538087
+"Burlington - Marketplace Dr, WA",Burlington,WA,16,48.4511937,-122.33983
+"Coney Island, NY",Brooklyn,NY,12,40.581652,-73.985056
+"Nashville - 11th Ave N, TN",Nashville,TN,12,36.1646189,-86.7910833
+"Medford, NJ",Medford,NJ,12,39.904558,-74.80511
+"Escondido, CA",Escondido,CA,20,33.12945,-117.08769
+"Denver - 6691 Tower Rd, CO",Denver,CO,8,39.817784,-104.772242
+"Grasonville - Hissey Rd, MD",Grasonville,MD,8,38.965566,-76.194145
+"Arnold, CA",Arnold,CA,8,38.239119,-120.364891
+"Haltom City, TX",Haltom City,TX,8,32.783349,-97.273818
+"Billings - N Frontage Rd, MT",Billings,MT,12,45.816835,-108.416578
+"Sunnyvale - E El Camino Real, CA",Sunnyvale,CA,12,37.362342,-122.026278
+"Edison - 1003 US-1, NJ",Edison,NJ,16,40.518056,-74.37238
+"Mountain View - Grant Rd, CA",Mountain View,CA,32,37.378052,-122.077578
+"McDermitt, NV",McDermitt,NV,8,41.9952675,-117.7177391
+"Cle Elum - W Davis St, WA",Cle Elum,WA,8,47.195259,-120.956232
+"Willmar, MN",Willmar,MN,8,45.10196,-95.041742
+"Marshall, MN",Marshall,MN,12,44.438564,-95.777511
+"Champaign - W Kirby Ave, IL",Champaign,IL,12,40.09741668253737,-88.294937287131
+"Lakemoor, IL",Lakemoor,IL,12,42.321493,-88.169682
+"Newark - Gateway Blvd, CA",Newark,CA,18,37.536013,-122.063348
+"Owings Mills, MD",Owings Mills,MD,12,39.407596,-76.782871
+"Laurel, MT",Laurel,MT,8,45.6661532,-108.7614891
+"Georgetown, DE",Georgetown,DE,8,38.688327,-75.397265
+"St. Regis, MT",St Regis,MT,12,47.29891,-115.09932
+"Chatsworth, CA",Chatsworth,CA,8,34.23802,-118.589407
+"Milan, NM",Milan,NM,8,35.183045,-107.898024
+"West Covina - S Azusa Ave, CA",West Covina,CA,16,34.047758,-117.906879
+"Daly City - Mission St, CA",Daly City,CA,12,37.696548,-122.463229
+"Alhambra, CA",Alhambra,CA,12,34.087069,-118.151192
+"Matamoras, PA",Matamoras,PA,16,41.353461,-74.72394
+"Mount Vernon - S 42nd St, IL",Mt. Vernon,IL,8,38.300369,-88.942472
+"Evansville, IN",Evansville,IN,12,38.001531,-87.494443
+"New Philadelphia, OH",New Philadelphia,OH,12,40.494068,-81.473561
+"Carmel - N Illinois St, IN",Carmel,IN,8,39.95444,-86.16269
+"Glendale - N Glendale Ave, CA",Glendale,CA,16,34.148997,-118.247798
+"Indianapolis - Col. H. Weir Cook Memorial Dr, IN",Indianapolis,IN,12,39.699773,-86.313723
+"George, WA",George,WA,12,47.081148,-119.861514
+"Sealy, TX",Sealy,TX,8,29.76911,-96.046154
+"Fond du Lac, WI",Fond du Lac,WI,12,43.791436,-88.485968
+"Hollywood - Universal Hollywood Dr, CA",Hollywood,CA,12,34.13681,-118.359396
+"Huntington Beach, CA",Huntington Beach,CA,12,33.731412,-117.992233
+"El Paso - N Desert Blvd, TX",El Paso,TX,20,31.884966,-106.580432
+"New Castle - I-295, DE",New Castle,DE,8,39.6952,-75.5555
+"Houston - Telephone Rd, TX",Houston,TX,12,29.67547,-95.289948
+"Houston - Airline Dr, TX",Houston,TX,12,29.809944,-95.381879
+"Huntington Beach - Edinger Ave, CA",Huntington Beach,CA,32,33.729552,-118.002561
+"Livermore - Vasco Rd, CA",Livermore,CA,32,37.718847,-121.724535
+"Brownsville - Ruben M Torres Blvd, TX",Brownsville,TX,16,25.943731,-97.429042
+"Los Angeles - N Soto St, CA",Los Angeles,CA,8,34.06908,-118.194724
+"Brenham, TX",Brenham,TX,8,30.140533,-96.400537
+"Ashland, OH",Ashland,OH,12,40.859402,-82.268121
+"Midvale, UT",Midvale,UT,8,40.622823,-111.868732
+"Onamia, MN",Onamia,MN,4,46.066137,-93.663538
+"Copper Mountain, CO",Frisco,CO,8,39.505696,-106.14114
+"Lynnfield - Broadway, MA",Lynnfield,MA,12,42.505037,-71.015444
+"Granada Hills - N Balboa Blvd, CA",Granada Hills,CA,20,34.258565,-118.502667
+"Enfield, CT",Enfield,CT,12,41.991015,-72.571105
+"Oceanside, CA",Oceanside,CA,20,33.199147,-117.376891
+"Houston - Washington Ave, TX",Houston,TX,12,29.766874,-95.36592
+"Houston - Queensbury Lane, TX",Houston,TX,12,29.778456,-95.558652
+"Knightdale, NC",Knightdale,NC,11,35.795716,-78.505527
+"Salt Lake City - Admiral Byrd Rd, UT",Salt Lake City,UT,8,40.772184,-112.022278
+"St. Charles, IL",St. Charles,IL,12,41.8998,-88.3417
+"Issaquah Highlands, WA",Issaquah,WA,8,47.544008,-122.016938
+"Destin, FL",Destin,FL,12,30.390504,-86.479102
+"Boise - N Orchard St, ID",Boise,ID,8,43.612237,-116.244471
+"Woodbridge - Richmond Hwy, VA",Woodbridge,VA,8,38.608853,-77.290304
+"Compton, CA",Compton,CA,12,33.8789,-118.2193
+"Las Vegas - Kevin Way, NV",Las Vegas,NV,12,36.278556,-115.289673
+"Blacksburg, VA",Blacksburg,VA,8,37.211116,-80.400493
+"Los Angeles - 668 S Alameda St, CA",Los Angeles,CA,8,34.03575,-118.238039
+"Irvine - Von Karman Ave, CA",Irvine,CA,8,33.670156,-117.858319
+"Stockton (SC), CA",Stockton,CA,8,38.01908,-121.276399
+"Shaker Heights, OH",Shaker Heights,OH,12,41.465546,-81.538146
+"Lebec - Gorman Post Rd, CA",Gorman,CA,63,34.796255,-118.853932
+"Hayward - Mission Blvd, CA",Hayward,CA,12,37.644903,-122.063057
+"Daly City - Bryant St, CA",Daly City,CA,32,37.688188,-122.473605
+"San Diego - Kearny Mesa, CA",San Diego,CA,16,32.8333,-117.1446
+"Portsmouth, RI",Portsmouth,RI,8,41.617703,-71.247255
+"Middletown-Odessa, DE",Middletown,DE,8,39.452761,-75.680246
+"Sunnyvale - N Mathilda Ave, CA",Sunnyvale,CA,8,37.404383,-122.02605
+"Stevens Point, WI",Stevens Point,WI,8,44.536,-89.5782862
+"Dedham - 100 Providence Hwy, MA",Dedham,MA,12,42.260254,-71.168939
+"Lompoc, CA",Lompoc,CA,12,34.700387,-120.467415
+"Talleyville, DE",Wilmington,DE,8,39.8103,-75.5514
+"Fremont - Civic Center Dr, CA",Fremont,CA,8,37.5537,-121.9736
+"Malibu - Pacific Coast Highway, CA",Malibu,CA,20,34.031792,-118.842266
+"Quincy, MA",Quincy,MA,8,42.247935,-70.982978
+"Plainview - 1667 Old Country, NY",Plainview,NY,8,40.780501,-73.448435
+"Sun Valley, CA",Sun Valley,CA,40,34.225463,-118.397666
+"Baker - Mojave Pointe Rd, CA",Baker,CA,32,35.268981,-116.067041
+"Abingdon, VA",Abingdon,VA,8,36.712294,-81.928695
+"Hackensack, NJ",Hackensack,NJ,8,40.907703,-74.030779
+"Mahwah, NJ",Mahwah,NJ,8,41.090122,-74.155284
+"San Diego - Valley Centre Drive, CA",San Diego,CA,16,32.938702,-117.231395
+"Jefferson City, MO",Jefferson City,MO,7,38.5879,-92.2552
+"Provo - S 40 E, UT",Provo,UT,12,40.214126,-111.656782
+"North Hollywood, CA",North Hollywood,CA,12,34.1814,-118.3954
+"Orlando - W Robinson St, FL",Orlando,FL,16,28.545986,-81.381115
+"Santa Barbara - Ortega St, CA",Santa Barbara,CA,12,34.41927,-119.69715
+"Fall River, MA",Fall River,MA,8,41.673139,-71.161876
+"Weston, FL",Weston,FL,12,26.092018,-80.37112
+"Issaquah - Gilman, WA",Issaquah,WA,8,47.540084,-122.041717
+"Dunkirk, MD",Dunkirk,MD,8,38.717658,-76.660754
+"Carlin, NV",Carlin,NV,8,40.7203,-116.1065
+"Westminster, MD",Westminster,MD,8,39.595992,-76.998508
+"Culver City - Raintree Plaza, CA",Culver City,CA,12,34.001681,-118.393103
+"Roslyn Heights, NY",Roslyn Heights,NY,8,40.784034,-73.638233
+"Ladera Heights, CA",Los Angeles,CA,12,33.978535,-118.37189
+"Indianapolis North, IN",Indianapolis,IN,16,39.9139,-86.1392
+"Mammoth Lakes - CRC, CA",Mammoth Lakes,CA,12,37.636186,-118.967973
+"Hollywood, CA",Hollywood,CA,32,34.091072,-118.342038
+"Lexington - Meijer Way, KY",Lexington,KY,12,37.995554,-84.532683
+"Carson, CA",Carson,CA,20,33.8333,-118.2599
+"Refugio, TX",Refugio,TX,12,28.315183,-97.272189
+"San Diego - Carmel Mountain Ranch, CA",San Diego,CA,12,32.984443,-117.076353
+"Elkhorn, WI",Elkhorn,WI,12,42.691939,-88.542869
+"North Providence, RI",North Providence,RI,8,41.8605,-71.4662
+"Murfreesboro, TN",Murfreesboro,TN,20,35.781152,-86.374409
+"Hockessin, DE",Hockessin,DE,8,39.788523,-75.697093
+"Burbank - E Orange Grove Ave, CA",Burbank,CA,28,34.1813,-118.3107
+"City of Newark, DE",Newark,DE,8,39.684881,-75.733292
+"Munster, IN",Munster,IN,12,41.568161,-87.508042
+"Bay Terrace, NY",Queens,NY,8,40.779701,-73.776321
+"LaGuardia, NY",Queens,NY,8,40.76832,-73.866749
+"West Springfield, VA",Springfield,VA,12,38.78044,-77.23179
+"South Amboy, NJ",South Amboy,NJ,8,40.460488,-74.294903
+"San Diego - Ted Williams Pkwy, CA",San Diego,CA,8,32.9665,-117.0892
+"Coos Bay, OR",Coos Bay,OR,8,43.366374,-124.215473
+"Holtsville, NY",Holtsville,NY,8,40.822264,-73.046663
+"Worcester, MA",Worcester,MA,8,42.247236,-71.80293
+"Wilson, NC",Wilson,NC,20,35.763439,-77.999889
+"New Bern - Dr MLK Jr Blvd, NC",New Bern,NC,12,35.10275,-77.084173
+"Kissimmee - W Irlo Bronson Memorial Hwy, FL",Kissimmee,FL,12,28.348216,-81.610374
+"Gainesville - Oaks Mall Plaza, FL",Gainesville,FL,24,29.658006,-82.414125
+"Austin - W Slaughter Ln, TX",Austin,TX,8,30.201658,-97.875979
+"Seville, OH",Seville,OH,12,41.035687,-81.865126
+"Fairfield - Pittman Rd, CA",Fairfield,CA,8,38.221335,-122.127115
+"Woodbridge - Minnieville Rd, VA",Woodbridge,VA,8,38.659258,-77.300076
+"Roseville - Harding Blvd, CA",Roseville,CA,8,38.745531,-121.273601
+"Burney, CA",Burney,CA,8,40.924144,-121.620569
+"Sacramento - Point West Way, CA",Sacramento,CA,8,38.601153,-121.431187
+"La Quinta, CA",La Quinta,CA,20,33.717271,-116.296155
+"South Lake Tahoe, CA",South Lake Tahoe,CA,8,38.85543,-120.013284
+"Clinton, NJ",Clinton,NJ,8,40.633853,-74.937703
+"Arcadia, CA",Arcadia,CA,32,34.1378794,-118.0538207
+"Epsom, NH",Epsom,NH,8,43.227409,-71.35962
+"Tallahassee - Westend Square, FL",Tallahassee,FL,12,30.441476,-84.319677
+"Camden, DE",Camden,DE,8,39.108497,-75.54085
+"Lawndale, CA",Lawndale,CA,8,33.893485,-118.352964
+"Newport, ME",Newport,ME,8,44.838213,-69.2868582
+"Woodbridge - Daniel Stuart Square, VA",Woodbridge,VA,8,38.633037,-77.276321
+"Manahawkin, NJ",Stafford Township,NJ,16,39.711359,-74.285175
+"Portsmouth, NH",Portsmouth,NH,8,43.034005,-70.779463
+"San Diego - Navajo Rd, CA",San Diego,CA,12,32.803954,-117.007615
+"Ocean Shores, WA",Ocean Shores,WA,8,47.008309,-124.165142
+"Columbus - W 3rd Ave, OH",Columbus,OH,8,39.984603,-83.026371
+"Sunrise, FL",Sunrise,FL,8,26.19313,-80.276696
+"Minot, ND",Minot,ND,8,48.21183,-101.296308
+"La Jolla, CA",La Jolla,CA,16,32.865069,-117.232114
+"San Diego - Kearny Mesa Hazard Village, CA",San Diego,CA,12,32.832252,-117.128472
+"Colonie, NY",Colonie,NY,8,42.766414,-73.755044
+"Menlo Park - El Camino Real, CA",Menlo Park,CA,8,37.451958,-122.178079
+"Monterey - Fishermans Wharf, CA",Monterey,CA,16,36.601401,-121.89251
+"Plumas Lake, CA",Plumas Lake,CA,8,38.978078,-121.539066
+"Long Beach - E Anaheim St, CA",Long Beach,CA,16,33.782778,-118.182452
+"Cisco Grove, CA",Cisco Grove,CA,20,39.308967,-120.545004
+"Tustin - Irvine Blvd, CA",Tustin,CA,16,33.747336,-117.808773
+"Kodak, TN",Kodak,TN,12,35.981638,-83.6056
+"Roanoke, VA",Roanoke,VA,8,37.299379,-79.894214
+"Daleville, VA",Daleville,VA,8,37.410024,-79.914045
+"Wade, NC",Wade,NC,8,35.122319,-78.751481
+"Los Gatos - Los Gatos Blvd, CA",Los Gatos,CA,12,37.236386,-121.962442
+"San Antonio - W Loop 1604 N, TX",San Antonio,TX,16,29.503634,-98.69925
+"Kingsville - E Corral Ave, TX",Kingsville,TX,8,27.53086,-97.842375
+"Gainesville, VA",Gainesville,VA,8,38.79248,-77.622001
+"Las Vegas - S Fort Apache Rd, NV",Las Vegas,NV,8,36.093947,-115.29709
+"Laughlin, NV",Laughlin,NV,8,35.15031,-114.575664
+"San Diego - Village Way, CA",San Diego,CA,12,32.96304,-117.18984
+"Tofte, MN",Tofte,MN,8,47.564434,-90.855776
+"Thornton, NH",Thornton,NH,8,43.870733,-71.652514
+"Bangor - Broadway, ME",Bangor,ME,8,44.8248,-68.779208
+"Boulder City, NV",Boulder City,NV,8,36.009547,-114.782334
+"Ridgeland, SC",Ridgeland,SC,8,32.485474,-80.977876
+"Gretna, LA",Gretna,LA,8,29.887477,-90.032859
+"East Palo Alto - E Bayshore Rd, CA",East Palo Alto,CA,20,37.460392,-122.138404
+"Springfield - 6601 Springfield Mall, VA",Springfield,VA,20,38.77627,-77.175921
+"Sisters, OR",Sisters,OR,8,44.297162,-121.56292
+"Rancho Cucamonga - Haven Ave, CA",Rancho Cucamonga,CA,16,34.100473,-117.575552
+"Henderson - Paseo Verde Pkwy, NV",Henderson,NV,12,36.022754,-115.090142
+"Hamilton, TX",Hamilton,TX,8,31.706196,-98.122518
+"Kissimmee - E Irlo Bronson Memorial Hwy, FL",Kissimmee,FL,12,28.280288,-81.348103
+"Orlando - W Grant St, FL",Orlando,FL,16,28.516287,-81.379958
+"Independence - S Noland Rd, MO",Independence,MO,8,39.03651,-94.413785
+"Rosedale - 8731 Pulaski Hwy, MD",Rosedale,MD,8,39.33621,-76.481351
+"Cockeysville, MD",Cockeysville,MD,8,39.466015,-76.636285
+"Bossier City, LA",Bossier City,LA,12,32.558941,-93.708548
+"Morrisville, NC",Morrisville,NC,12,35.854875,-78.795217
+"Las Vegas - Arroyo Crossing Pkwy, NV",Las Vegas,NV,48,36.063861,-115.247515
+"Chino, CA",Chino,CA,38,34.027566,-117.688205
+"Alcoa, TN",Alcoa,TN,12,35.764789,-83.97211
+"Encino, NM",Encino,NM,8,34.996195,-105.378114
+"Moriarty, NM",Moriarty,NM,8,35.005233,-106.040409
+"Tucumcari - S 1st St, NM",Tucumcari,NM,8,35.154908,-103.72529
+"Covina, CA",Covina,CA,16,34.074003,-117.880695
+"Fort Pierce - Kings Hwy, FL",Fort Pierce,FL,8,27.446551,-80.399403
+"Hanover - Shipley Homestead Dr, MD",Hanover,MD,8,39.132463,-76.739539
+"Bonifay, FL",Bonifay,FL,8,30.760751,-85.685735
+"Luling, TX",Luling,TX,16,29.651054,-97.595174
+"Santa Clarita - Newhall Ranch Rd, CA",Santa Clarita,CA,24,34.441547,-118.577621
+"Bernalillo, NM",Bernalillo,NM,8,35.326303,-106.567036
+"Clovis, NM",Clovis,NM,8,34.440923,-103.196871
+"Grove City - London Groveport Rd, OH",Grove City,OH,12,39.837853,-83.079126
+"La Quinta - Washington St, CA",La Quinta,CA,8,33.678542,-116.296225
+"Jacksonville - River City Marketplace, FL",Jacksonville,FL,16,30.477032,-81.642532
+"El Paso - Eastlake Blvd, TX",El Paso,TX,20,31.688723,-106.264541
+"San Diego - Fenton Pkwy, CA",San Diego,CA,8,32.781473,-117.127532
+"Johnstown, CO",Johnstown,CO,20,40.334593,-104.984935
+"Irvine - Irvine Blvd, CA",Irvine,CA,8,33.713119,-117.760834
+"Yorba Linda - Yorba Linda Blvd, CA",Yorba Linda,CA,8,33.887945,-117.816673
+"Alameda - Marina Village Pkwy, CA",Alameda,CA,12,37.785415,-122.272415
+"Santa Clarita - Magic Mountain Pkwy, CA",Santa Clarita,CA,16,34.41895,-118.559089
+"Atlanta - Krog St NE, GA",Atlanta,GA,8,33.757056,-84.363381
+"Irvine - Spectrum Center Dr, CA",Irvine,CA,24,33.647749,-117.739207
+"Lake City - US-441, FL",Lake City,FL,8,29.995807,-82.599002
+"Austin - E Ben White Blvd, TX",Austin,TX,16,30.214939,-97.742076
+"Black River Falls, WI",Black River Falls,WI,11,44.294111,-90.826731
+"Burlington - 9400 Old Hwy 99 N, WA",Burlington,WA,12,48.509479,-122.337636
+"San Rafael - Northgate Dr, CA",San Rafael,CA,12,38.009266,-122.548661
+"Gainesville, TX",Gainesville,TX,8,33.635646,-97.154848
+"Miami Gardens, FL",Miami Gardens,FL,8,25.940624,-80.245513
+"Bellevue - NE 8th St, WA",Bellevue,WA,8,47.617714,-122.196617
+"Redlands - Alabama St, CA",Redlands,CA,20,34.07179,-117.210598
+"South Lake Tahoe - Harrison Ave, CA",South Lake Tahoe,CA,12,38.940414,-119.977858
+"Milpitas - 20 S Abbott Ave, CA",Milpitas,CA,8,37.427494,-121.9134
+"Milpitas - Dempsey Rd, CA",Milpitas,CA,11,37.415391,-121.878074
+"Orlando - Universal Blvd, FL",Orlando,FL,12,28.474481,-81.46149
+"West Palm Beach - 45th St, FL",West Palm Beach,FL,8,26.758121,-80.088922
+"Ocala - 49th St, FL",Ocala,FL,28,29.237539,-82.188467
+"Vandalia, IL",Vandalia,IL,8,38.978055,-89.099219
+"San Antonio - Broadway, TX",San Antonio,TX,16,29.432144,-98.48244
+"Naples - Premier Way, FL",Naples,FL,12,26.212685,-81.790775
+"Fairfield, TX",Fairfield,TX,12,31.725331,-96.17837
+"Hollywood, FL",Hollywood,FL,8,26.00982,-80.207831
+"Delray Beach - W Atlantic Ave, FL",Delray Beach,FL,8,26.45468,-80.161252
+"Miami - Blue Lagoon Dr, FL",Miami,FL,8,25.781403,-80.287682
+"Paso Robles - Riverside Ave, CA",Paso Robles,CA,8,35.626263,-120.68703
+"Atascadero - El Camino Real, CA",Atascadero,CA,8,35.527547,-120.703609
+"New Kent, VA",New Kent,VA,24,37.505449,-77.081874
+"Houston - Kipling Street, TX",Houston,TX,12,29.739757,-95.412036
+"Bristol - Euclid Ave, VA",Bristol,VA,8,36.60191,-82.191436
+"Springfield - N Mulroy Rd, MO",Springfield,MO,16,37.252772,-93.182327
+"Humble, TX",Humble,TX,12,29.984472,-95.299508
+"Austin - E SH-71, TX",Austin,TX,8,30.203577,-97.642507
+"Marina Del Rey - Admiralty Way, CA",Marina Del Rey,CA,10,33.981839,-118.44174
+"Alamosa, CO",Alamosa,CO,8,37.4673976,-105.8683603
+"Pearland, TX",Pearland,TX,12,29.580184,-95.392324
+"Bee Cave - Bee Cave Pkwy, TX",Bee Cave,TX,20,30.317337,-97.953102
+"Lantana, FL",Lantana,FL,12,26.587844,-80.064215
+"White Plains, NY",White Plains,NY,12,41.042806,-73.800899
+"Clark, NJ",Clark,NJ,12,40.627689,-74.301528
+"Indianapolis - Waterway Blvd, IN",Indianapolis,IN,16,39.784679,-86.184536
+"Kirkland, WA",Kirkland,WA,12,47.708072,-122.182989
+"Orlando - E Colonial Dr, FL",Orlando,FL,8,28.568833,-81.277982
+"Troutman, NC",Troutman,NC,12,35.676176,-80.85699
+"New Caney, TX",New Caney,TX,16,30.131229,-95.235042
+"Missoula - US-93 N, MT",Missoula,MT,12,46.955035,-114.131741
+"Encinitas (SC), CA",Encinitas,CA,8,33.046319,-117.262142
+"Livingston, TX",Livingston,TX,8,30.711715,-94.921292
+"Kalispell, MT",Kalispell,MT,12,48.241078,-114.326445
+"Bakersfield - Camino Del Rio Ct, CA",Bakersfield,CA,12,35.382675,-119.047533
+"Reno - S Virginia St, NV",Reno,NV,16,39.487507,-119.796682
+"Cleveland - W 150th St, OH",Cleveland,OH,12,41.43802,-81.800282
+"Dallas - N Westmoreland Rd, TX",Dallas,TX,8,32.770979,-96.873497
+"Aberdeen - N Philadelphia Blvd, MD",Aberdeen,MD,8,39.513592,-76.160226
+"Hollister - Airline Hwy, CA",Hollister,CA,20,36.837926,-121.391328
+"Kennesaw, GA",Kennesaw,GA,12,34.013116,-84.563224
+"Provincetown, MA",Provincetown,MA,12,42.062319,-70.162513
+"Fremont - Thornton Ave, CA",Fremont,CA,12,37.561924,-122.010274
+"Butte - Grizzly Trl, MT",Butte,MT,8,46.005253,-112.61086
+"Orlando - Eagle Watch Dr, FL",Orlando,FL,20,28.460949,-81.308287
+"Willowick, OH",Willowick,OH,12,41.637135,-81.475471
+"Half Moon Bay, CA",Half Moon Bay,CA,12,37.469394,-122.435001
+"Orlando - International Dr, FL",Orlando,FL,12,28.461636,-81.467433
+"Torrance - W Knox St, CA",Torrance,CA,32,33.854799,-118.299614
+"Early, TX",Early,TX,8,31.733201,-98.968053
+"Cedar Park - E Whitestone Blvd, TX",Cedar Park,TX,12,30.533253,-97.783577
+"Newport Beach, CA",Newport Beach,CA,12,33.665072,-117.864896
+"Mesa - Guadalupe Rd, AZ",Mesa,AZ,16,33.363445,-111.875334
+"Tallahassee - Thomasville Rd, FL",Tallahassee,FL,12,30.504341,-84.252123
+"San Antonio - Worth Pkwy, TX",San Antonio,TX,20,29.61331,-98.598076
+"Ontario - SE 10th St, OR",Ontario,OR,8,44.023099,-116.949487
+"Lawrence, MA",Lawrence,MA,8,42.687406,-71.14663
+"North Augusta, SC",North Augusta,SC,8,33.569471,-81.938767
+"Santo, TX",Santo,TX,12,32.61173,-98.109967
+"Chatsworth - Mason Ave, CA",Chatsworth,CA,20,34.248337,-118.580016
+"Northwood, OH",Northwood,OH,12,41.617518,-83.482021
+"Pollock Pines, CA",Pollock Pines,CA,12,38.759738,-120.530172
+"Fort Worth - Eastchase Pkwy, TX",Fort Worth,TX,16,32.762928,-97.16682
+"Oklahoma City - W Sheridan Ave, OK",Oklahoma City,OK,8,35.466015,-97.527568
+"Jacksonville - Sago Ave W, FL",Jacksonville,FL,12,30.461054,-81.63318
+"Capitola, CA",Capitola,CA,16,36.978527,-121.965848
+"Gardena, CA",Gardena,CA,20,33.873172,-118.300857
+"Bozeman - Max Ave, MT",Bozeman,MT,8,45.708506,-111.069261
+"McFarland, CA",McFarland,CA,8,35.599782,-119.209871
+"Scott, LA",Scott,LA,8,30.242833,-92.106083
+"Converse, TX",Converse,TX,12,29.46409,-98.289075
+"West Palm Beach - Okeechobee Blvd, FL",West Palm Beach,FL,12,26.706474,-80.080072
+"Oakland Park, FL",Oakland Park,FL,12,26.166146,-80.164885
+"Tehachapi, CA",Tehachapi,CA,40,35.125216,-118.406785
+"Chino - Central Ave, CA",Chino,CA,12,34.032585,-117.690184
+"Frederick - Ballenger Creek Pike, MD",Frederick,MD,8,39.392566,-77.438609
+"Timonium, MD",Timonium,MD,12,39.455973,-76.635703
+"Dover - Forest St, DE",Dover,DE,8,39.158384,-75.558542
+"Rancho Palos Verdes, CA",Rancho Palos Verdes,CA,24,33.756556,-118.312364
+"Annapolis, MD",Annapolis,MD,8,38.980071,-76.540498
+"Cherry Hill - Walt Whitman, NJ",Cherry Hill,NJ,8,39.885339,-75.002825
+"Mount Laurel - James Fenimore, NJ",Mount Laurel,NJ,8,39.980733,-74.887217
+"South San Francisco, CA",South San Francisco,CA,20,37.655243,-122.401321
+"Peachtree Corners, GA",Peachtree Corners,GA,12,33.978802,-84.214918
+"East Brunswick, NJ",East Brunswick,NJ,8,40.415973,-74.444706
+"Marietta - Roswell Rd, GA",Marietta,GA,8,33.986776,-84.421616
+"Hawthorne, CA",Hawthorne,CA,12,33.921068,-118.330054
+"Macon, GA",Macon,GA,8,32.8334275,-83.6255567
+"Highland Park (SC), IL",Highland Park,IL,4,42.17434,-87.816626
+"Beaver, UT",Beaver,UT,8,38.249149,-112.652524
+"Riviera Beach, FL",Riviera Beach,FL,8,26.7781155,-80.1091072
+"Nashville - Brentwood (SC), TN",Nashville,TN,6,35.969209,-86.804641
+"Warsaw - Hwy 24, NC",Warsaw,NC,6,34.994272,-78.136679
+"Buena Park (SC), CA",Buena Park,CA,8,33.863379,-117.99103
+"Joplin - Range Line Rd, MO",Joplin,MO,8,37.047552,-94.473399
+"National Harbor - National Plaza, MD",Oxon Hill,MD,12,38.785823,-77.015745
+"Alpharetta (SC), GA",Roswell,GA,2,34.067199,-84.318835
+"St. George - Convention Center Drive, UT",St. George,UT,4,37.077652,-113.583912
+"San Diego - Del Mar Heights Rd, CA",San Diego,CA,18,32.952645,-117.235974
+"Millersville, MD",Millersville,MD,8,39.110684,-76.631323
+"Decatur (SC), GA",Decatur,GA,4,33.793217,-84.285379
+"Salem - Apperson Dr, VA",Salem,VA,2,37.271756,-80.037063
+"Albert Lea, MN",Albert Lea,MN,4,43.68606,-93.357721
+"Las Vegas - W Flamingo Rd, NV",Las Vegas,NV,6,36.1206,-115.1873
+"Knoxville - Neyland Drive, TN",Knoxville,TN,4,35.959109,-83.916658
+"Moraine (SC), OH",Moraine,OH,2,39.710368,-84.20743
+"Grand Ave (SC), Chicago, IL",Chicago,IL,2,41.890732,-87.654125
+"Fort Myers (closed), FL",Fort Myers,FL,8,26.48564,-81.787136
+"Rogers (SC), MN",Rogers,MN,2,45.199393,-93.560314
+"Iowa, LA",Iowa,LA,8,30.247262,-93.010598
+"Blue Ash (SC), OH",Blue Ash,OH,8,39.224429,-84.383415
+"Burbank (SC), CA",Burbank,CA,6,34.174712,-118.300826
