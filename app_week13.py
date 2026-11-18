@@ -126,7 +126,7 @@ with tab_threshold:
             domain=["cancer, caught", "cancer, missed",
                     "false alarm", "healthy, cleared"],
             range=["steelblue", "red", "orange", "lightgray"]),
-        legend=alt.Legend(orient="top"))
+        legend=alt.Legend(orient="top", columns=2, labelLimit=300))
 
     dots = alt.Chart(tumors).mark_circle(size=70, opacity=0.8).encode(
         x=alt.X("p_malignant:Q", title="P(malignant) from the model",
@@ -142,17 +142,18 @@ with tab_threshold:
 
     # ---- the confusion matrix, oriented like the slide
     matrix = pd.DataFrame({
-        "actual": ["Actually malignant"] * 2 + ["Actually benign"] * 2,
-        "called": ["Called malignant", "Called benign"] * 2,
+        "actual": ["malignant"] * 2 + ["benign"] * 2,
+        "called": ["malignant", "benign"] * 2,
         "count": [caught, missed, alarms, cleared],
         "outcome": ["cancer, caught", "cancer, missed",
                     "false alarm", "healthy, cleared"],
     })
     cells = alt.Chart(matrix).encode(
-        x=alt.X("called:N", title=None, axis=alt.Axis(orient="top", labelAngle=0, labelLimit=200),
-                sort=["Called malignant", "Called benign"]),
-        y=alt.Y("actual:N", title=None, axis=alt.Axis(labelLimit=200),
-                sort=["Actually malignant", "Actually benign"]))
+        x=alt.X("called:N", title="Model called it",
+                axis=alt.Axis(orient="top", labelAngle=0, labelFontSize=13),
+                sort=["malignant", "benign"]),
+        y=alt.Y("actual:N", title="It actually is", axis=alt.Axis(labelFontSize=13),
+                sort=["malignant", "benign"]))
     matrix_chart = (
         cells.mark_rect(opacity=0.45).encode(color=outcome_color.legend(None))
         + cells.mark_text(fontSize=30, fontWeight="bold").encode(text="count:Q")
@@ -175,7 +176,7 @@ with tab_threshold:
         + here.mark_point(color="red", size=220, filled=True)
         + here.mark_text(align="left", dx=12, dy=12, fontSize=13).encode(
             text="label:N")
-    ).properties(height=220, title="Where this threshold sits on the ROC curve")
+    ).properties(height=220, title="This threshold on the ROC curve")
 
     left, right = st.columns([3, 2])
     with left:

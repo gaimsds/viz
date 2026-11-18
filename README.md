@@ -11,7 +11,7 @@ Streamlit Community Cloud and linked from the course site.
 | `demo_2_widgets_layout.py` | Week 5 — widgets, layout, state |
 | `app_compare_starter.py` | Week 2 — one question, two encodings |
 | `app_api_client_wk11.py` | Week 11 — consuming an API (USGS, the three checks, ttl, failure) · [live](https://pjqugqenlqeembwpd9ksvp.streamlit.app/) |
-| `app_week13.py` | Week 13 — the decision threshold on a tumor classifier; DBSCAN parameters on Supercharger sites |
+| `app_week13.py` | Week 13 — the decision threshold on a tumor classifier; DBSCAN parameters on Supercharger sites · [live](https://4mwpgqxcfgocszf5ticxfw.streamlit.app/) |
 | `streamlit_app.py` | the stock Streamlit geo example |
 
 ## requirements.txt is shared
